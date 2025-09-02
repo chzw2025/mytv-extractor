@@ -1,0 +1,34 @@
+name: Extract MyTV
+
+on:
+  workflow_dispatch:   # 手动触发
+  schedule:
+    - cron: "2 */2 * * *"   # 每2小时的整点+2分执行一次
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run extractor
+        run: |
+          python extract.py
+
+      - name: Commit results
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MyTV.m3u
+          git commit -m "Update MyTV.m3u" || echo "No changes"
+          git push
