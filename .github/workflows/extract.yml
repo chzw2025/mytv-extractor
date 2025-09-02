@@ -1,4 +1,4 @@
-name: Extract MyTV
+name: Extract MyTV Debug
 
 on:
   workflow_dispatch:   # 手动触发
@@ -6,7 +6,7 @@ on:
     - cron: "2 */2 * * *"   # 每2小时的整点+2分执行一次
 
 jobs:
-  run-script:
+  debug-fetch:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
@@ -18,18 +18,36 @@ jobs:
           python-version: "3.x"
 
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install requests
 
-      - name: Run extractor
-        run: python extract.py
+      - name: Debug fetch MyTV.m3u
+        run: |
+          python3 - <<'EOF'
+          import requests
+          URL = "https://tv-1.iill.top/m3u/MyTV"
+          OUTPUT = "MyTV.m3u"
+          try:
+              print(f"正在抓取 {URL} ...")
+              resp = requests.get(URL, timeout=15)
+              print("HTTP 状态码:", resp.status_code)
+              print("响应前200字符:", resp.text[:200])
+              if resp.status_code == 200:
+                  with open(OUTPUT, "w", encoding="utf-8") as f:
+                      f.write(resp.text)
+                  print(f"✅ 已生成 {OUTPUT}，共 {len(resp.text.splitlines())} 行")
+              else:
+                  print("⚠️ HTTP 状态码不是200，跳过生成文件")
+          except Exception as e:
+              print("❌ 抓取失败:", e)
+          EOF
 
-      - name: Commit and push MyTV.m3u
+      - name: Commit and push MyTV.m3u (if changed)
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if [ -f MyTV.m3u ]; then
             git add MyTV.m3u
-            git commit -m "Update MyTV.m3u" || echo "No changes to commit"
+            git commit -m "Update MyTV.m3u (debug)" || echo "No changes to commit"
             git push https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}.git
           else
             echo "MyTV.m3u not found, skipping commit."
