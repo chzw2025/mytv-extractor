@@ -1,11 +1,1 @@
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://amg01076-amg01076c9-mytvsuper-apac-7917.playouts.now.amagi.tv/playlist/amg01076-lightning-docsville-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-#EXTINF:-1 tvg-id="Pulse Documentaries" tvg-name="Pulse Documentaries" tvg-logo="https://epg.iill.top/logo/PulseDocumentaries.png" group-title="•國際頻道",Pulse Documentaries
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=
-https://amg01076-amg01076c8-mytvsuper-apac-7918.playouts.now.amagi.tv/playlist/amg01076-lightning-pulse-mytvsuperapac/playlist.m3u8?ads.did=&ads.dnt=0&ads.us_privacy=0&ads.app_domain=&ads.app_name=myTV%20SUPER
-#EXTINF:-1 tvg-id="NOW 70s" tvg-name="NOW 70s" tvg-logo="https://epg.iill.top/logo/NOW70s.png" group-title="•國際頻道",NOW 70s
-
