@@ -33,10 +33,13 @@ jobs:
           OUTPUT = "MyTV.m3u"
 
           headers = {
-              "User-Agent": "AndroidPlayer/1.0",   # 模拟安卓播放器
-              "Referer": "https://tv.iill.top/",
-              # 如果你之前本地有其他 header，请在这里加上
-          }
+           "User-Agent": "ExoPlayerDemo/1.0 (Linux;Android 12) ExoPlayerLib/2.17.1",
+           "Referer": "https://tv.iill.top/",
+           "Origin": "https://tv.iill.top",
+           "Accept": "*/*",
+           "Cache-Control": "no-cache",
+           "Pragma": "no-cache"
+            }
 
           try:
               print(f"正在抓取 {URL} ...")
