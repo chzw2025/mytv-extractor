@@ -26,7 +26,7 @@ jobs:
           pip install cloudscraper
 
       # 4️⃣ 抓取 MyTV.m3u（完整模拟机顶盒 + 绕 Cloudflare）
-      - name: Fetch MyTV.m3u
+           - name: Fetch MyTV.m3u
         run: |
           python3 - <<'EOF'
           import cloudscraper
@@ -34,7 +34,6 @@ jobs:
           URL = "https://tv.iill.top/m3u/MyTV"
           OUTPUT = "MyTV.m3u"
 
-          print("⚙️ 正在初始化 Cloudflare 绕过环境...")
           scraper = cloudscraper.create_scraper(
               browser={
                   'browser': 'chrome',
@@ -43,7 +42,6 @@ jobs:
               }
           )
 
-          # 完整模拟你服务器脚本的机顶盒 headers
           headers = {
               "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; U; CPU OS 4_3_3 like Mac OS X)",
               "Accept": "*/*",
@@ -53,21 +51,46 @@ jobs:
               "Host": "tv.iill.top"
           }
 
-          print(f"📡 正在抓取：{URL}")
+          print("📡 正在抓取 MyTV...")
           resp = scraper.get(URL, headers=headers, timeout=20)
 
           print("HTTP 状态:", resp.status_code)
           print("前200字符:", resp.text[:200])
 
           if resp.status_code == 200 and resp.text.startswith("#EXTM3U"):
+              raw = resp.text.splitlines()
+              filtered = []
+              skip_next = False
+
+              for line in raw:
+                  # 删除指定频道（EXTINF + 播放URL）
+                  if "302.mp4" in line or "301.mp4" in line:
+                      skip_next = False
+                      continue
+
+                  if "tvg-id=\"免費訂閲\"" in line:
+                      skip_next = True
+                      continue
+
+                  if skip_next:
+                      skip_next = False
+                      continue
+
+                  filtered.append(line)
+
+              final_content = "\n".join(filtered)
+
               with open(OUTPUT, "w", encoding="utf-8") as f:
-                  f.write(resp.text)
-              print("✅ 成功抓取并生成 MyTV.m3u")
+                  f.write(final_content)
+
+              print("🧹 已清理提示频道，保留行数:", len(filtered))
+
           else:
-              print("⚠️ 警告：返回内容异常，已保存 MyTV_error.html 用于调试")
+              print("⚠️ 内容异常，已生成 MyTV_error.html")
               with open("MyTV_error.html", "w", encoding="utf-8") as f:
                   f.write(resp.text)
           EOF
+
 
       # 5️⃣ 提交并推送 MyTV.m3u
       - name: Commit and push changes
