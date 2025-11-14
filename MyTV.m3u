@@ -1,8 +1,4 @@
 #EXTM3U url-tvg="https://epg.iill.top/epg.xml.gz"
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨提示",免費訂閲：請勿販賣...
-https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨提示",你需要一個支援 DASH 協議的播放器...
-https://epg.iill.top/v/301.mp4
 #EXTINF:-1 tvg-id="全運800台" tvg-name="全運800台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•全國運動會",全運800台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
