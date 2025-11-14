@@ -1,9 +1,9 @@
 name: Extract MyTV (Android Box Player)
 
 on:
-  workflow_dispatch:   # 手动触发
+  workflow_dispatch:
   schedule:
-    - cron: "2 */2 * * *"   # 每2小时整点+2分执行一次
+    - cron: "2 */2 * * *"
 
 jobs:
   fetch-mytv:
@@ -26,7 +26,7 @@ jobs:
           pip install cloudscraper
 
       # 4️⃣ 抓取 MyTV.m3u（完整模拟机顶盒 + 绕 Cloudflare）
-           - name: Fetch MyTV.m3u
+      - name: Fetch MyTV.m3u
         run: |
           python3 - <<'EOF'
           import cloudscraper
@@ -90,7 +90,6 @@ jobs:
               with open("MyTV_error.html", "w", encoding="utf-8") as f:
                   f.write(resp.text)
           EOF
-
 
       # 5️⃣ 提交并推送 MyTV.m3u
       - name: Commit and push changes
