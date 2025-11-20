@@ -1,0 +1,115 @@
+name: Extract All M3U Combined (Android Box Player)
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "5 */2 * * *"   # 每2小时第5分钟执行（避免与 MyTV 冲突）
+
+jobs:
+  fetch-all:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      - name: Install dependencies
+        run: |
+          pip install cloudscraper
+      - name: Fetch MyTV + Gather + Sport and Merge
+        run: |
+          python3 - <<'EOF'
+          import cloudscraper
+          # -----------------------------
+          # 公用函数：抓取 m3u
+          # -----------------------------
+          def fetch(url):
+              scraper = cloudscraper.create_scraper(
+                  browser={
+                      'browser': 'chrome',
+                      'platform': 'android',
+                      'mobile': True
+                  }
+              )
+              headers = {
+                  "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; U; CPU OS 4_3_3 like Mac OS X)",
+                  "Accept": "*/*",
+                  "Range": "bytes=0-",
+                  "Connection": "close",
+                  "Icy-MetaData": "1",
+                  "Host": "tv.iill.top"
+              }
+              print(f"\n📡 Fetching: {url}")
+              resp = scraper.get(url, headers=headers, timeout=20)
+              print("HTTP:", resp.status_code)
+              print("Preview:", resp.text[:200])
+              if resp.status_code == 200 and resp.text.startswith("#EXTM3U"):
+                  return resp.text
+              return None
+          # -----------------------------
+          # 1️⃣ MyTV（含清理）
+          # -----------------------------
+          mytv = fetch("https://tv.iill.top/m3u/MyTV")
+          if mytv:
+              lines = mytv.splitlines()
+              filtered = []
+              skip = False
+              for line in lines:
+                  if "302.mp4" in line or "301.mp4" in line:
+                      skip = False
+                      continue
+                  if 'tvg-id="免費訂閲"' in line:
+                      skip = True
+                      continue
+                  if skip:
+                      skip = False
+                      continue
+                  filtered.append(line)
+              mytv = "\n".join(filtered)
+              with open("MyTV.m3u", "w", encoding="utf-8") as f:
+                  f.write(mytv)
+              print("✔ MyTV.m3u saved")
+          # -----------------------------
+          # 2️⃣ Gather
+          # -----------------------------
+          gather = fetch("https://tv.iill.top/m3u/Gather")
+          if gather:
+              with open("Gather.m3u", "w", encoding="utf-8") as f:
+                  f.write(gather)
+              print("✔ Gather.m3u saved")
+          # -----------------------------
+          # 3️⃣ Sport
+          # -----------------------------
+          sport = fetch("https://tv.iill.top/m3u/Sport")
+          if sport:
+              with open("Sport.m3u", "w", encoding="utf-8") as f:
+                  f.write(sport)
+              print("✔ Sport.m3u saved")
+          # -----------------------------
+          # 4️⃣ 合并生成 yang.m3u
+          # -----------------------------
+          print("\n🔗 Merging into yang.m3u ...")
+          with open("yang.m3u", "w", encoding="utf-8") as out:
+              out.write("#EXTM3U\n")
+              for name in ["MyTV.m3u", "Gather.m3u", "Sport.m3u"]:
+                  try:
+                      with open(name, "r", encoding="utf-8") as f:
+                          out.write("\n" + f.read().strip() + "\n")
+                  except:
+                      print(f"⚠ {name} 文件不存在，跳过")
+          print("🎉 Done: yang.m3u generated")
+          EOF
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MyTV.m3u Gather.m3u Sport.m3u yang.m3u || true
+          git commit -m "Update All M3U (yang.m3u)" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
