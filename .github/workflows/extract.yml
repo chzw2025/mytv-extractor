@@ -1,1 +1,104 @@
+name: Extract MyTV (Android Box Player)
 
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "2 */2 * * *"
+
+jobs:
+  fetch-mytv:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1️⃣ 检出仓库
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      # 2️⃣ 设置 Python
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.x"
+
+      # 3️⃣ 安装依赖
+      - name: Install dependencies
+        run: |
+          pip install cloudscraper
+
+      # 4️⃣ 抓取 MyTV.m3u（完整模拟机顶盒 + 绕 Cloudflare）
+      - name: Fetch MyTV.m3u
+        run: |
+          python3 - <<'EOF'
+          import cloudscraper
+
+          URL = "https://tv.iill.top/m3u/MyTV"
+          OUTPUT = "MyTV.m3u"
+
+          scraper = cloudscraper.create_scraper(
+              browser={
+                  'browser': 'chrome',
+                  'platform': 'android',
+                  'mobile': True
+              }
+          )
+
+          headers = {
+              "User-Agent": "AppleCoreMedia/1.0.0.7B367 (iPad; U; CPU OS 4_3_3 like Mac OS X)",
+              "Accept": "*/*",
+              "Range": "bytes=0-",
+              "Connection": "close",
+              "Icy-MetaData": "1",
+              "Host": "tv.iill.top"
+          }
+
+          print("📡 正在抓取 MyTV...")
+          resp = scraper.get(URL, headers=headers, timeout=20)
+
+          print("HTTP 状态:", resp.status_code)
+          print("前200字符:", resp.text[:200])
+
+          if resp.status_code == 200 and resp.text.startswith("#EXTM3U"):
+              raw = resp.text.splitlines()
+              filtered = []
+              skip_next = False
+
+              for line in raw:
+                  # 删除指定频道（EXTINF + 播放URL）
+                  if "302.mp4" in line or "301.mp4" in line:
+                      skip_next = False
+                      continue
+
+                  if "tvg-id=\"免費訂閲\"" in line:
+                      skip_next = True
+                      continue
+
+                  if skip_next:
+                      skip_next = False
+                      continue
+
+                  filtered.append(line)
+
+              final_content = "\n".join(filtered)
+
+              with open(OUTPUT, "w", encoding="utf-8") as f:
+                  f.write(final_content)
+
+              print("🧹 已清理提示频道，保留行数:", len(filtered))
+
+          else:
+              print("⚠️ 内容异常，已生成 MyTV_error.html")
+              with open("MyTV_error.html", "w", encoding="utf-8") as f:
+                  f.write(resp.text)
+          EOF
+
+      # 5️⃣ 提交并推送 MyTV.m3u
+      - name: Commit and push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add MyTV.m3u || true
+          git add MyTV_error.html || true
+          git commit -m "Update MyTV.m3u via GitHub Actions" || echo "No changes to commit"
+          git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }}.git
