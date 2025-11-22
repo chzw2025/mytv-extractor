@@ -2,9 +2,9 @@
 
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",免費訂閲：請勿販賣...
 https://epg-1.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護時間：2025-7-24 #佛系維護...
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護時間：2025-11-22 #佛系維護...
 https://epg-1.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護内容：維護 Sport「增加 部分EPG / 補充節目」
+#EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",維護内容：維護 Sport「日常修復節目」
 https://epg-1.iill.top/v/302.mp4
 #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨提示",建議使用：APTV / Tivimate / Televizo / 影視 /...
 https://epg-1.iill.top/v/301.mp4
@@ -111,11 +111,6 @@ https://tv.iill.top/beesport/HBO|Referer=https://player.twinspeed.space/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
 https://tv.iill.top/beesport/HBO-2|Referer=https://player.twinspeed.space/
 
-#EXTINF:-1 tvg-id="ABC News Live" tvg-name="ABC News Live" tvg-logo="https://epg-1.iill.top/logo/ABC-News.png" group-title="•新聞資訊",ABC News
-#EXTVLCOPT:http-referrer=https://player.twinspeed.space/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
-https://tv.iill.top/beesport/ABC|Referer=https://player.twinspeed.space/
-
 #EXTINF:-1 tvg-id="BBC NEWS HD" tvg-name="BBC NEWS HD" tvg-logo="https://epg-1.iill.top/logo/BBC-News.png" group-title="•新聞資訊",BBC News
 #EXTVLCOPT:http-referrer=https://player.twinspeed.space/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
@@ -161,11 +156,6 @@ https://tv.iill.top/beesport/UK-Virgin-2|Referer=https://player.twinspeed.space/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
 https://tv.iill.top/beesport/UK-Virgin-3|Referer=https://player.twinspeed.space/
 
-#EXTINF:-1 tvg-id="Nat Geo Wild" tvg-name="Nat Geo Wild" tvg-logo="https://epg-1.iill.top/logo/National-Geographic-Wild.png" group-title="•探索自然",Nat Geo Wild
-#EXTVLCOPT:http-referrer=https://player.twinspeed.space/
-#KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
-https://tv.iill.top/beesport/Nat-Geo-Wild-HD|Referer=https://player.twinspeed.space/
-
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg-1.iill.top/logo/Discovery-Channel.png" group-title="•探索自然", Discovery Channel
 #EXTVLCOPT:http-referrer=https://player.twinspeed.space/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
@@ -206,7 +196,7 @@ https://tv.iill.top/beesport/UK-Cartoon-Network|Referer=https://player.twinspeed
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
 https://tv.iill.top/beesport/DAZN-TV|Referer=https://player.twinspeed.space/
 
-#EXTINF:-1 tvg-id="beIN Sport USA" tvg-name="beIN Sport USA" tvg-logo="https://epg-1.iill.top/logo/Bein-Sports-USA.png" group-title="•體育賽事", beIN Sport USA
+#EXTINF:-1 tvg-id="Bein Sport USA" tvg-name="Bein Sport USA" tvg-logo="https://epg-1.iill.top/logo/Bein-Sports-USA.png" group-title="•體育賽事", Bein Sport USA
 #EXTVLCOPT:http-referrer=https://player.twinspeed.space/
 #KODIPROP:inputstream.adaptive.stream_headers=Referer=https://player.twinspeed.space/
 https://tv.iill.top/beesport/Bein-Sports-USA|Referer=https://player.twinspeed.space/
