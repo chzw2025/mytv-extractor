@@ -5,417 +5,417 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0958b9c657622c465a6205eb2252b8ed:2d2fd7b1661b1e28de38268872b48480
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=cda67506eee4a7eb9b8503cbed7c6e8d&ext_start_limit=1765123862&int_start_limit=1765123862&ts=1765123862&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=104c71aea40de80151a571680ca5e223&ext_start_limit=1765210262&int_start_limit=1765210262&ts=1765210262&c=121779152
 #EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•熱門節目",翡翠台 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2c045f5adb26d391cc41cd01f00416fa:fc146771a9b096fc4cb57ffe769861be
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=a6786a08d2c708b43a86dac2785ecf3b&ext_start_limit=1765123862&int_start_limit=1765123862&ts=1765123862&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=1c3174a034d9d3e9761712de8c820818&ext_start_limit=1765210263&int_start_limit=1765210263&ts=1765210263&c=121779152
 #EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•熱門節目",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56603b65fa1d7383b6ef0e73b9ae69fa:5d9d8e957d2e45d8189a56fe8665aaaa
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=cf7beda68d1d4932a09bdebe6b29bfef&ext_start_limit=1765123862&int_start_limit=1765123862&ts=1765123862&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=7b1c4f48202f37688ed65b3f0632d345&ext_start_limit=1765210263&int_start_limit=1765210263&ts=1765210263&c=121779152
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•熱門節目",無綫新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=90a0bd01d9f6cbb39839cd9b68fc26bc:51546d1f2af0547f0e961995b60a32a1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=eccb2f559e16fecaa71b0c088d881440&ext_start_limit=1765123863&int_start_limit=1765123863&ts=1765123863&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=a356a41a2f9dff12e09923338c206f72&ext_start_limit=1765210264&int_start_limit=1765210264&ts=1765210264&c=121779152
 #EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•熱門節目",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e04facdd91354deee318c674993b74c1:8f97a629de680af93a652c3102b65898
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=f91c54dd31b88921e09aa2f1101abf98&ext_start_limit=1765123863&int_start_limit=1765123863&ts=1765123863&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=45a88faa7890729003491eac40333704&ext_start_limit=1765210264&int_start_limit=1765210264&ts=1765210264&c=121779152
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" group-title="•鳳凰衛視",鳳凰衛視中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bca0771ba9205edb5d467ce2fdf0162:eb19c7e3cea34dc90645e33f983b15ab
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=d51a2ac67a909e8c5159b2288e17e5a6&ext_start_limit=1765123864&int_start_limit=1765123864&ts=1765123864&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=e2ffeaffd35c076db4c221e703d53f75&ext_start_limit=1765210265&int_start_limit=1765210265&ts=1765210265&c=121779152
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" group-title="•鳳凰衛視",鳳凰衛視資訊台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=83f7d313adfc0a5b978b9efa0421ce25:ecdc8065a46287bfb58e9f765e4eec2b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=a548b5d6980580424b1a112473c00397&ext_start_limit=1765123864&int_start_limit=1765123864&ts=1765123864&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=04954dd5072cdee645b42d320632c4ef&ext_start_limit=1765210265&int_start_limit=1765210265&ts=1765210265&c=121779152
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" group-title="•鳳凰衛視",鳳凰衛視香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cde62e1056eb3615dab7a3efd83f5eb4:b8685fbecf772e64154630829cf330a3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=66ef98e857a68cf7fe1d67bacde5d80a&ext_start_limit=1765123864&int_start_limit=1765123864&ts=1765123864&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=3234d1b6c8a0b65dd06b48d3e719fb25&ext_start_limit=1765210266&int_start_limit=1765210266&ts=1765210266&c=121779152
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.iill.top/logo/娛樂新聞.png" group-title="•新聞財經",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6fa0e47750b5e2fb6adf9b9a0ac431a3:a256220e6c2beaa82f4ca5fba4ec1f95
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=38a744896a1e2300bda904d09dfa0fe6&ext_start_limit=1765123865&int_start_limit=1765123865&ts=1765123865&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=cac4ba590faa396db551e0620c5b3e00&ext_start_limit=1765210266&int_start_limit=1765210266&ts=1765210266&c=121779152
 #EXTINF:-1 tvg-id="SUPER FREE" tvg-name="SUPER FREE" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0737b75ee8906c00bb7bb8f666da72a0:15f515458cdb5107452f943a111cbe89
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=c9293b282a00775102ff41ebe7ffefaa&ext_start_limit=1765123866&int_start_limit=1765123866&ts=1765123866&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=a964ea9be9d14b1516e2c99cd732a0fa&ext_start_limit=1765210267&int_start_limit=1765210267&ts=1765210267&c=121779152
 #EXTINF:-1 tvg-id="黃金翡翠台" tvg-name="黃金翡翠台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8fe3db1a24969694ae3447f26473eb9f:5cce95833568b9e322f17c61387b306f
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=451e851a0a7497fe7264c81cf8bb0363&ext_start_limit=1765123866&int_start_limit=1765123866&ts=1765123866&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=96aee58eaf447748f6fdc4e0c0204597&ext_start_limit=1765210268&int_start_limit=1765210268&ts=1765210268&c=121779152
 #EXTINF:-1 tvg-id="千禧經典台" tvg-name="千禧經典台" tvg-logo="https://epg.iill.top/logo/千禧经典.png" group-title="•影視娛樂",千禧經典台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c308490b3198b62a988917253653692:660578b8966fe8012ad51b9aae7a5d78
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=4553a5e159303bfb24893d09e72a9eb5&ext_start_limit=1765123866&int_start_limit=1765123866&ts=1765123866&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVC_hevc/__op/cenc_m/__f/index.mpd?sig=de50da379101633d06336ed0263424e5&ext_start_limit=1765210268&int_start_limit=1765210268&ts=1765210268&c=121779152
 #EXTINF:-1 tvg-id="華語劇台" tvg-name="華語劇台" tvg-logo="https://epg.iill.top/logo/华语剧.png" group-title="•影視娛樂",華語劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=baae227b5fc06e2545868d4a1c9ced14:8cd460458b0bdecca5c12791b6409278
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=0b1af69b5bb8d48b6cad923ae82303cc&ext_start_limit=1765123867&int_start_limit=1765123867&ts=1765123867&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CDR3_hevc/__op/cenc_m/__f/index.mpd?sig=0cec2b712664bce428edc21dead3ab0e&ext_start_limit=1765210269&int_start_limit=1765210269&ts=1765210269&c=121779152
 #EXTINF:-1 tvg-id="粵語片台" tvg-name="粵語片台" tvg-logo="https://epg.iill.top/logo/粤语片.png" group-title="•影視娛樂",粵語片台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5b90da7fd2f018bf85a757241075626f:75c0897b4cf5ce154ddae86eddb79cd3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=100a4062a5c150ab0680cf36590750ea&ext_start_limit=1765123867&int_start_limit=1765123867&ts=1765123867&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCLM_hevc/__op/cenc_m/__f/index.mpd?sig=cf5787ebf01edd0e6e95a140c18cdea9&ext_start_limit=1765210269&int_start_limit=1765210269&ts=1765210269&c=121779152
 #EXTINF:-1 tvg-id="亞洲劇台" tvg-name="亞洲劇台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",亞洲劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=df5c0e617dffc3e3c44cb733dccb33c0:7d00ec9cd4f54d5baf94c03edc8cfe25
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=64681bdf69570f1de595e4498f59a60d&ext_start_limit=1765123870&int_start_limit=1765123870&ts=1765123870&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVS_hevc/__op/cenc_m/__f/index.mpd?sig=277056f0f3c91daf98fb2bab62340b19&ext_start_limit=1765210269&int_start_limit=1765210269&ts=1765210269&c=121779152
 #EXTINF:-1 tvg-id="黃金華劇台" tvg-name="黃金華劇台" tvg-logo="https://epg.iill.top/logo/黄金华剧.png" group-title="•影視娛樂",黃金華劇台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=acd93a5f665efd4feadb26f5ed48fd96:c6ce58ef9cce30638e0c2e9fc45a6dbd
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=d6fb0d1650a5dbf00550f7b9cb5a3d7d&ext_start_limit=1765123870&int_start_limit=1765123870&ts=1765123870&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_TVO_hevc/__op/cenc_m/__f/index.mpd?sig=bfe804cf89f80bbe7afdc6f661f26636&ext_start_limit=1765210270&int_start_limit=1765210270&ts=1765210270&c=121779152
 #EXTINF:-1 tvg-id="戲曲台" tvg-name="戲曲台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•影視娛樂",戲曲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c91c296ef6c46b3f2af1da257553bd17:d6e92d5e594f6f8e494a6e1c9df75298
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=c8bc8e639c05e86436a2fccc41fbd82e&ext_start_limit=1765123871&int_start_limit=1765123871&ts=1765123871&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCOC_hevc/__op/cenc_m/__f/index.mpd?sig=c20fcebaccf0d3b15710e68fb9452fba&ext_start_limit=1765210271&int_start_limit=1765210271&ts=1765210271&c=121779152
 #EXTINF:-1 tvg-id="美亞電影台" tvg-name="美亞電影台" tvg-logo="https://epg.iill.top/logo/美亞電影台.png" group-title="•影視娛樂",美亞電影台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d6f2afbd6b276312b0471a653828e1:ecbbb4a3ffa2200ae69058e20e71e91b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=77ca1db34edacba05f6422b81fd02fc3&ext_start_limit=1765123872&int_start_limit=1765123872&ts=1765123872&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMAM_hevc/__op/cenc_m/__f/index.mpd?sig=0ca78d5a7789e4c78b74c38378e0aa54&ext_start_limit=1765210272&int_start_limit=1765210272&ts=1765210272&c=121779152
 #EXTINF:-1 tvg-id="Thrill" tvg-name="Thrill" tvg-logo="https://epg.iill.top/logo/Thrill.png" group-title="•影視娛樂",Thrill
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b22355363ab2b09a6def54be0c89b9f2:4b196c2bf24b37e82a81031246de6efe
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=66281db84370d5848a32d44426b1c5e3&ext_start_limit=1765123872&int_start_limit=1765123872&ts=1765123872&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTHR_hevc/__op/cenc_m/__f/index.mpd?sig=932ce85c89f29fe58b0ca37a46ccb498&ext_start_limit=1765210272&int_start_limit=1765210272&ts=1765210272&c=121779152
 #EXTINF:-1 tvg-id="天映經典頻道" tvg-name="天映經典頻道" tvg-logo="https://epg.iill.top/logo/天映经典.png" group-title="•影視娛樂",天映經典頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=627b6ca150887912bec47ae4a9b85269:2bf49b2105d20544a6db89c0577b9802
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=b94f44fff29c6d96f464721fbce3380c&ext_start_limit=1765123873&int_start_limit=1765123873&ts=1765123873&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CCCM_hevc/__op/cenc_m/__f/index.mpd?sig=7683735d8a4b8fd9b41ada10be2e0193&ext_start_limit=1765210273&int_start_limit=1765210273&ts=1765210273&c=121779152
 #EXTINF:-1 tvg-id="中國電影頻道" tvg-name="中國電影頻道" tvg-logo="https://epg.iill.top/logo/ChinaMovie.png" group-title="•影視娛樂",中國電影頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=cabb16d20e71b512f24e9ece0cb09396:2d43505980a22014ee1a476880982308
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=d785d31441e51fc14667e8fd37dd4745&ext_start_limit=1765123873&int_start_limit=1765123873&ts=1765123873&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CMC_hevc/__op/cenc_m/__f/index.mpd?sig=c84017e43fe563b2336cc9a4aa1239f1&ext_start_limit=1765210274&int_start_limit=1765210274&ts=1765210274&c=121779152
 #EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/RockAction.png" group-title="•影視娛樂",ROCK Action
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=358eacad1f06e8e375493dabee96d865:461a02b2eb1232c6c100b95bd0bf40f8
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=fcb296ab42d0031246ac9468f1dea946&ext_start_limit=1765123873&int_start_limit=1765123873&ts=1765123873&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTX_hevc/__op/cenc_m/__f/index.mpd?sig=ca2fd2d4b26f528046991f599efddc1a&ext_start_limit=1765210274&int_start_limit=1765210274&ts=1765210274&c=121779152
 #EXTINF:-1 tvg-id="ROCK Extreme" tvg-name="ROCK Extreme" tvg-logo="https://epg.iill.top/logo/RockExtreme.png" group-title="•影視娛樂",ROCK Extreme
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=56e7f3bf6e1f142a3ac51b2ca83e7919:ba733df582f18b4b9c990a52d61d2fc6
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_RKEX_hevc/__op/cenc_m/__f/index.mpd?sig=b2d0d899f56c7c7731162ab3348f51af&ext_start_limit=1765123876&int_start_limit=1765123876&ts=1765123876&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_RKEX_hevc/__op/cenc_m/__f/index.mpd?sig=04119516a3279888fdd3c652d8774d3d&ext_start_limit=1765210275&int_start_limit=1765210275&ts=1765210275&c=121779152
 #EXTINF:-1 tvg-id="ROCK綜藝娛樂" tvg-name="ROCK綜藝娛樂" tvg-logo="https://epg.iill.top/logo/RockEntertainment.png" group-title="•影視娛樂",ROCK 綜藝娛樂
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=002d034731b6ac938ea7ba85bc3dc759:6694258c023d73492a10acb860bc6161
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=ea11e8d024d83d16cddef40845f2f36a&ext_start_limit=1765123877&int_start_limit=1765123877&ts=1765123877&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CRTE_hevc/__op/cenc_m/__f/index.mpd?sig=8f9701dcdba6fd4cb5ce57983cf84a94&ext_start_limit=1765210275&int_start_limit=1765210275&ts=1765210275&c=121779152
 #EXTINF:-1 tvg-id="KIX" tvg-name="KIX" tvg-logo="https://epg.iill.top/logo/Kix.png" group-title="•影視娛樂",KIX
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3b4a44c5ef3217c55a357ad976d328b2:f3355e5a30722e631031b851642c27f1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=b65e7b1c4a1f68497c21c0f9fbbbbb65&ext_start_limit=1765123877&int_start_limit=1765123877&ts=1765123877&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CKIX_hevc/__op/cenc_m/__f/index.mpd?sig=85980df023544b3b5d3bc767c7ad8229&ext_start_limit=1765210276&int_start_limit=1765210276&ts=1765210276&c=121779152
 #EXTINF:-1 tvg-id="Love Nature HD" tvg-name="Love Nature HD" tvg-logo="https://epg.iill.top/logo/LoveNature.png" group-title="•國際頻道",Love Nature
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=03fb0f439f942f50d06bf23a511bf4f8:bae7115da07195263e50ae5fc8bbe4f3
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=05be8da1c55a01844c1d3c565b101410&ext_start_limit=1765123877&int_start_limit=1765123877&ts=1765123877&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_LNH_hevc/__op/cenc_m/__f/index.mpd?sig=38e338da2f521f3a25e4ee5d2f9f3422&ext_start_limit=1765210277&int_start_limit=1765210277&ts=1765210277&c=121779152
 #EXTINF:-1 tvg-id="Love Nature 4K" tvg-name="Love Nature 4K" tvg-logo="https://epg.iill.top/logo/LoveNature4K.png" group-title="•國際頻道",Love Nature 4K
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=037c644cb92137ac5c8d653e952e4c8f:b3b2fcbe576a63cf3bbb9425da3de4cf
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=8467d235a8fdb2126c1f1372207fcd9e&ext_start_limit=1765123878&int_start_limit=1765123878&ts=1765123878&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_LN4_hevc/__op/cenc_m/__f/index.mpd?sig=5972131201dc594a447ee6582636959c&ext_start_limit=1765210277&int_start_limit=1765210277&ts=1765210277&c=121779152
 #EXTINF:-1 tvg-id="Global Trekker" tvg-name="Global Trekker" tvg-logo="https://epg.iill.top/logo/GlobalTrekker.png" group-title="•國際頻道",Global Trekker
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8f381c2a3114cc6c55f50b6ff0c78f3:86922e5993788488e1eca857c00d4fab
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=cfe2a51f25fc1f52e5e8ee500b0c97b2&ext_start_limit=1765123878&int_start_limit=1765123878&ts=1765123878&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SMS_hevc/__op/cenc_m/__f/index.mpd?sig=cd6703a5503cf5044df3619bc223b68c&ext_start_limit=1765210278&int_start_limit=1765210278&ts=1765210278&c=121779152
 #EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="https://epg.iill.top/logo/AXN.png" group-title="•影視娛樂",AXN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=20bea0e14af0d3dcb63d4126e8b50172:07382de357a2b0cceabe82e0b37cb8de
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=1fe6a97798ce018171d2d251ec46fbe9&ext_start_limit=1765123879&int_start_limit=1765123879&ts=1765123879&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CAXN_hevc/__op/cenc_m/__f/index.mpd?sig=a34a989fe2b1f395a311a92fa3effa61&ext_start_limit=1765210279&int_start_limit=1765210279&ts=1765210279&c=121779152
 #EXTINF:-1 tvg-id="Animax" tvg-name="Animax" tvg-logo="https://epg.iill.top/logo/Animax.png" group-title="•影視娛樂",Animax
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b1a073dbd8272b0c99940db624ce8d74:9fec26ff4c6774a8bde881e5cb0fe82e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=5727cb6bc277365c4f1365e500ca7f13&ext_start_limit=1765123879&int_start_limit=1765123879&ts=1765123879&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CANI_hevc/__op/cenc_m/__f/index.mpd?sig=292337a236a784f35d12ea2ef6add147&ext_start_limit=1765210279&int_start_limit=1765210279&ts=1765210279&c=121779152
 #EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="•影視娛樂",tvN
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adcab9e8e5644ff35f04e4035cc6ad3b:d8e879e108a96fde6537c1b679c369b5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=e3913af308590181dd2dbcf7fe5d5ce4&ext_start_limit=1765123880&int_start_limit=1765123880&ts=1765123880&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CJTV_hevc/__op/cenc_m/__f/index.mpd?sig=98299b8cd9dc6cf96e2fd5e9fcbdebb2&ext_start_limit=1765210280&int_start_limit=1765210280&ts=1765210280&c=121779152
 #EXTINF:-1 tvg-id="無線衛星亞洲台" tvg-name="無線衛星亞洲台" tvg-logo="https://epg.iill.top/logo/TVBS亚洲.png" group-title="•新聞財經",無線衛星亞洲台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ad7b06658e8a36a06def6b3550bde35c:b672f89570a630abb1d2abb5030e6303
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=f2c618c1f7313c8451e7581bee1f316c&ext_start_limit=1765123880&int_start_limit=1765123880&ts=1765123880&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTS1_hevc/__op/cenc_m/__f/index.mpd?sig=cf790a0a8b1adc1997ed75b276a2a456&ext_start_limit=1765210280&int_start_limit=1765210280&ts=1765210280&c=121779152
 #EXTINF:-1 tvg-id="創世電視" tvg-name="創世電視" tvg-logo="https://epg.iill.top/logo/创世电视.png" group-title="•新聞財經",創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adef00c5ba927d01642b1e6f3cedc9fb:b45d912fec43b5bbd418ea7ea1fbcb60
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=080c1e0f219171dacb0334e4993fbf42&ext_start_limit=1765123880&int_start_limit=1765123880&ts=1765123880&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=bd4579c3cea556a4d98b75c78dd310e7&ext_start_limit=1765210281&int_start_limit=1765210281&ts=1765210281&c=121779152
 #EXTINF:-1 tvg-id="FashionBox" tvg-name="FashionBox" tvg-logo="https://epg.iill.top/logo/FashionBox.png" group-title="•國際頻道",FashionBox
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4df52671ef55d2a7ac03db75e9bba2f7:4a3c16e8098c5021f32c7d4f66122477
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=75fb92231c80a32491fad15fc60fd02c&ext_start_limit=1765123881&int_start_limit=1765123881&ts=1765123881&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_FBX_hevc/__op/cenc_m/__f/index.mpd?sig=f9595e8146d8c00012fb578b5edf8c43&ext_start_limit=1765210282&int_start_limit=1765210282&ts=1765210282&c=121779152
 #EXTINF:-1 tvg-id="Mezzo Live HD" tvg-name="Mezzo Live HD" tvg-logo="https://epg.iill.top/logo/MezzoLive.png" group-title="•國際頻道",Mezzo Live HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e46f2747a9cf6822a608786bbc21d400:d8778fcf92c949e949a6700828f5f67e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=438955c341e26bad26f162ade8fd1c30&ext_start_limit=1765123881&int_start_limit=1765123881&ts=1765123881&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CMEZ_hevc/__op/cenc_m/__f/index.mpd?sig=932e070989b247d9834a3bcf8d06ebe5&ext_start_limit=1765210282&int_start_limit=1765210282&ts=1765210282&c=121779152
 #EXTINF:-1 tvg-id="PopC" tvg-name="PopC" tvg-logo="https://epg.iill.top/logo/PopC.png" group-title="•影視娛樂",PopC
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=221591babff135a71961d09399d2c922:c80ca4c7b801a76a07179dfb7debb57d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=b2d407650bb980ac598453c9efe7859d&ext_start_limit=1765123882&int_start_limit=1765123882&ts=1765123882&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_POPC_hevc/__op/cenc_m/__f/index.mpd?sig=0b36669088e09374620ed5312034f937&ext_start_limit=1765210283&int_start_limit=1765210283&ts=1765210283&c=121779152
 #EXTINF:-1 tvg-id="無線衛星新聞台" tvg-name="無線衛星新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="•新聞財經",無線衛星新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=73aaeb9e84db423627018017059e0f9d:34148a56250459383f7ef7369073bf39
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=4f8a1dfbb1dd47bcf61e804e3b7cf1e2&ext_start_limit=1765123882&int_start_limit=1765123882&ts=1765123882&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CTSN_hevc/__op/cenc_m/__f/index.mpd?sig=0ba2d9ca5ac806ed81eb8450a0b8a9f5&ext_start_limit=1765210284&int_start_limit=1765210284&ts=1765210284&c=121779152
 #EXTINF:-1 tvg-id="亞洲新聞台" tvg-name="亞洲新聞台" tvg-logo="https://epg.iill.top/logo/CNA.png" group-title="•新聞財經",亞洲新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ddc7bb2603628134334919a0d7327d1d:a5fcd8bb852371faedd13b684f5adede
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=b150f9464bd383635782061d61d0d71a&ext_start_limit=1765123883&int_start_limit=1765123883&ts=1765123883&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CCNA_hevc/__op/cenc_m/__f/index.mpd?sig=eed91302a805c3b3b8f613a5fe54b9a3&ext_start_limit=1765210284&int_start_limit=1765210284&ts=1765210284&c=121779152
 #EXTINF:-1 tvg-id="半島電視台英語頻道" tvg-name="半島電視台英語頻道" tvg-logo="https://epg.iill.top/logo/半岛电视台.png" group-title="•新聞財經",半島電視台英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=80c76105d3ae35dfe25f939d1fb83383:6d76e7ba039773bced47d78e6de4fcf0
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=d2802425d06da95bec99aab4e5e576aa&ext_start_limit=1765123883&int_start_limit=1765123883&ts=1765123883&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CJAZ_hevc/__op/cenc_m/__f/index.mpd?sig=dc2eca460aba706f1ac0c739c7301c1e&ext_start_limit=1765210285&int_start_limit=1765210285&ts=1765210285&c=121779152
 #EXTINF:-1 tvg-id="France 24" tvg-name="France 24" tvg-logo="https://epg.iill.top/logo/FRANCE24.png" group-title="•新聞財經",France 24
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2d4f6b8755a918d2126a2ee78791cf0b:c392acc1a1a070d2bcdf518d99d88406
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=852acdca51ff118ec9151225e02f848b&ext_start_limit=1765123883&int_start_limit=1765123883&ts=1765123883&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CF24_hevc/__op/cenc_m/__f/index.mpd?sig=63b10d9aab6b13b9bd3cd7cd92da52ff&ext_start_limit=1765210285&int_start_limit=1765210285&ts=1765210285&c=121779152
 #EXTINF:-1 tvg-id="DW" tvg-name="DW" tvg-logo="https://epg.iill.top/logo/DW.png" group-title="•新聞財經",DW
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2bb557c09dfc01a27ab81778913f2a10:d00ca6eb9a83ffde846324109fb445ba
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=8c751dbf1b7264dcae2c8ae06271f2cd&ext_start_limit=1765123884&int_start_limit=1765123884&ts=1765123884&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CDW1_hevc/__op/cenc_m/__f/index.mpd?sig=229766e6135c9cf1fcaccd816ffc3cd5&ext_start_limit=1765210286&int_start_limit=1765210286&ts=1765210286&c=121779152
 #EXTINF:-1 tvg-id="NHK World-Japan" tvg-name="NHK World-Japan" tvg-logo="https://epg.iill.top/logo/NHKWORLD.png" group-title="•新聞財經",NHK World-Japan
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c2ecde1c31185ab61ed4689b87ae332:54895a656e053a73b39882e7a56d642b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=bba4a8caa330d834a8741c092171ebaa&ext_start_limit=1765123884&int_start_limit=1765123884&ts=1765123884&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CNHK_hevc/__op/cenc_m/__f/index.mpd?sig=53a7c7f838413030eaa677e6f1cf422c&ext_start_limit=1765210286&int_start_limit=1765210286&ts=1765210286&c=121779152
 #EXTINF:-1 tvg-id="Arirang TV" tvg-name="Arirang TV" tvg-logo="https://epg.iill.top/logo/Arirang.png" group-title="•國際頻道",Arirang TV
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f3ae14e72f585eaf14b18d8d9515d43f:ce0e375c3966263877078aadd815742e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=42e934e7232dca360d7baf72177f2df3&ext_start_limit=1765123885&int_start_limit=1765123885&ts=1765123885&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CARI_hevc/__op/cenc_m/__f/index.mpd?sig=561ce52fbef8adbae638b035c22c2e80&ext_start_limit=1765210287&int_start_limit=1765210287&ts=1765210287&c=121779152
 #EXTINF:-1 tvg-id="SUPER Sports" tvg-name="SUPER Sports" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d57dc882191c22a9f8185ab7e9a629b:0d2b2edbea04dde8ff880d20e20261ad
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=2e885da322ed4ca0f4b9a24ce36546b7&ext_start_limit=1765123885&int_start_limit=1765123885&ts=1765123885&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=bfc53a6a297d8858d3e11cf655129f8b&ext_start_limit=1765210287&int_start_limit=1765210287&ts=1765210287&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER 18台" tvg-name="myTV SUPER 18台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 18台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=72de7d0a1850c8d40c5bdf9747a4ca7c:4967537ff0bc8209277160759de4adef
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=9de7f914d5694eaec41bbf176c88169e&ext_start_limit=1765123885&int_start_limit=1765123885&ts=1765123885&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C18_hevc/__op/cenc_m/__f/index.mpd?sig=072964fbc582939987c86e0ab60d3b61&ext_start_limit=1765210288&int_start_limit=1765210288&ts=1765210288&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球2台" tvg-name="myTV SUPER直播足球2台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球2台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=024f2733fb9afad23490149c601ce47c:034db34d56263c79c7f41448f2a6cfc1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT2_hevc/__op/cenc_m/__f/index.mpd?sig=7d69858d36ad4ff4291b4171e9e2d307&ext_start_limit=1765123886&int_start_limit=1765123886&ts=1765123886&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT2_hevc/__op/cenc_m/__f/index.mpd?sig=c752615ca3e92db4a311055bbc970f1c&ext_start_limit=1765210289&int_start_limit=1765210289&ts=1765210289&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球3台" tvg-name="myTV SUPER直播足球3台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球3台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=84f456002b780253dab5534e9713323c:65aeb769264f41037cec607813e91bae
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=97161c415e2b8ba330cf290bac01ca9b&ext_start_limit=1765123887&int_start_limit=1765123887&ts=1765123887&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT3_hevc/__op/cenc_m/__f/index.mpd?sig=f42ab5b81344d63eb64563da2449629f&ext_start_limit=1765210289&int_start_limit=1765210289&ts=1765210289&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球4台" tvg-name="myTV SUPER直播足球4台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER直播足球4台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=848d6d82c14ffd12adf4a7b49afdc978:3221125831a2f980139c34b35def3b0d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=ba0529dbc2533bb950200e34fece0bd4&ext_start_limit=1765123887&int_start_limit=1765123887&ts=1765123887&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT4_hevc/__op/cenc_m/__f/index.mpd?sig=3181ea8c315876f46b55c25d2f8a7f44&ext_start_limit=1765210290&int_start_limit=1765210290&ts=1765210290&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球5台" tvg-name="myTV SUPER直播足球5台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球5台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=54700d7a381b80ae395a312e03a9abeb:7c68d289628867bf691b42e90a50d349
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=feed674a8ca6eeecc10d16c74d4e3b6d&ext_start_limit=1765123887&int_start_limit=1765123887&ts=1765123887&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT5_hevc/__op/cenc_m/__f/index.mpd?sig=f408740c903374011c1a2f36b6b724ac&ext_start_limit=1765210290&int_start_limit=1765210290&ts=1765210290&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球6台" tvg-name="myTV SUPER直播足球6台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球6台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e069fc056280e4caa7d0ffb99024c05a:d3693103f232f28b4781bbc7e499c43a
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=992d14671e6f8b00ca57106a05576dc5&ext_start_limit=1765123888&int_start_limit=1765123888&ts=1765123888&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_EVT6_hevc/__op/cenc_m/__f/index.mpd?sig=e914a1f3333a38bc06b8c36ae61c9c4b&ext_start_limit=1765210291&int_start_limit=1765210291&ts=1765210291&c=121779152
 #EXTINF:-1 tvg-id="myTV SUPER直播足球7台" tvg-name="myTV SUPER直播足球7台" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",myTV SUPER 直播足球7台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69a81a757b16a3d431d4365d81f07f07:292f2fdc2002e8346cd2c18af4a3a4bc
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=2b472df3a2accd7c5f4b1659fce312ae&ext_start_limit=1765123888&int_start_limit=1765123888&ts=1765123888&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_EVT7_hevc/__op/cenc_m/__f/index.mpd?sig=6cbd7e8884ef9abdb3d773324e3f3c53&ext_start_limit=1765210291&int_start_limit=1765210291&ts=1765210291&c=121779152
 #EXTINF:-1 tvg-id="互動窗 1" tvg-name="互動窗 1" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f07372db27b162d69adf9aa612ae3364:da1631a2b2a836c5b7a3d044a18a4f16
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=c9acb4493b2cd84f0a14c1a9faa7a17b&ext_start_limit=1765123889&int_start_limit=1765123889&ts=1765123889&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=226408ce71329e87a19ac48c6e1db896&ext_start_limit=1765210292&int_start_limit=1765210292&ts=1765210292&c=121779152
 #EXTINF:-1 tvg-id="互動窗 2" tvg-name="互動窗 2" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•體育賽事",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1ba88eacde780c7567255b8b33026ae5:f7df792aab8992b79d72a8d01987ecb5
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=8cf7cd897ec4d9ec12be41b96e2b88a6&ext_start_limit=1765123889&int_start_limit=1765123889&ts=1765123889&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=f909d2bb224ef6a77d0b0efea9c2d787&ext_start_limit=1765210292&int_start_limit=1765210292&ts=1765210292&c=121779152
 #EXTINF:-1 tvg-id="SUPER Kids Channel" tvg-name="SUPER Kids Channel" tvg-logo="https://epg.iill.top/logo/SUPERKidsChannel.png" group-title="•少兒天地",SUPER Kids Channel
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=42527ca90ad525ba2eac9979c93d3bca:b730006ad1da48b412ceb1f9e36a833d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=4dfe905953f007ae6e0b3d6198d6675b&ext_start_limit=1765123890&int_start_limit=1765123890&ts=1765123890&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_KID_hevc/__op/cenc_m/__f/index.mpd?sig=e1e2d40023245b27af3cc36091510889&ext_start_limit=1765210293&int_start_limit=1765210293&ts=1765210293&c=121779152
 #EXTINF:-1 tvg-id="ZooMoo" tvg-name="ZooMoo" tvg-logo="https://epg.iill.top/logo/ZooMoo.png" group-title="•少兒天地",ZooMoo
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9c302eb50bef5a9589d97cb90982b05e:2603e646caafe22bc4e8a17b5a2dd55b
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=4d6a5b7ae5994581b497285b8350ab9a&ext_start_limit=1765123890&int_start_limit=1765123890&ts=1765123890&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_ZOO_hevc/__op/cenc_m/__f/index.mpd?sig=19ed587b2fffee32316940b7c07a1a0c&ext_start_limit=1765210294&int_start_limit=1765210294&ts=1765210294&c=121779152
 #EXTINF:-1 tvg-id="Nickelodeon" tvg-name="Nickelodeon" tvg-logo="https://epg.iill.top/logo/Nickelodeon.png" group-title="•少兒天地",Nickelodeon
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e69430290ed7b00af4db78419dcad8b:e4769b57a66e8e9737d6d86f317600c0
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=9e5cd90b58b622344ff020157dc8aa38&ext_start_limit=1765123890&int_start_limit=1765123890&ts=1765123890&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIKO_hevc/__op/cenc_m/__f/index.mpd?sig=0b5f4108be96193e88075d4e5ccd09c3&ext_start_limit=1765210295&int_start_limit=1765210295&ts=1765210295&c=121779152
 #EXTINF:-1 tvg-id="Nick Jr" tvg-name="Nick Jr" tvg-logo="https://epg.iill.top/logo/Nickjr.png" group-title="•少兒天地",Nick Jr.
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9f1385d2a12a67b572b9d968eb850337:3086bcd49a909606a8686858c05c7e33
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=bac5a835413a6f3eb2d5466d398e49d1&ext_start_limit=1765123891&int_start_limit=1765123891&ts=1765123891&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CNIJR_hevc/__op/cenc_m/__f/index.mpd?sig=2d0e6b588777c1e316f5f84881b05b06&ext_start_limit=1765210295&int_start_limit=1765210295&ts=1765210295&c=121779152
 #EXTINF:-1 tvg-id="SUPER獎門人" tvg-name="SUPER獎門人" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=977869c9cd6aa804921a2e20724b9e6c:16f76fa19ae5199c920de5cfc1a6ca1e
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=ab9f64efe47d86bdc6a01514f0498d13&ext_start_limit=1765123891&int_start_limit=1765123891&ts=1765123891&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=f9b8949fdc55654738441f32bae66493&ext_start_limit=1765210296&int_start_limit=1765210296&ts=1765210296&c=121779152
 #EXTINF:-1 tvg-id="SUPER EYT" tvg-name="SUPER EYT" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c83f061a8685a0071fc62c65b6ab7af3:b8cf98951b940dca9174230430faf10d
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=cd0529f88fc7e57dadc74dc023aedf95&ext_start_limit=1765123892&int_start_limit=1765123892&ts=1765123892&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=7c64b7275187540486cb10233a762593&ext_start_limit=1765210297&int_start_limit=1765210297&ts=1765210297&c=121779152
 #EXTINF:-1 tvg-id="SUPER識食" tvg-name="SUPER識食" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=2370118ce3d6fafe17502b0176abf9ae:357c7b5a9d01c25d8e30e46cc396de08
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=3f63f9ec0680d34dd33ddd20456513c3&ext_start_limit=1765123892&int_start_limit=1765123892&ts=1765123892&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=d07253a5ec8ec3914edd5ac5fa6762b6&ext_start_limit=1765210298&int_start_limit=1765210298&ts=1765210298&c=121779152
 #EXTINF:-1 tvg-id="SUPER識嘆" tvg-name="SUPER識嘆" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=206a559933b51efbba226fe939040d68:c671ac5afccd7f2d26839e6d9b91d130
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=8e92ad1dca9a78eb549e8a741f3f37ca&ext_start_limit=1765123892&int_start_limit=1765123892&ts=1765123892&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=022079168f9435609ab7872534552c42&ext_start_limit=1765210298&int_start_limit=1765210298&ts=1765210298&c=121779152
 #EXTINF:-1 tvg-id="SUPER Music" tvg-name="SUPER Music" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0d321fc47b49372df79500c8b7a5e9fc:0c4be4e8f7ccedced7de0b7434493be4
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=3cd4ba901a792496d7e79556d55c6136&ext_start_limit=1765123893&int_start_limit=1765123893&ts=1765123893&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=d920d674fb9f27531912f14d3c076b3a&ext_start_limit=1765210299&int_start_limit=1765210299&ts=1765210299&c=121779152
 #EXTINF:-1 tvg-id="SUPER金曲" tvg-name="SUPER金曲" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d841bf650caca3bf4441a536ae8580d5:c401a71b63dfa7bab1be378605973c2c
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=7e2f144ed28522d46cc26dd914b900f2&ext_start_limit=1765123893&int_start_limit=1765123893&ts=1765123893&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=15a18db69a37e5a57502965cdcb02ed8&ext_start_limit=1765210300&int_start_limit=1765210300&ts=1765210300&c=121779152
 #EXTINF:-1 tvg-id="SUPER煲劇" tvg-name="SUPER煲劇" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=203638a2e2fd4786190a58393640de54:97e1ec12dda5ee64561e072d9825e3b0
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=db1f6b7a262c6df1406b29d374685249&ext_start_limit=1765123893&int_start_limit=1765123893&ts=1765123893&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=592eefa2a158114ecf9e8cc37bbed148&ext_start_limit=1765210301&int_start_limit=1765210301&ts=1765210301&c=121779152
 #EXTINF:-1 tvg-id="SUPER單元劇" tvg-name="SUPER單元劇" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",SUPER 單元劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b6c020768505fa6c7910726b8ca302f0:4b5cba6d27559e6f28a232791f068824
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=4a8617c2597b6c21a205b051fb56f64a&ext_start_limit=1765123894&int_start_limit=1765123894&ts=1765123894&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=d15a9665e53cc6e8d6390833b35a0623&ext_start_limit=1765210301&int_start_limit=1765210301&ts=1765210301&c=121779152
 #EXTINF:-1 tvg-id="真情SUPER煲" tvg-name="真情SUPER煲" tvg-logo="https://epg.iill.top/logo/MytvSuper.png" group-title="•經典回顧",真情SUPER煲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=248ed59a4671da39b3bb71f860760b91:b0bd7d1495e3df963ae21790551094e1
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=21a89581f91bcccbed7f058cb431a02d&ext_start_limit=1765123894&int_start_limit=1765123894&ts=1765123894&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=816e3eece7d5de65f70d630a6392fdc8&ext_start_limit=1765210302&int_start_limit=1765210302&ts=1765210302&c=121779152
 #EXTINF:-1 tvg-id="中央電視台綜合頻道 (港澳版)" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•CCTV系列",中央電視台 綜合頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e50b18fee7cab76b9f2822e2ade8773a:2e2e8602b6d835ccf10ee56a9a7d91a2
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=37ab8e40d7d550f1cab18cca191e03d4&ext_start_limit=1765123895&int_start_limit=1765123895&ts=1765123895&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=b070981c3a5d3546c3eaf9d06f98a708&ext_start_limit=1765210303&int_start_limit=1765210303&ts=1765210303&c=121779152
 #EXTINF:-1 tvg-id="中國中央電視台中文國際頻道" tvg-name="中國中央電視台中文國際頻道" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•CCTV系列",中央電視台 中文國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9b2762e6912e2f37a1cad1df9af6dc6e:f4edc1240a3e852661c0607db463a6dd
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=88f46927b651bc83a451bd80443b2b7f&ext_start_limit=1765123895&int_start_limit=1765123895&ts=1765123895&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=a73ba09b2ffa2a5418b144b05fbc61f9&ext_start_limit=1765210303&int_start_limit=1765210303&ts=1765210303&c=121779152
 #EXTINF:-1 tvg-id="中國中央電視台娛樂頻道" tvg-name="中國中央電視台娛樂頻道" tvg-logo="https://epg.iill.top/logo/CCTV娱乐.png" group-title="•CCTV系列",中央電視台 娛樂頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e173591f7ab25dbc47f6c05abcbb92c7:21c5e4987d1e255d0e171280ad13d815
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=2e8399ce4554dbc02d56abf0bc1abc5d&ext_start_limit=1765123895&int_start_limit=1765123895&ts=1765123895&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=278593ce4454f3a5901b8189830541ec&ext_start_limit=1765210304&int_start_limit=1765210304&ts=1765210304&c=121779152
 #EXTINF:-1 tvg-id="中國中央電視台戲曲頻道" tvg-name="中國中央電視台戲曲頻道" tvg-logo="https://epg.iill.top/logo/CCTV戏曲.png" group-title="•CCTV系列",中央電視台 戲曲頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=310ee76e894b8361fefdedf5c7b50983:f113fcca4a982e53ba2fc31e7fbf6e2c
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=99338516e42369fe3a52076600657902&ext_start_limit=1765123896&int_start_limit=1765123896&ts=1765123896&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=509ec8aafb33f9b1f67c707452bab838&ext_start_limit=1765210305&int_start_limit=1765210305&ts=1765210305&c=121779152
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)記錄頻道" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="•CCTV系列",CGTN 記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b570ae67cb063428b158eb2f91c6d77c:c573dabca79a17f81755c0d4b33384bc
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=08358cca46806d27e5d17e4b4256c89f&ext_start_limit=1765123896&int_start_limit=1765123896&ts=1765123896&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=d2dc1c483732b08721beb4ba581ab3fc&ext_start_limit=1765210305&int_start_limit=1765210305&ts=1765210305&c=121779152
 #EXTINF:-1 tvg-id="CGTN (中國環球電視網)英語頻道" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="•CCTV系列",CGTN 英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4331903278b673916cc6940a8b8d9e7e:02a409115819de9acd9e907b053e3aa8
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=0a6f5202efac3c9d068fa5f789c69a14&ext_start_limit=1765123896&int_start_limit=1765123896&ts=1765123896&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=90baa5b7a3006e5735a9a239b3f28c28&ext_start_limit=1765210306&int_start_limit=1765210306&ts=1765210306&c=121779152
 #EXTINF:-1 tvg-id="雲南瀾湄國際衛視" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://epg.iill.top/logo/澜湄国际.png" group-title="•省級衛視",雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7ec2be4ec767b0a7b23bb9d665c39dab:738f330e2e319ee51ebcb8f2d0614f0a
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=c1999577e382c2fa920d470fab34a26c&ext_start_limit=1765123897&int_start_limit=1765123897&ts=1765123897&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=b5f56566f388bca46303d3abfbb85989&ext_start_limit=1765210306&int_start_limit=1765210306&ts=1765210306&c=121779152
 #EXTINF:-1 tvg-id="東方衛視國際頻道" tvg-name="東方衛視國際頻道" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•省級衛視",東方衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d6a139158dd1fcd807d1cfc8667e965:f643ba9204ebba7a5ffd3970cfbc794c
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=8d9d000ba15ae8c20a50ed1a5d028fe0&ext_start_limit=1765123897&int_start_limit=1765123897&ts=1765123897&c=121779152
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=44e27503b494da3e4365aa0f6fe028b9&ext_start_limit=1765210307&int_start_limit=1765210307&ts=1765210307&c=121779152
 #EXTINF:-1 tvg-id="安徽廣播電視台國際頻道" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://epg.iill.top/logo/安徽卫视.png" group-title="•省級衛視",安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=460151d2b91a7504c6e7fcdc2e5b3ccc:a2900973ab6de674a8535fd1627f8cce
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=0eed255f82e54aeace87c6a26c8e54e1&ext_start_limit=1765123898&int_start_limit=1765123898&ts=1765123898&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=3afb6f554cec1347c0b81da584ec2583&ext_start_limit=1765210308&int_start_limit=1765210308&ts=1765210308&c=121779152
 #EXTINF:-1 tvg-id="北京電視台國際頻道" tvg-name="北京電視台國際頻道" tvg-logo="https://epg.iill.top/logo/北京卫视.png" group-title="•省級衛視",北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a8965a188153cee562c067ba66b0f0fb:c373bfab2e75b979beefbb6b370bcdc2
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=6ed8ea862827c54313057be17619d30c&ext_start_limit=1765123898&int_start_limit=1765123898&ts=1765123898&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=0f366498d5c8e2240c01d19bc2584d46&ext_start_limit=1765210308&int_start_limit=1765210308&ts=1765210308&c=121779152
 #EXTINF:-1 tvg-id="廣西電視台國際頻道" tvg-name="廣西電視台國際頻道" tvg-logo="https://epg.iill.top/logo/广西卫视.png" group-title="•省級衛視",廣西電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5d541db8252789f10a05d4b26325532:0b2fb5ab1b5c9df031e7086147a0f853
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=c8d7f2aac7c38da36609d0604c300445&ext_start_limit=1765123898&int_start_limit=1765123898&ts=1765123898&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=4ec483eed0587a046dc6f97c8a663152&ext_start_limit=1765210309&int_start_limit=1765210309&ts=1765210309&c=121779152
 #EXTINF:-1 tvg-id="福建海峽衛視國際頻道" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="•省級衛視",福建海峽衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3d5e3a2fd144c5f196cbcb9d037b417d:7be2fcb0ee5efe52ff95b0866f183abb
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=2d63856b18bf40e095b0eeac5c06799d&ext_start_limit=1765123899&int_start_limit=1765123899&ts=1765123899&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=a3cdd9e95f6e313ad312c1d897fc0739&ext_start_limit=1765210309&int_start_limit=1765210309&ts=1765210309&c=121779152
 #EXTINF:-1 tvg-id="湖南電視台國際頻道" tvg-name="湖南電視台國際頻道" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•省級衛視",湖南電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a43885f5c495e3ce5b1162ecb5c35c03:e506caf7a71025850e8823c07a1b29dc
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=6e28874c1dbaffe1be086146ee47d646&ext_start_limit=1765123899&int_start_limit=1765123899&ts=1765123899&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=3dda3df69ce6f85613cea07dda1edd22&ext_start_limit=1765210310&int_start_limit=1765210310&ts=1765210310&c=121779152
 #EXTINF:-1 tvg-id="江蘇電視台國際頻道" tvg-name="江蘇電視台國際頻道" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•省級衛視",江蘇電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5287fd241995f7b097597c4349bea5b5:23398eb21eee12ddb9a9df1dd6373687
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=d42a2895a38ffa9b1ab62511f64f002c&ext_start_limit=1765123900&int_start_limit=1765123900&ts=1765123900&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=35ae10b941386a419447a7329ccb656f&ext_start_limit=1765210310&int_start_limit=1765210310&ts=1765210310&c=121779152
 #EXTINF:-1 tvg-id="廣東廣播電視台大灣區衛視頻道" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•省級衛視",廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=25049a9d742e24329e009d2a8a02b4bd:914a1b9442ba239aaa5a8f63c6e10f83
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=43733605b5b8441621ed4b1b8890db99&ext_start_limit=1765123900&int_start_limit=1765123900&ts=1765123900&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=424bb6f56d4edb96ac02fa6a62c0915d&ext_start_limit=1765210311&int_start_limit=1765210311&ts=1765210311&c=121779152
 #EXTINF:-1 tvg-id="浙江電視台國際頻道" tvg-name="浙江電視台國際頻道" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•省級衛視",浙江電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8799940a2a97f5eb997753983be48fe5:53c4b68330f10e5507d3c0647703031e
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=a671149787c89efc2bbc5b69503bd0ea&ext_start_limit=1765123900&int_start_limit=1765123900&ts=1765123900&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=cd9b32a822f89cd561ac5ef2802c029c&ext_start_limit=1765210311&int_start_limit=1765210311&ts=1765210311&c=121779152
 #EXTINF:-1 tvg-id="深圳衛視國際頻道" tvg-name="深圳衛視國際頻道" tvg-logo="https://epg.iill.top/logo/深圳卫视.png" group-title="•省級衛視",深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a265a47191734322dc32596c771887cc:5d19d055e814b3fcc521afe772ecf110
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=538f5c9956a982c80965a9a468d9219e&ext_start_limit=1765123901&int_start_limit=1765123901&ts=1765123901&c=121779152
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=39dffc49ce9aaa2b0b244cf46e6d9d06&ext_start_limit=1765210312&int_start_limit=1765210312&ts=1765210312&c=121779152
 #EXTINF:-1 tvg-id="Action Hollywood Movies" tvg-name="Action Hollywood Movies" tvg-logo="https://epg.iill.top/logo/ActionHollywoodMovies.png" group-title="•影視娛樂",Action Hollywood Movies
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -626,548 +626,392 @@ https://tv.iill.top/migu/xdll
 https://tv.iill.top/migu/qtj
 
 #INSERT_HERE
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」00:00 联赛 南特 vs 朗斯 [李永熙]
-https://tv.iill.top/FB/2qai9u
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」00:00 联赛 南特 vs 朗斯 [赛场原声]
-https://tv.iill.top/FB/gikVFU
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」01:00 联赛 国际米兰 vs 科莫 [刘腾 王宇]
-https://tv.iill.top/FB/qfFug8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」01:00 联赛 国际米兰 vs 科莫 [赛场原声]
-https://tv.iill.top/FB/8IeMoP
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」01:15 第二轮 萨顿联 vs 施鲁斯伯里 [郭灿亮]
-https://tv.iill.top/FB/U0axhG
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」01:15 第二轮 萨顿联 vs 施鲁斯伯里 [赛场原声]
-https://tv.iill.top/FB/tptUHp
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」01:30 联赛 利兹联 vs 利物浦 [詹俊 张路 李子琪]
-https://tv.iill.top/FB/bw4bjj
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」01:30 联赛 利兹联 vs 利物浦 [陈凯冬 何辉]
-https://tv.iill.top/FB/qeTbxv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」01:30 联赛 利兹联 vs 利物浦 [赛场原声]
-https://tv.iill.top/FB/0s4z3j
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」01:30 联赛 利兹联 vs 利物浦 [英文原声]
-https://tv.iill.top/FB/zB5ERf
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」01:30 联赛 利兹联 vs 利物浦 [詹俊 张路 李子琪]
-https://tv.iill.top/FB/KOZVVv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」01:30 联赛 RB莱比锡 vs 法兰克福 [鲁靖明]
-https://tv.iill.top/FB/XOAE0G
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」01:30 联赛 RB莱比锡 vs 法兰克福 [赛场原声]
-https://tv.iill.top/FB/POe02Z
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」01:30 联赛 皇家贝蒂斯 vs 巴塞罗那 [张昊泽 李欣]
-https://tv.iill.top/FB/CNRfqK
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」01:30 联赛 皇家贝蒂斯 vs 巴塞罗那 [张昊泽 李欣]
-https://tv.iill.top/FB/Xwj9YH
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」01:30 联赛 皇家贝蒂斯 vs 巴塞罗那 [赛场原声]
-https://tv.iill.top/FB/utIrxC
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」02:00 联赛 图卢兹 vs 斯特拉斯堡 [刘一臻]
-https://tv.iill.top/FB/rP1aqS
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」02:00 联赛 图卢兹 vs 斯特拉斯堡 [赛场原声]
-https://tv.iill.top/FB/z6yuIz
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」03:30 第二轮 切斯特菲尔德 vs 唐卡斯特 [涂远]
-https://tv.iill.top/FB/DRsYFY
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」03:30 第二轮 切斯特菲尔德 vs 唐卡斯特 [赛场原声]
-https://tv.iill.top/FB/kZtC0N
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」03:45 联赛 维罗纳 vs 亚特兰大 [刘焕]
-https://tv.iill.top/FB/xMTvcm
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」03:45 联赛 维罗纳 vs 亚特兰大 [赛场原声]
-https://tv.iill.top/FB/Uq4qfm
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」04:00 联赛 毕尔巴鄂竞技 vs 马德里竞技 [孙雨轩 贺宇]
-https://tv.iill.top/FB/yHs6A4
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」04:00 联赛 毕尔巴鄂竞技 vs 马德里竞技 [赛场原声]
-https://tv.iill.top/FB/6bsbOd
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」04:05 联赛 巴黎圣日耳曼 vs 雷恩 [鹿中原 王宇]
-https://tv.iill.top/FB/fSeuad
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」04:05 联赛 巴黎圣日耳曼 vs 雷恩 [鹿中原 王宇]
-https://tv.iill.top/FB/3sBsWi
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」04:05 联赛 巴黎圣日耳曼 vs 雷恩 [赛场原声]
-https://tv.iill.top/FB/BFSwap
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」19:30 联赛 克雷莫纳 vs 莱切 [涂远]
-https://tv.iill.top/FB/dBx4iO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」19:30 联赛 克雷莫纳 vs 莱切 [赛场原声]
-https://tv.iill.top/FB/Cw7qdl
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」20:30 第二轮 斯洛格镇 vs 马科斯菲尔德镇 [刘焕]
-https://tv.iill.top/FB/GznWzG
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」20:30 第二轮 斯洛格镇 vs 马科斯菲尔德镇 [赛场原声]
-https://tv.iill.top/FB/8jhTG7
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」21:00 联赛 埃尔切 vs 赫罗纳 [兰子非]
-https://tv.iill.top/FB/29h0jm
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」21:00 联赛 埃尔切 vs 赫罗纳 [赛场原声]
-https://tv.iill.top/FB/opYwbn
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 布赖顿 vs 西汉姆联 [苗锟]
-https://tv.iill.top/FB/bHsgzv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 布赖顿 vs 西汉姆联 [赛场原声]
-https://tv.iill.top/FB/rS56w3
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」22:00 联赛 布赖顿 vs 西汉姆联 [英文原声]
-https://tv.iill.top/FB/PO58BK
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」22:00 联赛 尼斯 vs 昂热 [盛斌]
-https://tv.iill.top/FB/W9Tgil
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」22:00 联赛 尼斯 vs 昂热 [赛场原声]
-https://tv.iill.top/FB/MsbADT
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」22:00 联赛 卡利亚里 vs 罗马 [鲁靖明 马延峰]
-https://tv.iill.top/FB/YRnhsR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」22:00 联赛 卡利亚里 vs 罗马 [赛场原声]
-https://tv.iill.top/FB/9ml8z9
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」22:30 联赛 汉堡 vs 不来梅 [王子睿]
-https://tv.iill.top/FB/mIgmRz
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」22:30 联赛 汉堡 vs 不来梅 [赛场原声]
-https://tv.iill.top/FB/65Teum
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」22:30 第二轮 博勒姆伍德 vs 纽波特 [涂远]
-https://tv.iill.top/FB/j7Kwph
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」22:30 第二轮 博勒姆伍德 vs 纽波特 [赛场原声]
-https://tv.iill.top/FB/ImXAip
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」23:15 联赛 瓦伦西亚 vs 塞维利亚 [李霄]
-https://tv.iill.top/FB/2fa52f
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」23:15 联赛 瓦伦西亚 vs 塞维利亚 [赛场原声]
-https://tv.iill.top/FB/kbKGKC
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」23:30 第二轮 格斯海德 vs 沃尔索尔 [张昊泽]
-https://tv.iill.top/FB/tavkWR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」23:30 第二轮 格斯海德 vs 沃尔索尔 [赛场原声]
-https://tv.iill.top/FB/znaLUA
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」06:00 常规赛 鹈鹕VS篮网 [金哲豪]
-https://tv.iill.top/NBA/R2F4qU
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」06:00 常规赛 鹈鹕VS篮网 [英文原声]
-https://tv.iill.top/NBA/he8yBX
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:00 常规赛 老鹰VS奇才 [刘芳宇]
-https://tv.iill.top/NBA/Go6qSW
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:00 常规赛 老鹰VS奇才 [英文原声]
-https://tv.iill.top/NBA/1KxUpr
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:30 常规赛 勇士VS骑士 [姜帆 刘铁 小七]
-https://tv.iill.top/NBA/pcQeFa
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:30 常规赛 勇士VS骑士 [拜月宁]
-https://tv.iill.top/NBA/YnQMpf
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:30 常规赛 勇士VS骑士 [英文原声]
-https://tv.iill.top/NBA/eEydVX
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:30 常规赛 雄鹿VS活塞 [罗森]
-https://tv.iill.top/NBA/4KC5I6
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」08:30 常规赛 雄鹿VS活塞 [英文原声]
-https://tv.iill.top/NBA/nACMzT
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:00 常规赛 快船VS森林狼 [孙博 王润陶]
-https://tv.iill.top/NBA/0I0Gao
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:00 常规赛 快船VS森林狼 [英文原声]
-https://tv.iill.top/NBA/smEaoO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:00 常规赛 国王VS热火 [徐秦威]
-https://tv.iill.top/NBA/RUXy9A
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:00 常规赛 国王VS热火 [英文原声]
-https://tv.iill.top/NBA/QLxdze
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:30 常规赛 火箭VS独行侠 [刘圳展]
-https://tv.iill.top/NBA/tCIP9s
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」09:30 常规赛 火箭VS独行侠 [英文原声]
-https://tv.iill.top/NBA/dcmgYt
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」03:00 英锦赛正赛半决赛：强强对话！塞尔比对战肖恩·墨菲 [柏林]
-https://tv.iill.top/Migu/jv0l8h
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」03:00 英锦赛正赛半决赛：强强对话！塞尔比对战肖恩·墨菲 [1号桌]
-https://tv.iill.top/Migu/JGnmbe
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC数字赛」07:00 UFC第323期：梅拉布VS彼得 严 [陈瑞阳 李景亮 任中贤]
-https://tv.iill.top/Migu/e38AQg
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC数字赛」07:00 UFC第323期：梅拉布VS彼得 严 [郑文祺 汪乐]
-https://tv.iill.top/Migu/4WT3zB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC数字赛」07:00 UFC第323期：梅拉布VS彼得 严 [智能字幕]
-https://tv.iill.top/Migu/nLGbXR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UFC数字赛」07:00 UFC第323期：梅拉布VS彼得 严 [英文原声]
-https://tv.iill.top/Migu/vzci04
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「逐马计划」07:30 神行2025宁德马拉松
-https://tv.iill.top/Migu/hok2jh
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「马拉松系列赛」07:30 荣耀·2025深圳马拉松 深圳、珠海等五场马拉松
-https://tv.iill.top/Migu/uQNw16
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「马拉松系列赛」07:30 2025丽珠医药珠海马拉松
-https://tv.iill.top/Migu/G0qf35
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」09:00 成都Day8训练馆 【训练馆视角】直击赛前训练
-https://tv.iill.top/Migu/2WaHtQ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」10:00 成都：半决赛 冲击决赛！国乒迎战韩国 日德交锋 [训练馆]
-https://tv.iill.top/Migu/pg4vxQ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」10:00 成都：半决赛 冲击决赛！国乒迎战韩国 日德交锋 [朱子恒]
-https://tv.iill.top/Migu/bSwZOB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」10:00 成都：半决赛 冲击决赛！国乒迎战韩国 日德交锋 [赛场原声]
-https://tv.iill.top/Migu/QDzlqR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」10:00 成都：半决赛 冲击决赛！国乒迎战韩国 日德交锋 [混采区]
-https://tv.iill.top/Migu/Tv8jtd
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」10:00 成都：半决赛 冲击决赛！国乒迎战韩国 日德交锋 [朱子恒]
-https://tv.iill.top/Migu/ROpnHT
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」10:00 成都：半决赛 冲击决赛！国乒迎战韩国 日德交锋 [侯英超 周雨 小马哥]
-https://tv.iill.top/Migu/0SeSZy
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」10:00 江西庐山U21vs昆明城星U21
-https://tv.iill.top/Migu/XtB370
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「羽超联赛」12:00 羽毛球超级联赛第七轮：江苏羽超VS芜湖兴航
-https://tv.iill.top/Migu/WxiNlp
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「羽超联赛」12:00 羽毛球超级联赛第七轮：浙江竞体VS深圳川崎羽众
-https://tv.iill.top/Migu/DA1wY1
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」15:00 俱乐部杯小组赛 青岛崂山啤酒vs天津先行者 [连睿 周鹏]
-https://tv.iill.top/Migu/BBfFZZ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」15:00 俱乐部杯小组赛 青岛崂山啤酒vs天津先行者 [赛场原声]
-https://tv.iill.top/Migu/3GFIZT
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「重庆城市足球超级联赛」15:00 南岸万和医药队VS科学城高芯猛虎队
-https://tv.iill.top/Migu/iMM1F8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「重庆城市足球超级联赛」15:00 开州汉丰湖队VS巫山红叶队
-https://tv.iill.top/Migu/Z9RFQd
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「重庆城市足球超级联赛」15:00 云阳恐龙队VS巫溪红池坝队
-https://tv.iill.top/Migu/MTSIFU
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「重庆城市足球超级联赛」15:00 酉阳800队VS黔江白垩纪恐龙队
-https://tv.iill.top/Migu/2dUPyy
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」15:00 北京国安U21vs梅州客家U21
-https://tv.iill.top/Migu/JdVEuV
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」15:00 青岛西海岸U21vs兰州陇原竞技U21
-https://tv.iill.top/Migu/5bfe5j
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」15:00 青岛海牛U21vs广西平果U21
-https://tv.iill.top/Migu/wrdPkh
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」15:00 俱乐部杯小组赛第二阶段 山西汾酒vs广州朗肽海本 [邵化谦 季孟年]
-https://tv.iill.top/Migu/XKAYtq
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」15:00 俱乐部杯小组赛第二阶段 山西汾酒vs广州朗肽海本 [赛场原声]
-https://tv.iill.top/Migu/okwxNA
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」15:30 俱乐部杯小组赛第二阶段 上海久事vs香港金牛 [李天宇 曾令旭]
-https://tv.iill.top/Migu/gS0THR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」15:30 俱乐部杯小组赛第二阶段 上海久事vs香港金牛 [赛场原声]
-https://tv.iill.top/Migu/NbnKUz
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」17:00 成都：铜牌赛、决赛 [训练馆]
-https://tv.iill.top/Migu/n7Xhyj
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」17:00 成都：铜牌赛、决赛 [邓亚萍 刘国正 周冠达]
-https://tv.iill.top/Migu/7KXorB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」17:00 成都：铜牌赛、决赛 [李宏德]
-https://tv.iill.top/Migu/wzSKiS
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」17:00 成都：铜牌赛、决赛 [赛场原声]
-https://tv.iill.top/Migu/UxPklX
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」17:00 成都：铜牌赛、决赛 [混采区]
-https://tv.iill.top/Migu/OAaiWP
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「国际乒联混合团体世界杯」17:00 成都：铜牌赛、决赛 [邓亚萍 刘国正 周冠达]
-https://tv.iill.top/Migu/vu9YwD
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」17:00 俱乐部杯小组赛第二阶段 浙江稠州金租vs新疆伊力特 [吴博文]
-https://tv.iill.top/Migu/cRl2P0
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」17:00 俱乐部杯小组赛第二阶段 浙江稠州金租vs新疆伊力特 [赛场原声]
-https://tv.iill.top/Migu/0InZU4
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「和平精英全球总决赛」18:30 2025 复活赛 第二天 和平精英复活赛Day2
-https://tv.iill.top/Migu/fP3s75
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「羽超联赛」18:30 羽毛球超级联赛第七轮：厦门银行VS辽宁极兔李永波
-https://tv.iill.top/Migu/XfUYL6
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「羽超联赛」18:30 羽毛球超级联赛第七轮：瑞昌碧源VS青岛仁洲
-https://tv.iill.top/Migu/sFIxXj
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」19:30 俱乐部杯小组赛 北京北汽vs山东高速 [连睿 周鹏]
-https://tv.iill.top/Migu/GxckPM
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」19:30 俱乐部杯小组赛 北京北汽vs山东高速 [赛场原声]
-https://tv.iill.top/Migu/CohwV5
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「浙江省城市篮球联赛」19:30 宁波VS嘉兴
-https://tv.iill.top/Migu/NkG3Mq
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「浙江省城市篮球联赛」19:30 台州湾新区VS苍南
-https://tv.iill.top/Migu/cuuFVL
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:30 常规赛A组 浙江稠州银行 VS 东莞新彤盛
-https://tv.iill.top/Migu/Cqo4Ux
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:30 常规赛A组 四川蜀道远达 VS 上海浦发银行
-https://tv.iill.top/Migu/fWdAam
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:30 常规赛A组 石家庄英励 VS 武汉盛帆黄鹤
-https://tv.iill.top/Migu/7jVWFG
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」19:30 常规赛A组 山东赤水河酒 VS 江苏南钢
-https://tv.iill.top/Migu/mNbcgJ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」19:30 俱乐部杯小组赛第二阶段 北京控股vs宁波町渥 [李天宇 曾令旭]
-https://tv.iill.top/Migu/Qmw36N
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」19:30 俱乐部杯小组赛第二阶段 北京控股vs宁波町渥 [赛场原声]
-https://tv.iill.top/Migu/le539c
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」19:30 俱乐部杯小组赛第二阶段 合肥狂风vs广东东阳光 [邵化谦 季孟年]
-https://tv.iill.top/Migu/ZWvuAi
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」19:30 俱乐部杯小组赛第二阶段 合肥狂风vs广东东阳光 [赛场原声]
-https://tv.iill.top/Migu/L7IxdH
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 曼联女足vs西汉姆联女足 [吴桐]
-https://tv.iill.top/Migu/5gURR4
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 曼联女足vs西汉姆联女足 [赛场原声]
-https://tv.iill.top/Migu/jh3dEb
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 莱斯特城女足vs曼城女足 [刘畅]
-https://tv.iill.top/Migu/MjAmg4
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 莱斯特城女足vs曼城女足 [赛场原声]
-https://tv.iill.top/Migu/YMKCRR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 伦敦城雌狮女足vs布莱顿女足 [沈云怡]
-https://tv.iill.top/Migu/3fUsYJ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 伦敦城雌狮女足vs布莱顿女足 [赛场原声]
-https://tv.iill.top/Migu/sRvGqs
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 托特纳姆热刺女足vs阿斯顿维拉女足 [林梦鸽]
-https://tv.iill.top/Migu/z2x8Cz
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」20:00 托特纳姆热刺女足vs阿斯顿维拉女足 [赛场原声]
-https://tv.iill.top/Migu/CkUDHH
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」20:00 俱乐部杯小组赛第二阶段 长白山恩都里vs深圳马可波罗 [王冠证]
-https://tv.iill.top/Migu/QZiBbU
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」20:00 俱乐部杯小组赛第二阶段 长白山恩都里vs深圳马可波罗 [赛场原声]
-https://tv.iill.top/Migu/PqDRdt
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」21:00 英锦赛正赛决赛（第一阶段） [秦正 庞卫国]
-https://tv.iill.top/Migu/ry0lOY
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」21:00 英锦赛正赛决赛（第一阶段） [1号桌]
-https://tv.iill.top/Migu/C53DYF
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」22:30 切尔西女足vs埃弗顿女足 [胡小凡]
-https://tv.iill.top/Migu/snYRuL
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」22:30 切尔西女足vs埃弗顿女足 [赛场原声]
-https://tv.iill.top/Migu/cK7WKK
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UTS」12/06 01:00 伦敦站Day1：卢布列夫3 0马哈奇、安贝尔3 1戈芬
-https://tv.iill.top/HuiK/iJmTAR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/06 02:00 联赛 布雷斯特 vs 摩纳哥 [鹿中原]
-https://tv.iill.top/HuiK/vWe9rD
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/06 02:00 联赛 布雷斯特 vs 摩纳哥 [鹿中原]
-https://tv.iill.top/HuiK/z6YETw
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/06 02:00 联赛 布雷斯特 vs 摩纳哥 [赛场原声]
-https://tv.iill.top/HuiK/0asLQw
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/06 03:00 英锦赛正赛1/4决赛：墨菲6 3张安达 霍金斯2 6马克·塞尔比 墨菲6 3张安达 霍金斯2 6塞尔比 [2号桌]
-https://tv.iill.top/HuiK/fzste2
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/06 03:00 英锦赛正赛1/4决赛：墨菲6 3张安达 霍金斯2 6马克·塞尔比 墨菲6 3张安达 霍金斯2 6塞尔比 [桌次切换]
-https://tv.iill.top/HuiK/oRFyOV
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/06 03:00 英锦赛正赛1/4决赛：墨菲6 3张安达 霍金斯2 6马克·塞尔比 墨菲6 3张安达 霍金斯2 6塞尔比 [1号桌]
-https://tv.iill.top/HuiK/Cs1yqi
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 03:30 联赛 美因茨 vs 门兴格拉德巴赫 [吴子越]
-https://tv.iill.top/HuiK/IRuO8D
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 03:30 联赛 美因茨 vs 门兴格拉德巴赫 [赛场原声]
-https://tv.iill.top/HuiK/IL8Rex
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 03:30 联赛 美因茨 vs 门兴格拉德巴赫 [吴子越]
-https://tv.iill.top/HuiK/LRqSoI
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/06 03:30 第二轮 索尔福德 vs 莱顿东方 [苗锟]
-https://tv.iill.top/HuiK/KiTmXR
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/06 03:30 第二轮 索尔福德 vs 莱顿东方 [赛场原声]
-https://tv.iill.top/HuiK/KScxrj
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/06 04:00 联赛 里尔 vs 马赛 [李秉昊]
-https://tv.iill.top/HuiK/ZSpA3i
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/06 04:00 联赛 里尔 vs 马赛 [赛场原声]
-https://tv.iill.top/HuiK/XA0XQD
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/06 04:00 联赛 皇家奥维耶多 vs 马略卡 [洪宇青]
-https://tv.iill.top/HuiK/DQ94qB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/06 04:00 联赛 皇家奥维耶多 vs 马略卡 [赛场原声]
-https://tv.iill.top/HuiK/JYAVQt
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:00 常规赛 热火VS魔术 [张泽欣]
-https://tv.iill.top/HuiK/Da4POu
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:00 常规赛 热火VS魔术 [英文原声]
-https://tv.iill.top/HuiK/pJjNZx
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:00 常规赛 湖人VS凯尔特人 [蔡凯臣 苏群 拜月宁]
-https://tv.iill.top/HuiK/WvrKkv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:00 常规赛 湖人VS凯尔特人 [郑泽鹏]
-https://tv.iill.top/HuiK/msyMyO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:00 常规赛 湖人VS凯尔特人 [英文原声]
-https://tv.iill.top/HuiK/ei7em6
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 爵士VS尼克斯 [25/26赛季常规赛全场集锦：爵士112:146尼克斯（20251206）]
-https://tv.iill.top/HuiK/jl8epo
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 爵士VS尼克斯 [盛哲]
-https://tv.iill.top/HuiK/pD6ecG
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 爵士VS尼克斯 [英文原声]
-https://tv.iill.top/HuiK/OT64hV
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 马刺VS骑士 [王晓晨]
-https://tv.iill.top/HuiK/USzpU9
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 马刺VS骑士 [英文原声]
-https://tv.iill.top/HuiK/oHCbQP
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 掘金VS老鹰 [25/26赛季常规赛全场集锦：掘金134:133老鹰（20251206）]
-https://tv.iill.top/HuiK/GkH1Nl
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 掘金VS老鹰 [徐秦威]
-https://tv.iill.top/HuiK/sIx1tz
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 掘金VS老鹰 [英文原声]
-https://tv.iill.top/HuiK/wLqbhS
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 黄蜂VS猛龙 [刘沛元]
-https://tv.iill.top/HuiK/o7gixp
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 黄蜂VS猛龙 [英文原声]
-https://tv.iill.top/HuiK/pNJLXQ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 开拓者VS活塞 [王冠证 陈正昊 金佳悦]
-https://tv.iill.top/HuiK/WYwhCC
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 开拓者VS活塞 [邢晨]
-https://tv.iill.top/HuiK/T97mnt
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 08:30 常规赛 开拓者VS活塞 [英文原声]
-https://tv.iill.top/HuiK/Mep7yS
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 步行者VS公牛 [25/26赛季常规赛全场集锦：步行者120:105公牛（20251206）]
-https://tv.iill.top/HuiK/hH9ZCe
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 步行者VS公牛 [周赫]
-https://tv.iill.top/HuiK/Uov8CB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 步行者VS公牛 [英文原声]
-https://tv.iill.top/HuiK/nX6BXM
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 快船VS灰熊 [吴博文]
-https://tv.iill.top/HuiK/OwQbNd
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 快船VS灰熊 [英文原声]
-https://tv.iill.top/HuiK/SlJ6l5
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 76人VS雄鹿 [25/26赛季常规赛全场集锦：76人116:101雄鹿（20251206）]
-https://tv.iill.top/HuiK/cDcwL6
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 76人VS雄鹿 [金哲豪]
-https://tv.iill.top/HuiK/rrI6GL
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 76人VS雄鹿 [英文原声]
-https://tv.iill.top/HuiK/VPOK20
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 太阳VS火箭 [杨健 刘铁 秋童]
-https://tv.iill.top/HuiK/XypTed
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 太阳VS火箭 [莫俊祺]
-https://tv.iill.top/HuiK/74ztf8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 太阳VS火箭 [洪荒]
-https://tv.iill.top/HuiK/psIFqB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 09:00 常规赛 太阳VS火箭 [英文原声]
-https://tv.iill.top/HuiK/cHwlqd
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 09:00 成都Day7训练馆 【训练馆视角】直击赛前训练
-https://tv.iill.top/HuiK/90ZMQd
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「The Snow League」12/06 09:40 自由式决赛日
-https://tv.iill.top/HuiK/90OymL
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 10:00 成都：第二阶段循环赛第5轮 国乒战胜日本豪取八连胜 德国8 7险胜韩国 [国际乒联混团世界杯]
-https://tv.iill.top/HuiK/esN07b
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 10:00 成都：第二阶段循环赛第5轮 国乒战胜日本豪取八连胜 德国8 7险胜韩国 [训练馆]
-https://tv.iill.top/HuiK/sfejQI
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 10:00 成都：第二阶段循环赛第5轮 国乒战胜日本豪取八连胜 德国8 7险胜韩国 [1号桌]
-https://tv.iill.top/HuiK/AerXqa
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 10:00 成都：第二阶段循环赛第5轮 国乒战胜日本豪取八连胜 德国8 7险胜韩国 [2号桌]
-https://tv.iill.top/HuiK/MA3up3
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 10:00 成都：第二阶段循环赛第5轮 国乒战胜日本豪取八连胜 德国8 7险胜韩国 [混采区]
-https://tv.iill.top/HuiK/DKyxXN
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 10:30 常规赛 独行侠VS雷霆 [罗森]
-https://tv.iill.top/HuiK/y7BCRk
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/06 10:30 常规赛 独行侠VS雷霆 [英文原声]
-https://tv.iill.top/HuiK/gdw1Jv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/06 12:00 羽毛球超级联赛第六轮：芜湖兴航2 3深圳川崎羽众
-https://tv.iill.top/HuiK/wP90xC
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/06 12:00 羽毛球超级联赛第六轮：江苏羽超2 3辽宁极兔李永波
-https://tv.iill.top/HuiK/6AwqBG
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「湖南省足球联赛」12/06 15:00 俱乐部杯小组赛 山东高速vs浙江方兴渡 [连睿 周鹏]
-https://tv.iill.top/HuiK/xdgSCf
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 15:00 俱乐部杯小组赛 山东高速vs浙江方兴渡 [广东vs江苏]
-https://tv.iill.top/HuiK/w7t7OM
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 15:00 俱乐部杯小组赛 山东高速vs浙江方兴渡 [赛场原声]
-https://tv.iill.top/HuiK/ClKsQI
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「重庆城市足球超级联赛」12/06 15:00 俱乐部杯淘汰赛 广东东阳光vs江苏肯帝亚 [邵化谦 季孟年]
-https://tv.iill.top/HuiK/3a3sRP
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 15:00 俱乐部杯淘汰赛 广东东阳光vs江苏肯帝亚 [山东vs广厦]
-https://tv.iill.top/HuiK/zmosNC
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 15:00 俱乐部杯淘汰赛 广东东阳光vs江苏肯帝亚 [赛场原声]
-https://tv.iill.top/HuiK/BNiBN6
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 15:30 俱乐部杯淘汰赛 宁波町渥vs南京天之蓝 [李天宇 曾令旭]
-https://tv.iill.top/HuiK/E9xrv7
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 15:30 俱乐部杯淘汰赛 宁波町渥vs南京天之蓝 [赛场原声]
-https://tv.iill.top/HuiK/gXIYgw
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UFC前瞻与回顾」12/06 16:00 激战前夜：UFC323特辑 [陈瑞阳]
-https://tv.iill.top/HuiK/x27CWm
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 17:00 成都：第二阶段循环赛第6轮 九战全胜！国乒锁定二阶段小组头名 [刘馨蕊 凌维康]
-https://tv.iill.top/HuiK/vQOBws
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 17:00 成都：第二阶段循环赛第6轮 九战全胜！国乒锁定二阶段小组头名 [训练馆]
-https://tv.iill.top/HuiK/W1ZCAa
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 17:00 成都：第二阶段循环赛第6轮 九战全胜！国乒锁定二阶段小组头名 [2号桌]
-https://tv.iill.top/HuiK/Rm2DNU
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 17:00 成都：第二阶段循环赛第6轮 九战全胜！国乒锁定二阶段小组头名 [混采区]
-https://tv.iill.top/HuiK/9yHjHr
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 17:00 成都：第二阶段循环赛第6轮 九战全胜！国乒锁定二阶段小组头名 [1号桌]
-https://tv.iill.top/HuiK/1A8YAO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/06 17:00 成都：第二阶段循环赛第6轮 九战全胜！国乒锁定二阶段小组头名 [刘国正 侯英超 周冠达]
-https://tv.iill.top/HuiK/BDAqM2
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 17:00 俱乐部杯淘汰赛 深圳马可波罗vs长沙勇胜 [姜帆]
-https://tv.iill.top/HuiK/8rpKR1
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 17:00 俱乐部杯淘汰赛 深圳马可波罗vs长沙勇胜 [赛场原声]
-https://tv.iill.top/HuiK/CauQWk
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「东亚超级联赛」12/06 18:00 自由式/单板滑雪大跳台决赛
-https://tv.iill.top/HuiK/dIGQm5
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「东亚超级联赛」12/06 18:30 2025和平精英全球总决赛 复活赛 第一天
-https://tv.iill.top/HuiK/aABju2
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/06 18:30 羽毛球超级联赛第六轮：青岛仁洲4 1浙江竞体
-https://tv.iill.top/HuiK/OYG4Lq
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/06 18:30 羽毛球超级联赛第六轮：瑞昌碧源0 5厦门银行
-https://tv.iill.top/HuiK/ZAmQGa
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足协杯」12/06 19:00 决赛 北京国安 vs 河南 [苏东 刘越 邵凌霄]
-https://tv.iill.top/HuiK/l8oFMz
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足协杯」12/06 19:00 决赛 北京国安 vs 河南 [球星视角——法比奥]
-https://tv.iill.top/HuiK/OZbyZt
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足协杯」12/06 19:00 决赛 北京国安 vs 河南 [球星视角——纳萨里奥]
-https://tv.iill.top/HuiK/8R4YVb
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足协杯」12/06 19:00 决赛 北京国安 vs 河南 [赛场原声]
-https://tv.iill.top/HuiK/yl5G3W
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「云南省城市足球联赛」12/06 19:30 俱乐部杯小组赛 天津先行者vs北京北汽 [连睿 周鹏]
-https://tv.iill.top/HuiK/HkO5rv
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 19:30 俱乐部杯小组赛 天津先行者vs北京北汽 [赛场原声]
-https://tv.iill.top/HuiK/Vn8bmD
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「浙江省城市篮球联赛」12/06 19:30 永康72 77丽水
-https://tv.iill.top/HuiK/GttyuB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「浙江省城市篮球联赛」12/06 19:30 富阳81 77衢州
-https://tv.iill.top/HuiK/JmSvy3
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「浙江省城市篮球联赛」12/06 19:30 绍兴95 65普陀
-https://tv.iill.top/HuiK/y1F4cV
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「WCBA」12/06 19:30 常规赛B组 河南豫光金铅 VS 江西鲸裕清酒
-https://tv.iill.top/HuiK/lgVEDS
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「WCBA」12/06 19:30 常规赛B组 合肥文旅 VS 福建金篮
-https://tv.iill.top/HuiK/pdHpQp
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「广东省城市足球超级联赛」12/06 19:30 俱乐部杯淘汰赛 香港金牛vs四川丰谷酒业 [李天宇 曾令旭]
-https://tv.iill.top/HuiK/nhpfDW
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 19:30 俱乐部杯淘汰赛 香港金牛vs四川丰谷酒业 [赛场原声]
-https://tv.iill.top/HuiK/aki9vK
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 19:30 俱乐部杯淘汰赛 辽宁本钢vs广州朗肽海本 [邵化谦 季孟年]
-https://tv.iill.top/HuiK/8JH76D
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 19:30 俱乐部杯淘汰赛 辽宁本钢vs广州朗肽海本 [天津vs北京]
-https://tv.iill.top/HuiK/RFkebo
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 19:30 俱乐部杯淘汰赛 辽宁本钢vs广州朗肽海本 [赛场原声]
-https://tv.iill.top/HuiK/J4OTXF
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UFC前瞻与回顾」12/06 20:00 聚焦八角笼：UFC323特辑 [陈瑞阳 任中贤]
-https://tv.iill.top/HuiK/xA8lsX
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英女超」12/06 20:00 俱乐部杯淘汰赛 福建晋江文旅vs新疆伊力特 [盛哲]
-https://tv.iill.top/HuiK/0HuJBO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/06 20:00 俱乐部杯淘汰赛 福建晋江文旅vs新疆伊力特 [赛场原声]
-https://tv.iill.top/HuiK/TbtnCN
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 20:30 联赛 阿斯顿维拉 vs 阿森纳 [詹俊 张路 林梦鸽]
-https://tv.iill.top/HuiK/plcr3g
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 20:30 联赛 阿斯顿维拉 vs 阿森纳 [萨卡直拍]
-https://tv.iill.top/HuiK/zvR11T
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 20:30 联赛 阿斯顿维拉 vs 阿森纳 [赛场原声]
-https://tv.iill.top/HuiK/OYhypJ
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 20:30 联赛 阿斯顿维拉 vs 阿森纳 [英文原声]
-https://tv.iill.top/HuiK/WbnxxK
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 20:30 联赛 阿斯顿维拉 vs 阿森纳 [陈渤胄]
-https://tv.iill.top/HuiK/0f7Ehr
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 20:30 联赛 阿斯顿维拉 vs 阿森纳 [陈曦 陈熙荣]
-https://tv.iill.top/HuiK/ORMq2y
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/06 21:00 联赛 比利亚雷亚尔 vs 赫塔费 [唐晖]
-https://tv.iill.top/HuiK/YGgBXr
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/06 21:00 联赛 比利亚雷亚尔 vs 赫塔费 [赛场原声]
-https://tv.iill.top/HuiK/Omyqlm
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/06 21:00 英锦赛正赛半决赛：特鲁姆普6 3罗伯逊晋级决赛 [秦正 庞卫国]
-https://tv.iill.top/HuiK/oenyK7
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/06 21:00 英锦赛正赛半决赛：特鲁姆普6 3罗伯逊晋级决赛 [1号桌]
-https://tv.iill.top/HuiK/j1xr2J
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UTS」12/06 21:00 伦敦站Day2：鲁德、安贝尔 、卢布列夫小组赛出线
-https://tv.iill.top/HuiK/5cmyvg
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/06 22:00 联赛 萨索洛 vs 佛罗伦萨 [谭逸雄]
-https://tv.iill.top/HuiK/Tz7Bf8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/06 22:00 联赛 萨索洛 vs 佛罗伦萨 [赛场原声]
-https://tv.iill.top/HuiK/KnEg0e
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 海登海姆 vs 弗赖堡 [刘洪新]
-https://tv.iill.top/HuiK/Q2ZMi9
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 海登海姆 vs 弗赖堡 [赛场原声]
-https://tv.iill.top/HuiK/iyoaA6
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 奥格斯堡 vs 勒沃库森 [涂远 马延峰]
-https://tv.iill.top/HuiK/T5UsME
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 奥格斯堡 vs 勒沃库森 [赛场原声]
-https://tv.iill.top/HuiK/0vJZMT
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 沃尔夫斯堡 vs 柏林联合 [刘洋]
-https://tv.iill.top/HuiK/iRlmK0
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 沃尔夫斯堡 vs 柏林联合 [赛场原声]
-https://tv.iill.top/HuiK/kW1FRe
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 斯图加特 vs 拜仁慕尼黑 [胡小凡 张力]
-https://tv.iill.top/HuiK/4lV12s
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 斯图加特 vs 拜仁慕尼黑 [赛场原声]
-https://tv.iill.top/HuiK/XgUJDu
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 科隆 vs 圣保利 [赵宇]
-https://tv.iill.top/HuiK/mic64w
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/06 22:30 联赛 科隆 vs 圣保利 [赛场原声]
-https://tv.iill.top/HuiK/aOV8f3
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 托特纳姆热刺 vs 布伦特福德 [苏东 李彦]
-https://tv.iill.top/HuiK/USSScy
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 托特纳姆热刺 vs 布伦特福德 [赛场原声]
-https://tv.iill.top/HuiK/6dZL8g
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 托特纳姆热刺 vs 布伦特福德 [英文原声]
-https://tv.iill.top/HuiK/EEb8b2
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 纽卡斯尔联 vs 伯恩利 [刘焕]
-https://tv.iill.top/HuiK/5019aB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 纽卡斯尔联 vs 伯恩利 [英文原声]
-https://tv.iill.top/HuiK/8n2ec9
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 纽卡斯尔联 vs 伯恩利 [赛场原声]
-https://tv.iill.top/HuiK/PoGDKy
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 曼城 vs 桑德兰 [娄一晨 刘越 孙蕊]
-https://tv.iill.top/HuiK/mjU03O
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 曼城 vs 桑德兰 [陈曦 叶紫辰]
-https://tv.iill.top/HuiK/ArOzIB
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 曼城 vs 桑德兰 [赛场原声]
-https://tv.iill.top/HuiK/1isExx
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 曼城 vs 桑德兰 [英文原声]
-https://tv.iill.top/HuiK/Zj2nGT
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 埃弗顿 vs 诺丁汉森林 [郭灿亮]
-https://tv.iill.top/HuiK/biV200
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 埃弗顿 vs 诺丁汉森林 [英文原声]
-https://tv.iill.top/HuiK/a9TusO
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 埃弗顿 vs 诺丁汉森林 [赛场原声]
-https://tv.iill.top/HuiK/HN4qa8
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 伯恩茅斯 vs 切尔西 [颜强 贺宇 程思钦]
-https://tv.iill.top/HuiK/y61MwS
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 伯恩茅斯 vs 切尔西 [夏景俊 陆毅隽]
-https://tv.iill.top/HuiK/ihSxkb
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 伯恩茅斯 vs 切尔西 [英文原声]
-https://tv.iill.top/HuiK/JVkJTp
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/06 23:00 联赛 伯恩茅斯 vs 切尔西 [赛场原声]
-https://tv.iill.top/HuiK/qchr3v
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/06 23:15 联赛 阿拉维斯 vs 皇家社会 [李霄]
-https://tv.iill.top/HuiK/2ZS1uL
-#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/06 23:15 联赛 阿拉维斯 vs 皇家社会 [赛场原声]
-https://tv.iill.top/HuiK/r9uOwf
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」12/07 22:00 联赛 布赖顿 vs 西汉姆联 [苗锟]
+https://tv.iill.top/FB/mo7B4A
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」12/07 22:00 联赛 布赖顿 vs 西汉姆联 [赛场原声]
+https://tv.iill.top/FB/puK50t
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」12/07 22:00 联赛 布赖顿 vs 西汉姆联 [英文原声]
+https://tv.iill.top/FB/UF36Gj
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/07 22:00 联赛 尼斯 vs 昂热 [盛斌]
+https://tv.iill.top/FB/DVIP7G
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/07 22:00 联赛 尼斯 vs 昂热 [赛场原声]
+https://tv.iill.top/FB/2LZrJ2
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/07 22:00 联赛 卡利亚里 vs 罗马 [鲁靖明 马延峰]
+https://tv.iill.top/FB/6pgyZi
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/07 22:00 联赛 卡利亚里 vs 罗马 [赛场原声]
+https://tv.iill.top/FB/OGXPoJ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」12/07 22:30 联赛 汉堡 vs 不来梅 [王子睿]
+https://tv.iill.top/FB/BkwiPq
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」12/07 22:30 联赛 汉堡 vs 不来梅 [赛场原声]
+https://tv.iill.top/FB/7pzF07
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」12/07 22:30 第二轮 博勒姆伍德 vs 纽波特 [涂远]
+https://tv.iill.top/FB/DDw9Ty
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」12/07 22:30 第二轮 博勒姆伍德 vs 纽波特 [赛场原声]
+https://tv.iill.top/FB/YgEA6Z
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/07 23:15 联赛 瓦伦西亚 vs 塞维利亚 [李霄]
+https://tv.iill.top/FB/8JhKV7
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/07 23:15 联赛 瓦伦西亚 vs 塞维利亚 [赛场原声]
+https://tv.iill.top/FB/HpDMAD
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」12/08 00:15 联赛 欧塞尔 vs 梅斯 [盛斌]
+https://tv.iill.top/FB/7uxZuU
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/08 00:15 联赛 欧塞尔 vs 梅斯 [赛场原声]
+https://tv.iill.top/FB/fNa4JP
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/08 00:15 联赛 勒阿弗尔 vs 巴黎 [邵煊]
+https://tv.iill.top/FB/rRr2YL
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/08 00:15 联赛 勒阿弗尔 vs 巴黎 [赛场原声]
+https://tv.iill.top/FB/vTfzEn
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」12/08 00:30 联赛 富勒姆 vs 水晶宫 [刘焕]
+https://tv.iill.top/FB/xTjbb2
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」12/08 00:30 联赛 富勒姆 vs 水晶宫 [英文原声]
+https://tv.iill.top/FB/7scbrA
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「英超」12/08 00:30 联赛 富勒姆 vs 水晶宫 [赛场原声]
+https://tv.iill.top/FB/vt8uX5
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」12/08 00:30 联赛 多特蒙德 vs 霍芬海姆 [沈云怡 秦游夏]
+https://tv.iill.top/FB/x00Cti
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」12/08 00:30 联赛 多特蒙德 vs 霍芬海姆 [沈云怡 秦游夏]
+https://tv.iill.top/FB/AI2kTK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「德甲」12/08 00:30 联赛 多特蒙德 vs 霍芬海姆 [赛场原声]
+https://tv.iill.top/FB/AIprP6
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 01:00 联赛 拉齐奥 vs 博洛尼亚 [石庆圣]
+https://tv.iill.top/FB/q2GPNY
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 01:00 联赛 拉齐奥 vs 博洛尼亚 [赛场原声]
+https://tv.iill.top/FB/v7mao3
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/08 01:30 联赛 西班牙人 vs 巴列卡诺 [周楚雄]
+https://tv.iill.top/FB/ANn6NJ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/08 01:30 联赛 西班牙人 vs 巴列卡诺 [周楚雄]
+https://tv.iill.top/FB/POxXXJ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/08 01:30 联赛 西班牙人 vs 巴列卡诺 [赛场原声]
+https://tv.iill.top/FB/X6r5T5
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」12/08 01:30 第二轮 布莱克浦 vs 卡莱尔联 [张天翼]
+https://tv.iill.top/FB/4gdgSP
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「足总杯」12/08 01:30 第二轮 布莱克浦 vs 卡莱尔联 [赛场原声]
+https://tv.iill.top/FB/Fa3rGI
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 03:45 联赛 那不勒斯 vs 尤文图斯 [吴桐 刘腾]
+https://tv.iill.top/FB/pQWE1X
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 03:45 联赛 那不勒斯 vs 尤文图斯 [吴桐 刘腾]
+https://tv.iill.top/FB/mlwGUV
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 03:45 联赛 那不勒斯 vs 尤文图斯 [赛场原声]
+https://tv.iill.top/FB/2p320f
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/08 03:45 联赛 洛里昂 vs 里昂 [乔迁]
+https://tv.iill.top/FB/5Mva7H
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「法甲」12/08 03:45 联赛 洛里昂 vs 里昂 [赛场原声]
+https://tv.iill.top/FB/r6vp62
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/08 04:00 联赛 皇家马德里 vs 塞尔塔 [刘畅 孙雷]
+https://tv.iill.top/FB/sfkHNu
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「西甲」12/08 04:00 联赛 皇家马德里 vs 塞尔塔 [赛场原声]
+https://tv.iill.top/FB/Nm4POn
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 22:00 联赛 比萨 vs 帕尔马 [吴奕博]
+https://tv.iill.top/FB/P0GLme
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/足球.png" group-title="•咪咕「足球」", 「意甲」12/08 22:00 联赛 比萨 vs 帕尔马 [赛场原声]
+https://tv.iill.top/FB/YBxY3W
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 01:00 常规赛 魔术VS尼克斯 [张泽欣]
+https://tv.iill.top/NBA/J7XSRi
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 01:00 常规赛 魔术VS尼克斯 [英文原声]
+https://tv.iill.top/NBA/QUZOeH
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 04:30 常规赛 凯尔特人VS猛龙 [姜帆]
+https://tv.iill.top/NBA/aVZF7X
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 04:30 常规赛 凯尔特人VS猛龙 [英文原声]
+https://tv.iill.top/NBA/uO8FyQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 07:00 常规赛 开拓者VS灰熊 [姜帆 贾磊]
+https://tv.iill.top/NBA/lLp2t1
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 07:00 常规赛 开拓者VS灰熊 [邢晨]
+https://tv.iill.top/NBA/mZT5ry
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 07:00 常规赛 开拓者VS灰熊 [英文原声]
+https://tv.iill.top/NBA/mJfN7r
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 07:00 常规赛 掘金VS黄蜂 [邵化谦]
+https://tv.iill.top/NBA/nDyvk4
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 07:00 常规赛 掘金VS黄蜂 [英文原声]
+https://tv.iill.top/NBA/pWlOQU
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 08:00 常规赛 勇士VS公牛 [孙博 马健 小七]
+https://tv.iill.top/NBA/EWjEbT
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 08:00 常规赛 勇士VS公牛 [英文原声]
+https://tv.iill.top/NBA/QcMII2
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 08:00 常规赛 勇士VS公牛 [拜月宁]
+https://tv.iill.top/NBA/SNruZB
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 08:30 常规赛 湖人VS76人 [王晓晨 闫宇峰 佳依]
+https://tv.iill.top/NBA/S9lkiW
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 08:30 常规赛 湖人VS76人 [郑泽鹏]
+https://tv.iill.top/NBA/5D8Kyl
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 08:30 常规赛 湖人VS76人 [英文原声]
+https://tv.iill.top/NBA/k2gJXT
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 09:00 常规赛 雷霆VS爵士 [罗森]
+https://tv.iill.top/NBA/7EzDc8
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/NBA.png" group-title="•咪咕「NBA」", 「NBA」12/08 09:00 常规赛 雷霆VS爵士 [英文原声]
+https://tv.iill.top/NBA/khOm6I
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「UTS」12/07 22:15 伦敦站Day3：德米纳尔率先晋级 卢布对阵鲁德
+https://tv.iill.top/Migu/09AvTr
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」12/07 22:30 切尔西女足vs埃弗顿女足 [胡小凡]
+https://tv.iill.top/Migu/Z0hnkP
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「英女超」12/07 22:30 切尔西女足vs埃弗顿女足 [赛场原声]
+https://tv.iill.top/Migu/pbLoap
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」12/08 03:00 英锦赛正赛决赛（第二阶段）：特鲁姆普决战塞尔比 特鲁姆普决战塞尔比（第二阶段） [柏林]
+https://tv.iill.top/Migu/kitrwL
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「斯诺克」12/08 03:00 英锦赛正赛决赛（第二阶段）：特鲁姆普决战塞尔比 特鲁姆普决战塞尔比（第二阶段） [1号桌]
+https://tv.iill.top/Migu/F4rMIT
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」12/08 10:00 浙江俱乐部U21vs长春亚泰U21
+https://tv.iill.top/Migu/1r70ID
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」12/08 15:00 俱乐部杯小组赛 山东高速vs青岛崂山啤酒 [连睿 周鹏]
+https://tv.iill.top/Migu/OMIikN
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」12/08 15:00 俱乐部杯小组赛 山东高速vs青岛崂山啤酒 [赛场原声]
+https://tv.iill.top/Migu/Knyy0S
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」12/08 15:00 云南玉昆U21vs河南俱乐部U21
+https://tv.iill.top/Migu/KQl6Rw
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」12/08 15:00 深圳新鹏城U21vs大连英博U21
+https://tv.iill.top/Migu/PHRmSm
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「中国足球青少年精英联赛」12/08 15:00 天津津门虎U21vs上海申花U21
+https://tv.iill.top/Migu/JqFlHL
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」12/08 16:00 香港总决赛：抽签仪式 【抽签仪式】见证赛季收官好戏 [侯英超 周冠达 小马哥]
+https://tv.iill.top/Migu/lLmitz
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WTT」12/08 16:00 香港总决赛：抽签仪式 【抽签仪式】见证赛季收官好戏 [现场原声]
+https://tv.iill.top/Migu/rn9lX5
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」12/08 19:30 俱乐部杯小组赛 浙江方兴渡vs北京北汽 [连睿 周鹏]
+https://tv.iill.top/Migu/DhqrGM
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「CBA俱乐部杯」12/08 19:30 俱乐部杯小组赛 浙江方兴渡vs北京北汽 [赛场原声]
+https://tv.iill.top/Migu/5SOg8z
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」12/08 19:30 常规赛B组 江西鲸裕清酒 VS 大连文体旅
+https://tv.iill.top/Migu/l4NCaC
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」12/08 19:30 常规赛A组 陕西榆林天泽 VS 北京首钢园
+https://tv.iill.top/Migu/3v2jYX
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「体育」", 「WCBA」12/08 20:00 常规赛A组 新疆天山 VS 山西竹叶青酒
+https://tv.iill.top/Migu/rvDj3h
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 00:00 联赛 南特 vs 朗斯 [李永熙]
+https://tv.iill.top/HuiK/VzvZ59
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 00:00 联赛 南特 vs 朗斯 [赛场原声]
+https://tv.iill.top/HuiK/LVcbcD
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 01:00 联赛 国际米兰 vs 科莫 [刘腾 王宇]
+https://tv.iill.top/HuiK/6nxPWR
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 01:00 联赛 国际米兰 vs 科莫 [赛场原声]
+https://tv.iill.top/HuiK/fwEopb
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 01:15 第二轮 萨顿联 vs 施鲁斯伯里 [郭灿亮]
+https://tv.iill.top/HuiK/QWTwwv
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 01:15 第二轮 萨顿联 vs 施鲁斯伯里 [赛场原声]
+https://tv.iill.top/HuiK/BSMBqF
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 01:30 联赛 利兹联 vs 利物浦 [詹俊 张路 李子琪]
+https://tv.iill.top/HuiK/n1OCjB
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 01:30 联赛 利兹联 vs 利物浦 [陈凯冬 何辉]
+https://tv.iill.top/HuiK/VH5831
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 01:30 联赛 利兹联 vs 利物浦 [赛场原声]
+https://tv.iill.top/HuiK/K23TWS
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 01:30 联赛 利兹联 vs 利物浦 [英文原声]
+https://tv.iill.top/HuiK/D8DnSh
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 01:30 联赛 利兹联 vs 利物浦 [詹俊 张路 李子琪]
+https://tv.iill.top/HuiK/xy74wf
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/07 01:30 联赛 RB莱比锡 vs 法兰克福 [鲁靖明]
+https://tv.iill.top/HuiK/lfgrCT
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/07 01:30 联赛 RB莱比锡 vs 法兰克福 [赛场原声]
+https://tv.iill.top/HuiK/swFUss
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 01:30 联赛 皇家贝蒂斯 vs 巴塞罗那 [张昊泽 李欣]
+https://tv.iill.top/HuiK/PyFfVg
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 01:30 联赛 皇家贝蒂斯 vs 巴塞罗那 [张昊泽 李欣]
+https://tv.iill.top/HuiK/mIVVVC
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 01:30 联赛 皇家贝蒂斯 vs 巴塞罗那 [赛场原声]
+https://tv.iill.top/HuiK/xHVCky
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 02:00 联赛 图卢兹 vs 斯特拉斯堡 [刘一臻]
+https://tv.iill.top/HuiK/Md9eZC
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 02:00 联赛 图卢兹 vs 斯特拉斯堡 [赛场原声]
+https://tv.iill.top/HuiK/G9eLMQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/07 03:00 英锦赛正赛半决赛：塞尔比6 3墨菲晋级决赛 [柏林]
+https://tv.iill.top/HuiK/br07Bb
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/07 03:00 英锦赛正赛半决赛：塞尔比6 3墨菲晋级决赛 [1号桌]
+https://tv.iill.top/HuiK/cKzjcQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 03:30 第二轮 切斯特菲尔德 vs 唐卡斯特 [涂远]
+https://tv.iill.top/HuiK/N2R6gc
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 03:30 第二轮 切斯特菲尔德 vs 唐卡斯特 [赛场原声]
+https://tv.iill.top/HuiK/iQCHfv
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 03:45 联赛 维罗纳 vs 亚特兰大 [刘焕]
+https://tv.iill.top/HuiK/8bstfx
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 03:45 联赛 维罗纳 vs 亚特兰大 [赛场原声]
+https://tv.iill.top/HuiK/JmLp2i
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 04:00 联赛 毕尔巴鄂竞技 vs 马德里竞技 [孙雨轩 贺宇]
+https://tv.iill.top/HuiK/4ixmC9
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 04:00 联赛 毕尔巴鄂竞技 vs 马德里竞技 [赛场原声]
+https://tv.iill.top/HuiK/TW3n2i
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 04:05 联赛 巴黎圣日耳曼 vs 雷恩 [鹿中原 王宇]
+https://tv.iill.top/HuiK/8jfMUu
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 04:05 联赛 巴黎圣日耳曼 vs 雷恩 [鹿中原 王宇]
+https://tv.iill.top/HuiK/F4D3hQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 04:05 联赛 巴黎圣日耳曼 vs 雷恩 [赛场原声]
+https://tv.iill.top/HuiK/bTcIFi
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 06:00 常规赛 鹈鹕VS篮网 [金哲豪]
+https://tv.iill.top/HuiK/PsBFQH
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 06:00 常规赛 鹈鹕VS篮网 [英文原声]
+https://tv.iill.top/HuiK/wkh4tl
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UFC数字赛」12/07 07:00 UFC第323期：梅拉布VS彼得 严 彼得 严复仇梅拉布 约书亚加冕新科冠军 [陈瑞阳 李景亮 任中贤]
+https://tv.iill.top/HuiK/NVWS0v
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UFC数字赛」12/07 07:00 UFC第323期：梅拉布VS彼得 严 彼得 严复仇梅拉布 约书亚加冕新科冠军 [郑文祺 汪乐]
+https://tv.iill.top/HuiK/iVi6wc
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UFC数字赛」12/07 07:00 UFC第323期：梅拉布VS彼得 严 彼得 严复仇梅拉布 约书亚加冕新科冠军 [智能字幕]
+https://tv.iill.top/HuiK/C4wcbn
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UFC数字赛」12/07 07:00 UFC第323期：梅拉布VS彼得 严 彼得 严复仇梅拉布 约书亚加冕新科冠军 [英文原声]
+https://tv.iill.top/HuiK/cxG06q
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「逐马计划」12/07 07:30 神行2025宁德马拉松
+https://tv.iill.top/HuiK/ahqA68
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「马拉松系列赛」12/07 07:30 荣耀·2025深圳马拉松 深圳、珠海等五场马拉松
+https://tv.iill.top/HuiK/c5nlQX
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「马拉松系列赛」12/07 07:30 2025丽珠医药珠海马拉松
+https://tv.iill.top/HuiK/czjWaQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:00 常规赛 老鹰VS奇才 [25/26赛季常规赛全场集锦：老鹰131:116奇才（20251207）]
+https://tv.iill.top/HuiK/cACO7g
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:00 常规赛 老鹰VS奇才 [刘芳宇]
+https://tv.iill.top/HuiK/FEi8Xu
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:00 常规赛 老鹰VS奇才 [英文原声]
+https://tv.iill.top/HuiK/dSQoAU
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:30 常规赛 勇士VS骑士 [姜帆 刘铁 小七]
+https://tv.iill.top/HuiK/Bj8C3n
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:30 常规赛 勇士VS骑士 [拜月宁]
+https://tv.iill.top/HuiK/LmpTHg
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:30 常规赛 勇士VS骑士 [英文原声]
+https://tv.iill.top/HuiK/mrvEik
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:30 常规赛 雄鹿VS活塞 [25/26赛季常规赛全场集锦：雄鹿112:124活塞（20251207）]
+https://tv.iill.top/HuiK/BRHuuZ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:30 常规赛 雄鹿VS活塞 [罗森]
+https://tv.iill.top/HuiK/1O0u3y
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 08:30 常规赛 雄鹿VS活塞 [英文原声]
+https://tv.iill.top/HuiK/73uSS8
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:00 常规赛 快船VS森林狼 [孙博 王润陶]
+https://tv.iill.top/HuiK/w3wBcK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:00 常规赛 快船VS森林狼 [英文原声]
+https://tv.iill.top/HuiK/6zfVpN
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:00 常规赛 国王VS热火 [25/26赛季常规赛全场集锦：国王127:111热火（20251207）]
+https://tv.iill.top/HuiK/u2AujC
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:00 常规赛 国王VS热火 [徐秦威]
+https://tv.iill.top/HuiK/1qZMbX
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:00 常规赛 国王VS热火 [英文原声]
+https://tv.iill.top/HuiK/twVskR
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:30 常规赛 火箭VS独行侠 [刘圳展]
+https://tv.iill.top/HuiK/fv2uSd
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「NBA」12/07 09:30 常规赛 火箭VS独行侠 [英文原声]
+https://tv.iill.top/HuiK/ZatL9c
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 10:00 成都：半决赛 国乒十连胜挺进决赛 德国3 8日本 [朱子恒]
+https://tv.iill.top/HuiK/9eEq6q
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 10:00 成都：半决赛 国乒十连胜挺进决赛 德国3 8日本 [训练馆]
+https://tv.iill.top/HuiK/n4LL03
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 10:00 成都：半决赛 国乒十连胜挺进决赛 德国3 8日本 [赛场原声]
+https://tv.iill.top/HuiK/2jbw5e
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 10:00 成都：半决赛 国乒十连胜挺进决赛 德国3 8日本 [侯英超 周雨 小马哥]
+https://tv.iill.top/HuiK/o2ocIo
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 10:00 成都：半决赛 国乒十连胜挺进决赛 德国3 8日本 [混采区]
+https://tv.iill.top/HuiK/2WejGE
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 10:00 成都：半决赛 国乒十连胜挺进决赛 德国3 8日本 [朱子恒]
+https://tv.iill.top/HuiK/5iD9cR
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「中国足球青少年精英联赛」12/07 12:00 羽毛球超级联赛第七轮：江苏羽超3 2芜湖兴航
+https://tv.iill.top/HuiK/xm32mt
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/07 12:00 羽毛球超级联赛第七轮：浙江竞体2 3深圳川崎羽众
+https://tv.iill.top/HuiK/2YPHpK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 15:00 俱乐部杯小组赛 青岛崂山啤酒vs天津先行者 [连睿 周鹏]
+https://tv.iill.top/HuiK/OecQyp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 15:00 俱乐部杯小组赛 青岛崂山啤酒vs天津先行者 [赛场原声]
+https://tv.iill.top/HuiK/EOhV0H
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「重庆城市足球超级联赛」12/07 15:00 俱乐部杯小组赛 山西汾酒vs广州朗肽海本 [邵化谦 季孟年]
+https://tv.iill.top/HuiK/nK1mIK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 15:00 俱乐部杯小组赛 山西汾酒vs广州朗肽海本 [赛场原声]
+https://tv.iill.top/HuiK/J9Ro0p
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 15:30 俱乐部杯小组赛 上海久事vs香港金牛 [李天宇 曾令旭]
+https://tv.iill.top/HuiK/yH23vp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 15:30 俱乐部杯小组赛 上海久事vs香港金牛 [赛场原声]
+https://tv.iill.top/HuiK/WNq4zp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 16:00 成都Day8训练馆 【训练馆视角】直击赛前训练
+https://tv.iill.top/HuiK/9XuR0U
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 17:00 成都：铜牌赛、决赛 中国8 1日本 斩获三连冠！德国摘铜 [国际乒联混团世界杯]
+https://tv.iill.top/HuiK/Afz9ed
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 17:00 成都：铜牌赛、决赛 中国8 1日本 斩获三连冠！德国摘铜 [混采区]
+https://tv.iill.top/HuiK/m4ep54
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 17:00 成都：铜牌赛、决赛 中国8 1日本 斩获三连冠！德国摘铜 [赛场原声]
+https://tv.iill.top/HuiK/eRY9KF
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 17:00 成都：铜牌赛、决赛 中国8 1日本 斩获三连冠！德国摘铜 [邓亚萍 刘国正 周冠达]
+https://tv.iill.top/HuiK/WzgALg
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 17:00 成都：铜牌赛、决赛 中国8 1日本 斩获三连冠！德国摘铜 [训练馆]
+https://tv.iill.top/HuiK/kkzsJG
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「国际乒联混合团体世界杯」12/07 17:00 成都：铜牌赛、决赛 中国8 1日本 斩获三连冠！德国摘铜 [混团世界杯]
+https://tv.iill.top/HuiK/HMqUNp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 17:00 俱乐部杯小组赛 浙江稠州金租vs新疆伊力特 [吴博文]
+https://tv.iill.top/HuiK/kr5IK5
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 17:00 俱乐部杯小组赛 浙江稠州金租vs新疆伊力特 [赛场原声]
+https://tv.iill.top/HuiK/fC0fUZ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「和平精英全球总决赛」12/07 18:30 2025 复活赛 第二天
+https://tv.iill.top/HuiK/6cojm2
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/07 18:30 羽毛球超级联赛第七轮：厦门银行2 3辽宁极兔李永波
+https://tv.iill.top/HuiK/zUyBgJ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「羽超联赛」12/07 18:30 羽毛球超级联赛第七轮：瑞昌碧源2 3青岛仁洲
+https://tv.iill.top/HuiK/eqeE4M
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 19:30 联赛 克雷莫纳 vs 莱切 [涂远]
+https://tv.iill.top/HuiK/PYZ1GW
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 19:30 联赛 克雷莫纳 vs 莱切 [赛场原声]
+https://tv.iill.top/HuiK/TLOkNm
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 北京北汽vs山东高速 [连睿 周鹏]
+https://tv.iill.top/HuiK/u8EEAj
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 北京北汽vs山东高速 [赛场原声]
+https://tv.iill.top/HuiK/b5ajJy
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「浙江省城市篮球联赛」12/07 19:30 宁波73 67嘉兴
+https://tv.iill.top/HuiK/j6jqNU
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「浙江省城市篮球联赛」12/07 19:30 台州湾新区66 68苍南
+https://tv.iill.top/HuiK/7DmmLA
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「WCBA」12/07 19:30 常规赛A组 浙江稠州银行 VS 东莞新彤盛
+https://tv.iill.top/HuiK/9mNTJB
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「WCBA」12/07 19:30 常规赛A组 四川蜀道远达 VS 上海浦发银行
+https://tv.iill.top/HuiK/zJlcPm
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「WCBA」12/07 19:30 常规赛A组 石家庄英励 VS 武汉盛帆黄鹤
+https://tv.iill.top/HuiK/iF71gB
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「WCBA」12/07 19:30 常规赛A组 山东赤水河酒 VS 江苏南钢
+https://tv.iill.top/HuiK/zgB9Tr
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 北京控股vs宁波町渥 [李天宇 曾令旭]
+https://tv.iill.top/HuiK/3gP57u
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 北京控股vs宁波町渥 [赛场原声]
+https://tv.iill.top/HuiK/ihrvIu
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 合肥狂风vs广东东阳光 [邵化谦 季孟年]
+https://tv.iill.top/HuiK/ruvtJn
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 合肥狂风vs广东东阳光 [浙江东莞]
+https://tv.iill.top/HuiK/LElfaQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 19:30 俱乐部杯小组赛 合肥狂风vs广东东阳光 [赛场原声]
+https://tv.iill.top/HuiK/IYV0eD
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英女超」12/07 20:00 俱乐部杯小组赛 长白山恩都里vs深圳马可波罗 [王冠证]
+https://tv.iill.top/HuiK/X79ipV
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「CBA俱乐部杯」12/07 20:00 俱乐部杯小组赛 长白山恩都里vs深圳马可波罗 [赛场原声]
+https://tv.iill.top/HuiK/PjXBH0
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 20:30 第二轮 斯洛格镇 vs 马科斯菲尔德镇 [刘焕]
+https://tv.iill.top/HuiK/Qu910S
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 20:30 第二轮 斯洛格镇 vs 马科斯菲尔德镇 [赛场原声]
+https://tv.iill.top/HuiK/vYh0H3
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 21:00 联赛 埃尔切 vs 赫罗纳 [兰子非]
+https://tv.iill.top/HuiK/5D0WV6
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 21:00 联赛 埃尔切 vs 赫罗纳 [赛场原声]
+https://tv.iill.top/HuiK/Elfsac
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/07 21:00 英锦赛正赛决赛（第一阶段）：特鲁姆普决战塞尔比 特鲁姆普决战塞尔比（第一阶段） [秦正 庞卫国]
+https://tv.iill.top/HuiK/kwkPXF
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「斯诺克」12/07 21:00 英锦赛正赛决赛（第一阶段）：特鲁姆普决战塞尔比 特鲁姆普决战塞尔比（第一阶段） [1号桌]
+https://tv.iill.top/HuiK/Qttjx9
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 22:00 联赛 布赖顿 vs 西汉姆联 [苗锟]
+https://tv.iill.top/HuiK/EymdU0
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 22:00 联赛 布赖顿 vs 西汉姆联 [赛场原声]
+https://tv.iill.top/HuiK/cV6RQU
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英超」12/07 22:00 联赛 布赖顿 vs 西汉姆联 [英文原声]
+https://tv.iill.top/HuiK/sWRxQ4
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 22:00 联赛 尼斯 vs 昂热 [盛斌]
+https://tv.iill.top/HuiK/StuUgh
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「法甲」12/07 22:00 联赛 尼斯 vs 昂热 [赛场原声]
+https://tv.iill.top/HuiK/CVTell
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 22:00 联赛 卡利亚里 vs 罗马 [鲁靖明 马延峰]
+https://tv.iill.top/HuiK/oa98BX
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「意甲」12/07 22:00 联赛 卡利亚里 vs 罗马 [赛场原声]
+https://tv.iill.top/HuiK/pDglqK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「UTS」12/07 22:15 伦敦站Day3：德米纳尔率先晋级 卢布对阵鲁德
+https://tv.iill.top/HuiK/kbpfmK
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/07 22:30 联赛 汉堡 vs 不来梅 [王子睿]
+https://tv.iill.top/HuiK/c7yO9C
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「德甲」12/07 22:30 联赛 汉堡 vs 不来梅 [赛场原声]
+https://tv.iill.top/HuiK/mRxxXp
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 22:30 第二轮 博勒姆伍德 vs 纽波特 [涂远]
+https://tv.iill.top/HuiK/Jlwf0t
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「足总杯」12/07 22:30 第二轮 博勒姆伍德 vs 纽波特 [赛场原声]
+https://tv.iill.top/HuiK/hvkJxQ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英女超」12/07 22:30 切尔西女足vs埃弗顿女足 [胡小凡]
+https://tv.iill.top/HuiK/uexM58
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「英女超」12/07 22:30 切尔西女足vs埃弗顿女足 [赛场原声]
+https://tv.iill.top/HuiK/qHPye3
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 23:15 联赛 瓦伦西亚 vs 塞维利亚 [李霄]
+https://tv.iill.top/HuiK/CeHBeJ
+#EXTINF:-1 tvg-id="咪咕体育" tvg-name="咪咕体育" tvg-logo="https://epg-1.iill.top/logo/咪咕.png" group-title="•咪咕「回看」", 「西甲」12/07 23:15 联赛 瓦伦西亚 vs 塞维利亚 [赛场原声]
+https://tv.iill.top/HuiK/JIs2eg
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
 https://tv.iill.top/phenix/fhzw
