@@ -468,10 +468,6 @@ https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
 https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「测试」", TNT Sport 4
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「测试」", Hub Premier 1
-https://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「测试」", Hub Premier 2
-https://hls.iill.top/api/Hub-Premier-2-4K/playlist.m3u8
 
 #INSERT_HERE
 
