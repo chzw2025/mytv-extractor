@@ -460,128 +460,18 @@ https://epg.iill.top/v/302.mp4
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
 https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://epg.iill.top/logo/CCTV1.png" group-title="•咪咕「TV」",CCTV 1 综合「回看」
-https://tv.iill.top/migu/cctv1&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://epg.iill.top/logo/CCTV2.png" group-title="•咪咕「TV」",CCTV 2 财经「回看」
-https://tv.iill.top/migu/cctv2&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://epg.iill.top/logo/CCTV3.png" group-title="•咪咕「TV」",CCTV 3 综艺「回看」
-https://tv.iill.top/migu/cctv3&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://epg.iill.top/logo/CCTV4.png" group-title="•咪咕「TV」",CCTV 4 中文国际「回看」
-https://tv.iill.top/migu/cctv4&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://epg.iill.top/logo/CCTV4美洲.png" group-title="•咪咕「TV」",CCTV 4 中文国际·美洲「回看」
-https://tv.iill.top/migu/cctv4m&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV4欧洲" tvg-name="CCTV4欧洲" tvg-logo="https://epg.iill.top/logo/CCTV4欧洲.png" group-title="•咪咕「TV」",CCTV 4 中文国际·欧洲「回看」
-https://tv.iill.top/migu/cctv4o&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://epg.iill.top/logo/CCTV5.png" group-title="•咪咕「TV」",CCTV 5 体育「回看」
-https://tv.iill.top/migu/cctv5&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://epg.iill.top/logo/CCTV5+.png" group-title="•咪咕「TV」",CCTV 5+ 体育赛事「回看」
-https://tv.iill.top/migu/cctv5+&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://epg.iill.top/logo/CCTV6.png" group-title="•咪咕「TV」",CCTV 6 电影「回看」
-https://tv.iill.top/migu/cctv6&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://epg.iill.top/logo/CCTV7.png" group-title="•咪咕「TV」",CCTV 7 国防军事「回看」
-https://tv.iill.top/migu/cctv7&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://epg.iill.top/logo/CCTV8.png" group-title="•咪咕「TV」",CCTV 8 电视剧「回看」
-https://tv.iill.top/migu/cctv8&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://epg.iill.top/logo/CCTV9.png" group-title="•咪咕「TV」",CCTV 9 纪录「回看」
-https://tv.iill.top/migu/cctv9&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://epg.iill.top/logo/CCTV10.png" group-title="•咪咕「TV」",CCTV 10 科教「回看」
-https://tv.iill.top/migu/cctv10&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://epg.iill.top/logo/CCTV11.png" group-title="•咪咕「TV」",CCTV 11 戏曲「回看」
-https://tv.iill.top/migu/cctv11&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://epg.iill.top/logo/CCTV12.png" group-title="•咪咕「TV」",CCTV 12 社会与法「回看」
-https://tv.iill.top/migu/cctv12&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://epg.iill.top/logo/CCTV13.png" group-title="•咪咕「TV」",CCTV 13 新闻「回看」
-https://tv.iill.top/migu/cctv13&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://epg.iill.top/logo/CCTV14.png" group-title="•咪咕「TV」",CCTV 14 少儿「回看」
-https://tv.iill.top/migu/cctv14&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://epg.iill.top/logo/CCTV15.png" group-title="•咪咕「TV」",CCTV 15 音乐「回看」
-https://tv.iill.top/migu/cctv15&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://epg.iill.top/logo/CCTV17.png" group-title="•咪咕「TV」",CCTV 17 农村农业「回看」
-https://tv.iill.top/migu/cctv17&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.iill.top/logo/CETV1.png" group-title="•咪咕「TV」",CETV 1 中国教育「回看」
-https://tv.iill.top/migu/cetv1&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CETV2" tvg-name="CETV2" tvg-logo="https://epg.iill.top/logo/CETV2.png" group-title="•咪咕「TV」",CETV 2 中国教育「回看」
-https://tv.iill.top/migu/cetv2&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CETV4" tvg-name="CETV4" tvg-logo="https://epg.iill.top/logo/CETV4.png" group-title="•咪咕「TV」",CETV 4 中国教育「回看」
-https://tv.iill.top/migu/cetv4&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CGTN"  tvg-name="CGTN" tvg-logo="https://epg.iill.top/logo/CGTN.png" group-title="•咪咕「TV」",CGTN「回看」
-https://tv.iill.top/CGTN/cgtn&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CGTN外语纪录" tvg-name="CGTN外语纪录" tvg-logo="https://epg.iill.top/logo/CGTN纪录.png" group-title="•咪咕「TV」",CGTN Documentary「回看」
-https://tv.iill.top/CGTN/cgtn_doc&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CGTN俄语" tvg-id="CGTN俄语" tvg-logo="https://epg.iill.top/logo/CGTN俄语.png" group-title="•咪咕「TV」",CGTN Русский「回看」
-https://tv.iill.top/CGTN/cgtn_russian&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.iill.top/logo/CGTN法语.png" group-title="•咪咕「TV」",CGTN Français「回看」
-https://tv.iill.top/CGTN/cgtn_francais&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.iill.top/logo/CGTN西班牙语.png" group-title="•咪咕「TV」",CGTN Español「回看」
-https://tv.iill.top/CGTN/cgtn_espanol&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.iill.top/logo/CGTN阿拉伯语.png" group-title="•咪咕「TV」",CGTN العربية「回看」
-https://tv.iill.top/CGTN/cgtn_arabic&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•咪咕「TV」",浙江卫视
-https://tv.iill.top/migu/zjws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•咪咕「TV」",湖南卫视「回看」
-https://tv.iill.top/migu/hnws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视.png" group-title="•咪咕「TV」",东方卫视「回看」
-https://tv.iill.top/migu/dfws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" tvg-logo="https://epg.iill.top/logo/江苏卫视.png" group-title="•咪咕「TV」",江苏卫视「回看」
-https://tv.iill.top/migu/jsws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" tvg-logo="https://epg.iill.top/logo/广东卫视.png" group-title="•咪咕「TV」",广东卫视「回看」
-https://tv.iill.top/migu/gdws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" tvg-logo="https://epg.iill.top/logo/江西卫视.png" group-title="•咪咕「TV」",江西卫视「回看」
-https://tv.iill.top/migu/jxws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://epg.iill.top/logo/陕西卫视.png" group-title="•咪咕「TV」",陕西卫视「回看」
-https://tv.iill.top/migu/sxws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" tvg-logo="https://epg.iill.top/logo/湖北卫视.png" group-title="•咪咕「TV」",湖北卫视「回看」
-https://tv.iill.top/migu/hubws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" tvg-logo="https://epg.iill.top/logo/东南卫视.png" group-title="•咪咕「TV」",东南卫视「回看」
-https://tv.iill.top/migu/dnws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="海峡卫视" tvg-name="海峡卫视" tvg-logo="https://epg.iill.top/logo/海峡卫视.png" group-title="•咪咕「TV」",海峡卫视「回看」
-https://tv.iill.top/migu/hxws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="•咪咕「TV」",辽宁卫视「回看」
-https://tv.iill.top/migu/lnws&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="四海钓鱼" tvg-name="四海钓鱼" tvg-logo="https://epg.iill.top/logo/四海钓鱼.png" group-title="•咪咕「TV」",四海钓鱼「回看」
-https://tv.iill.top/migu/shdy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="•咪咕「TV」",上海新闻综合「回看」
-https://tv.iill.top/migu/shxw&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="上视东方影视" tvg-name="上视东方影视" tvg-logo="https://epg.iill.top/logo/东方影视.png" group-title="•咪咕「TV」",上视东方影视「回看」
-https://tv.iill.top/migu/shys&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CHC影迷电影" tvg-name="CHC影迷电影" tvg-logo="https://epg.iill.top/logo/影迷电影.png" group-title="•咪咕「TV」",CHC 影迷电影「回看」
-https://tv.iill.top/migu/chcym&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.iill.top/logo/动作电影.png" group-title="•咪咕「TV」",CHC 动作电影「回看」
-https://tv.iill.top/migu/chcdz&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.iill.top/logo/家庭影院.png" group-title="•咪咕「TV」",CHC 家庭影院「回看」
-https://tv.iill.top/migu/chcjt&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="新片放映厅" tvg-name="新片放映厅" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",新片放映「回看」
-https://tv.iill.top/migu/xpfy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="高清大片" tvg-name="高清大片" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",高清大片「回看」
-https://tv.iill.top/migu/gqdp&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="高能悬疑 推理时刻" tvg-name="高能悬疑 推理时刻" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",高能悬疑「回看」
-https://tv.iill.top/migu/gnxy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="经典香港电影" tvg-name="经典香港电影" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",经典香港电影「回看」
-https://tv.iill.top/migu/hkdy&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="抗战经典影片" tvg-name="抗战经典影片" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",抗战经典影片「回看」
-https://tv.iill.top/migu/kzjd&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="血色山河·抗日战争影像志" tvg-name="血色山河·抗日战争影像志" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",血色山河·抗日战争影像志「回看」
-https://tv.iill.top/migu/xssh&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="咪咕24小时体育台" tvg-name="咪咕24小时体育台" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",咪咕24小时体育「回看」
-https://tv.iill.top/migu/mgty&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="五环传奇" tvg-name="五环传奇" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",五环传奇「回看」
-https://tv.iill.top/migu/whcq&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="赛事最经典" tvg-name="赛事最经典" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",赛事最经典「回看」
-https://tv.iill.top/migu/sszjd&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="掼蛋精英赛" tvg-name="掼蛋精英赛" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",掼蛋精英赛「回看」
-https://tv.iill.top/migu/gdjs&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="体坛名栏汇" tvg-name="体坛名栏汇" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",体坛名栏汇「回看」
-https://tv.iill.top/migu/ttmh&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="和美乡途轮播台" tvg-name="和美乡途轮播台" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",和美乡途轮播「回看」
-https://tv.iill.top/migu/hmxt&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="最强综艺趴" tvg-name="最强综艺趴" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",最强综艺趴「回看」
-https://tv.iill.top/migu/zqzyp&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="嘉佳卡通" tvg-name="嘉佳卡通" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",嘉佳卡通「回看」
-https://tv.iill.top/migu/jddh&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",新动力量创一流「回看」
-https://tv.iill.top/migu/xdll&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
-#EXTINF:-1 tvg-id="钱塘江" tvg-name="钱塘江" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",钱塘江「回看」
-https://tv.iill.top/migu/qtj&token=d6c3596b793d163ff36129344674a3b2d8d6d13931fed17ecd9a3044e73d3cf5
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「测试」", TNT Sport 1
+https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="•體育「测试」", TNT Sport 2
+https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育「测试」", TNT Sport 3
+https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「测试」", TNT Sport 4
+https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「测试」", Hub Premier 1
+https://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「测试」", Hub Premier 2
+https://hls.iill.top/api/Hub-Premier-2-4K/playlist.m3u8
 
 #INSERT_HERE
 
@@ -631,12 +521,6 @@ https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPla
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK36" tvg-name="RTHK36" tvg-logo="https://epg.iill.top/logo/RTHK36.png" group-title="•港澳「限制」",RTHK 36
 https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-#EXTINF:-1 tvg-id="tvN" tvg-name="tvN" tvg-logo="https://epg.iill.top/logo/tvN.png" group-title="•港澳「限制」",tvN
-https://hls.iill.top/api/tvN/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•港澳「限制」",BBC Earth
-https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•港澳「限制」",BBC Lifestyle
-https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.iill.top/logo/澳门莲花.png" group-title="•港澳「限制」",澳門蓮花
 http://1033946631.cloudvdn.com/a.m3u8?domain=live-hdl.macaulotustv.com&player=1&streamid=lotustv:lotustv/macaulotustv&v3=1
 #EXTINF:-1 tvg-id="澳视卫星" tvg-name="澳视卫星" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" group-title="•港澳「限制」",澳門Macau
