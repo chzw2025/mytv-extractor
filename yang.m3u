@@ -468,6 +468,12 @@ https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
 https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「测试」", TNT Sport 4
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•體育「测试」",BBC Earth
+https://hls.iill.top/api/BBC-Earth/playlist.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•體育「测试」",BBC Lifestyle
+https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•體育「测试」",Discovery
+https://hls.iill.top/api/Discovery/playlist.m3u8
 
 #INSERT_HERE
 
