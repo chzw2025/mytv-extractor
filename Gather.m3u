@@ -21,12 +21,54 @@ https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
 https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「测试」", TNT Sport 4
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•體育「测试」",BBC Earth
-https://hls.iill.top/api/BBC-Earth/playlist.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•體育「测试」",BBC Lifestyle
-https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•體育「测试」",Discovery
-https://hls.iill.top/api/Discovery/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-1" tvg-name="beIN Sports 1" tvg-logo="" group-title="•體育「测试」",beIN Sports 1
+http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-2" tvg-name="beIN Sports 2" tvg-logo="" group-title="•體育「测试」",beIN Sports 2
+http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-3" tvg-name="beIN Sports 3" tvg-logo="" group-title="•體育「测试」",beIN Sports 3
+http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-4" tvg-name="beIN Sports 4" tvg-logo="" group-title="•體育「测试」",beIN Sports 4
+http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="beIN-Sports-5" tvg-name="beIN Sports 5" tvg-logo="" group-title="•體育「测试」",beIN Sports 5
+http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-1" tvg-name="Hub Premier 1" tvg-logo="" group-title="•體育「测试」",Hub Premier 1
+http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-2" tvg-name="Hub Premier 2" tvg-logo="" group-title="•體育「测试」",Hub Premier 2
+http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-3" tvg-name="Hub Premier 3" tvg-logo="" group-title="•體育「测试」",Hub Premier 3
+http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-4" tvg-name="Hub Premier 4" tvg-logo="" group-title="•體育「测试」",Hub Premier 4
+http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-5" tvg-name="Hub Premier 5" tvg-logo="" group-title="•體育「测试」",Hub Premier 5
+http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-6" tvg-name="Hub Premier 6" tvg-logo="" group-title="•體育「测试」",Hub Premier 6
+http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-7" tvg-name="Hub Premier 7" tvg-logo="" group-title="•體育「测试」",Hub Premier 7
+http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Premier-8" tvg-name="Hub Premier 8" tvg-logo="" group-title="•體育「测试」",Hub Premier 8
+http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-1" tvg-name="Hub Sports 1" tvg-logo="" group-title="•體育「测试」",Hub Sports 1
+http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-2" tvg-name="Hub Sports 2" tvg-logo="" group-title="•體育「测试」",Hub Sports 2
+http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-3" tvg-name="Hub Sports 3" tvg-logo="" group-title="•體育「测试」",Hub Sports 3
+http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-4" tvg-name="Hub Sports 4" tvg-logo="" group-title="•體育「测试」",Hub Sports 4
+http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-5" tvg-name="Hub Sports 5" tvg-logo="" group-title="•體育「测试」",Hub Sports 5
+http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-6" tvg-name="Hub Sports 6" tvg-logo="" group-title="•體育「测试」",Hub Sports 6
+http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-7" tvg-name="Hub Sports 7" tvg-logo="" group-title="•體育「测试」",Hub Sports 7
+http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
+#EXTINF:-1 tvg-id="Hub-Sports-8" tvg-name="Hub Sports 8" tvg-logo="" group-title="•體育「测试」",Hub Sports 8
+http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
+#EXTINF:-1 tvg-id="Fight-Sports" tvg-name="Fight Sports" tvg-logo="" group-title="•體育「测试」",Fight Sports
+http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="Spotv-1" tvg-name="Spotv-1" tvg-logo="" group-title="•體育「测试」",Spotv-1
+http://hls.iill.top/api/Spotv-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Spotv-2" tvg-name="Spotv-2" tvg-logo="" group-title="•體育「测试」",Spotv-2
+http://hls.iill.top/api/Spotv-2/playlist.m3u8
 
 #INSERT_HERE
 
