@@ -1,9 +1,9 @@
 #EXTM3U x-tvg-url="https://epg.iill.top/epg.xml.gz" catchup="append" catchup-source="?playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",免費訂閲：請勿販賣...
 https://epg.iill.top/v/302.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2025-11-11 #佛系維護...
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護時間：2026-1-6 #佛系維護...
 https://epg.iill.top/v/301.mp4
-#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護内容：維護 Gather「增加 •咪咕「全運會」"」
+#EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",維護内容：維護 Gather「恢復 •咪咕「TV」"」
 https://epg.iill.top/v/302.mp4
 #EXTINF:-1 tvg-id="免費訂閲" tvg-name="免費訂閲" tvg-logo="https://epg.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",公告说明：推流源·「隨時拉閘 / 晚安"0-6"」
 https://epg.iill.top/v/301.mp4
@@ -21,53 +21,53 @@ https://hls.iill.top/api/TNT-Sports-2/playlist.m3u8
 https://hls.iill.top/api/TNT-Sports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「测试」", TNT Sport 4
 https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN-Sports-1" tvg-name="beIN Sports 1" tvg-logo="" group-title="•體育「测试」",beIN Sports 1
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="•體育「测试」",beIN Sports 1
 http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN-Sports-2" tvg-name="beIN Sports 2" tvg-logo="" group-title="•體育「测试」",beIN Sports 2
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="•體育「测试」",beIN Sports 2
 http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN-Sports-3" tvg-name="beIN Sports 3" tvg-logo="" group-title="•體育「测试」",beIN Sports 3
+#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「测试」",beIN Sports 3
 http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN-Sports-4" tvg-name="beIN Sports 4" tvg-logo="" group-title="•體育「测试」",beIN Sports 4
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="•體育「测试」",beIN Sports 4
 http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN-Sports-5" tvg-name="beIN Sports 5" tvg-logo="" group-title="•體育「测试」",beIN Sports 5
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-5.png" group-title="•體育「测试」",beIN Sports 5
 http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-1" tvg-name="Hub Premier 1" tvg-logo="" group-title="•體育「测试」",Hub Premier 1
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「测试」",Hub Premier 1
 http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-2" tvg-name="Hub Premier 2" tvg-logo="" group-title="•體育「测试」",Hub Premier 2
+#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「测试」",Hub Premier 2
 http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-3" tvg-name="Hub Premier 3" tvg-logo="" group-title="•體育「测试」",Hub Premier 3
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="•體育「测试」",Hub Premier 3
 http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-4" tvg-name="Hub Premier 4" tvg-logo="" group-title="•體育「测试」",Hub Premier 4
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="•體育「测试」",Hub Premier 4
 http://hls.iill.top/api/Hub-Premier-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-5" tvg-name="Hub Premier 5" tvg-logo="" group-title="•體育「测试」",Hub Premier 5
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="•體育「测试」",Hub Premier 5
 http://hls.iill.top/api/Hub-Premier-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-6" tvg-name="Hub Premier 6" tvg-logo="" group-title="•體育「测试」",Hub Premier 6
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="•體育「测试」",Hub Premier 6
 http://hls.iill.top/api/Hub-Premier-6/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-7" tvg-name="Hub Premier 7" tvg-logo="" group-title="•體育「测试」",Hub Premier 7
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="•體育「测试」",Hub Premier 7
 http://hls.iill.top/api/Hub-Premier-7/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Premier-8" tvg-name="Hub Premier 8" tvg-logo="" group-title="•體育「测试」",Hub Premier 8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="•體育「测试」",Hub Premier 8
 http://hls.iill.top/api/Hub-Premier-8/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-1" tvg-name="Hub Sports 1" tvg-logo="" group-title="•體育「测试」",Hub Sports 1
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="•體育「测试」",Hub Sports 1
 http://hls.iill.top/api/Hub-Sports-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-2" tvg-name="Hub Sports 2" tvg-logo="" group-title="•體育「测试」",Hub Sports 2
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="•體育「测试」",Hub Sports 2
 http://hls.iill.top/api/Hub-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-3" tvg-name="Hub Sports 3" tvg-logo="" group-title="•體育「测试」",Hub Sports 3
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="•體育「测试」",Hub Sports 3
 http://hls.iill.top/api/Hub-Sports-3/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-4" tvg-name="Hub Sports 4" tvg-logo="" group-title="•體育「测试」",Hub Sports 4
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="•體育「测试」",Hub Sports 4
 http://hls.iill.top/api/Hub-Sports-4/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-5" tvg-name="Hub Sports 5" tvg-logo="" group-title="•體育「测试」",Hub Sports 5
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="•體育「测试」",Hub Sports 5
 http://hls.iill.top/api/Hub-Sports-5/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-6" tvg-name="Hub Sports 6" tvg-logo="" group-title="•體育「测试」",Hub Sports 6
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="•體育「测试」",Hub Sports 6
 http://hls.iill.top/api/Hub-Sports-6/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-7" tvg-name="Hub Sports 7" tvg-logo="" group-title="•體育「测试」",Hub Sports 7
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="•體育「测试」",Hub Sports 7
 http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub-Sports-8" tvg-name="Hub Sports 8" tvg-logo="" group-title="•體育「测试」",Hub Sports 8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="•體育「测试」",Hub Sports 8
 http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
-#EXTINF:-1 tvg-id="Fight-Sports" tvg-name="Fight Sports" tvg-logo="" group-title="•體育「测试」",Fight Sports
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「测试」",Fight Sports
 http://hls.iill.top/api/Fight-Sports/playlist.m3u8
-#EXTINF:-1 tvg-id="Spotv-1" tvg-name="Spotv-1" tvg-logo="" group-title="•體育「测试」",Spotv-1
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="•體育「测试」",Spotv 1
 http://hls.iill.top/api/Spotv-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Spotv-2" tvg-name="Spotv-2" tvg-logo="" group-title="•體育「测试」",Spotv-2
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「测试」",Spotv 2
 http://hls.iill.top/api/Spotv-2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="•咪咕「TV」",中国天气「回看」
@@ -249,7 +249,7 @@ https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
 https://hls.iill.top/api/BBC-Earth/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•港澳「限制」",BBC Lifestyle
 https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
-#EXTINF:-1 tvg-id="Discovery" tvg-name="Discovery" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•港澳「限制」",Discovery
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•港澳「限制」",Discovery
 https://hls.iill.top/api/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.iill.top/logo/澳门莲花.png" group-title="•港澳「限制」",澳門蓮花
 https://tv.iill.top/mo/lotustv&token=cc939526aed05a9c3f42c88c61fb8cb76c2acee2ebd65691e243451029eb7b84
@@ -609,26 +609,26 @@ http://dxa.yiandrive.com:39319/gztv/zhonghe
 #EXTINF:-1 tvg-id="广州新闻" tvg-name="广州新闻" tvg-logo="https://epg.iill.top/logo/广州新闻.png" group-title="•地方「特产」",广州新闻
 http://dxa.yiandrive.com:39319/gztv/xinwen
 #EXTINF:-1 tvg-id="广州法治" tvg-name="广州法治" tvg-logo="https://epg.iill.top/logo/广州法治.png" group-title="•地方「特产」",广州法治
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/gztv/fazhi
+http://dxa.yiandrive.com:39319/gztv/fazhi
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="•地方「特产」",广州南国都市
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/gztv/shenghuo
+http://dxa.yiandrive.com:39319/gztv/shenghuo
 
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" group-title="•地方「特产」",东方卫视
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/dfws
+http://dxa.yiandrive.com:39319/sh/dfws
 #EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="•地方「特产」",五星体育
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/wxty
+http://dxa.yiandrive.com:39319/sh/wxty
 #EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="•地方「特产」",第一财经
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/dycj
+http://dxa.yiandrive.com:39319/sh/dycj
 #EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="•地方「特产」",上海新闻综合
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/xwzh
+http://dxa.yiandrive.com:39319/sh/xwzh
 #EXTINF:-1 tvg-id="上海都市频道" tvg-name="上海都市频道" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="•地方「特产」",上海都市频道
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/dspd
+http://dxa.yiandrive.com:39319/sh/dspd
 #EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="•地方「特产」",新纪实
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/xjs
+http://dxa.yiandrive.com:39319/sh/xjs
 #EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" group-title="•地方「特产」",魔都眼
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/mdy
+http://dxa.yiandrive.com:39319/sh/mdy
 #EXTINF:-1 tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="•地方「特产」",爱上海
-http://dxa.yiandrive.com:39319http://dxa.yiandrive.com:39319/sh/ash
+http://dxa.yiandrive.com:39319/sh/ash
 
 #EXTINF:-1 tvg-logo="https://epg.iill.top/logo/哔哩哔哩.png" group-title="•游戏「赛事」",「B站」热门赛事
 https://live.iill.top/bilibili/10
