@@ -20,19 +20,19 @@ https://hls.iill.top/api/BBC-Lifestyle/playlist.m3u8
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•綜合「測試」",Discovery
 https://hls.iill.top/api/Discovery/playlist.m3u8
 #EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="•綜合「測試」",天映頻道
-https://tv.iill.top/x/typd&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/typd
 #EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" group-title="•綜合「測試」",動物星球
-https://tv.iill.top/x/dwxq&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/dwxq
 #EXTINF:-1 tvg-id="緯來日本" tvg-name=緯來日本" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•綜合「測試」",緯來日本
-https://tv.iill.top/x/wlrb&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/wlrb
 #EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•綜合「測試」",緯來體育
-https://tv.iill.top/x/wlty&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/wlty
 #EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•綜合「測試」",緯來電影
-https://tv.iill.top/x/wldy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/wldy
 #EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="•綜合「測試」",東森電影
-https://tv.iill.top/x/dsdy&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/dsdy
 #EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" group-title="•綜合「測試」",龍翔時代
-https://tv.iill.top/x/lxsd&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
+https://tv.iill.top/x/lxsd
 
 #EXTINF:-1 tvg-id="426" tvg-name="Eu.Music HD" tvg-logo="http://staticeu.sweet.tv/images/cache/channel_icons/BCVAGIAK/426-eu-music-hd.png" group-title="•綜合「測試」",Eu.Music
 http://159.69.45.173:9999/sweettv.php?id=426
@@ -97,6 +97,8 @@ http://hls.iill.top/api/Fight-Sports/playlist.m3u8
 http://hls.iill.top/api/Spotv-1/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「測試」",Spotv 2
 http://hls.iill.top/api/Spotv-2/playlist.m3u8
+
+#INSERT_HERE
 
 #EXTINF:-1 tvg-id="中国天气" tvg-name="中国天气" tvg-logo="https://epg.iill.top/logo/中国天气.png" group-title="•咪咕「TV」",中国天气「回看」
 https://tv.iill.top/migu/zgtq&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
@@ -224,8 +226,6 @@ https://tv.iill.top/migu/hqly&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e
 https://tv.iill.top/migu/c&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
 #EXTINF:-1 tvg-id="新动力量创一流" tvg-name="新动力量创一流" tvg-logo="https://epg.iill.top/logo/咪咕.png" group-title="•咪咕「TV」",新动力量创一流「回看」
 https://tv.iill.top/migu/xdll&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
-
-#INSERT_HERE
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
 https://tv.iill.top/phenix/fhzw&token=886bce813f2cd4e37742d034db073fb39288ecfa7b0e43b20307dd9a2b2d0bdc
