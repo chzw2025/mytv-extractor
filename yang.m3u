@@ -500,7 +500,7 @@ https://hls.iill.top/api/TNT-Sports-4/playlist.m3u8
 http://hls.iill.top/api/beIN-Sports-1/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="•體育「測試」",beIN Sports 2
 http://hls.iill.top/api/beIN-Sports-2/playlist.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 3 HD" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「測試」",beIN Sports 3
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「測試」",beIN Sports 3
 http://hls.iill.top/api/beIN-Sports-3/playlist.m3u8
 #EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="•體育「測試」",beIN Sports 4
 http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
@@ -508,7 +508,7 @@ http://hls.iill.top/api/beIN-Sports-4/playlist.m3u8
 http://hls.iill.top/api/beIN-Sports-5/playlist.m3u8
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「測試」",Hub Premier 1
 http://hls.iill.top/api/Hub-Premier-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 2" tvg-name="Hub Premier 2" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「測試」",Hub Premier 2
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「測試」",Hub Premier 2
 http://hls.iill.top/api/Hub-Premier-2/playlist.m3u8
 #EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="•體育「測試」",Hub Premier 3
 http://hls.iill.top/api/Hub-Premier-3/playlist.m3u8
