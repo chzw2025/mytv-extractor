@@ -10,9 +10,6 @@ https://epg.iill.top/v/301.mp4
 #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",建議使用：請保持 个人觀看 請勿頻繁切換
 https://epg-1.iill.top/v/301.mp4
 
-#EXTINF:-1 tvg-logo="https://epg.iill.top/logo/FashionTV.png" group-title="•4K「IPV4」",Fashion 4K「时尚」
-https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
 https://hls.iill.top/api/BBC-Earth/playlist.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
@@ -34,7 +31,7 @@ https://tv.iill.top/x/dsdy
 #EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" group-title="•綜合「測試」",龍翔時代
 https://tv.iill.top/x/lxsd
 
-#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg-1.iill.top/logo/NBA.png"  group-title="•體育「測試」", NBA TV
+#EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://epg-1.iill.top/logo/NBA.png"  group-title="•體育「測試」", NBA TV
 https://hls.iill.top/api/NBA/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「測試」", TNT Sport 1
 https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
@@ -461,8 +458,6 @@ http://r.jdshipin.com/ndGgS
 http://r.jdshipin.com/CkuBd
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="•海外「集合」",Now新聞台
 https://cdn.163189.xyz/163189/now
-#EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg.iill.top/logo/Sky-Sports-F1.png" group-title="•海外「集合」",Sky Sports F1
-http://fortv.cc:8080/clarencekingrh@hotmail.com/pKgSdl4ZFX/35244
 #EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•海外「集合」",Red Bull TV
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="娛樂新聞台" tvg-name="娛樂新聞台" tvg-logo="https://epg.iill.top/logo/娛樂新聞.png" group-title="•海外「集合」",娛樂新聞台
