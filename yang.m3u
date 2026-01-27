@@ -481,10 +481,8 @@ https://tv.iill.top/x/dsdy
 #EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" group-title="•綜合「測試」",龍翔時代
 https://tv.iill.top/x/lxsd
 
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="•體育「測試」", Eurosport 1
-https://hls.iill.top/api/Eurosport-1/playlist.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="•體育「測試」", Eurosport 2
-https://hls.iill.top/api/Eurosport-2/playlist.m3u8
+#EXTINF:-1 tvg-id="NBA TV" tvg-name="NBA TV" tvg-logo="https://epg-1.iill.top/logo/NBA.png"  group-title="•體育「測試」", NBA TV
+https://hls.iill.top/api/NBA/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「測試」", TNT Sport 1
 https://hls.iill.top/api/TNT-Sports-1/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="•體育「測試」", TNT Sport 2
@@ -537,6 +535,10 @@ http://hls.iill.top/api/Hub-Sports-7/playlist.m3u8
 http://hls.iill.top/api/Hub-Sports-8/playlist.m3u8
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「測試」",Fight Sports
 http://hls.iill.top/api/Fight-Sports/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="•體育「測試」", Eurosport 1
+https://hls.iill.top/api/Eurosport-1/playlist.m3u8
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="•體育「測試」", Eurosport 2
+https://hls.iill.top/api/Eurosport-2/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="•體育「測試」",Spotv 1
 http://hls.iill.top/api/Spotv-1/playlist.m3u8
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「測試」",Spotv 2
