@@ -181,14 +181,14 @@ https://tv.iill.top/litv/4gtv-4gtv101&token=7dc56b7836ba34da0801979f53829b41b766
 https://tv.iill.top/litv/4gtv-4gtv152&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 #EXTINF:-1 tvg-id="東森財經台" tvg-name="東森財經台" tvg-logo="https://epg.iill.top/logo/东森财经.png" group-title="•台湾「限制」", 東森財經「LiTV」
 https://tv.iill.top/litv/4gtv-4gtv153&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="•台湾「限制」", TVBS「LiTV」
-https://tv.iill.top/litv/4gtv-4gtv073&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-#EXTINF:-1 tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="•台湾「限制」", TVBS 新聞「LiTV」
-https://tv.iill.top/litv/4gtv-4gtv072&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://epg.iill.top/logo/TVBS欢乐.png" group-title="•台湾「限制」", TVBS 歡樂「LiTV」
-https://tv.iill.top/litv/4gtv-4gtv068&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
-#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采.png" group-title="•台湾「限制」", TVBS 精采「LiTV」
-https://tv.iill.top/litv/4gtv-4gtv067&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+#EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="•台湾「限制」", TVBS「4gTV」
+https://tv.iill.top/4gtv/media-live073&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+#EXTINF:-1 tvg-id="TVBS新聞台" tvg-name="TVBS新聞台" tvg-logo="https://epg.iill.top/logo/TVBS新闻.png" group-title="•台湾「限制」", TVBS 新聞「4gTV」
+https://tv.iill.top/4gtv/media-live072&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+#EXTINF:-1 tvg-id="TVBS歡樂台" tvg-name="TVBS歡樂台" tvg-logo="https://epg.iill.top/logo/TVBS欢乐.png" group-title="•台湾「限制」", TVBS 歡樂「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv068&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
+#EXTINF:-1 tvg-id="TVBS精采台" tvg-name="TVBS精采台" tvg-logo="https://epg.iill.top/logo/TVBS精采.png" group-title="•台湾「限制」", TVBS 精采「4gTV」
+https://tv.iill.top/4gtv/4gtv-4gtv067&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 #EXTINF:-1 tvg-id="TVBS綜藝台" tvg-name="TVBS綜藝台" tvg-logo="https://epg.iill.top/logo/TVBS综艺.png" group-title="•台湾「限制」", TVBS 綜藝「4gTV」
 https://tv.iill.top/4gtv/4gtv-live087&token=7dc56b7836ba34da0801979f53829b41b766cbd8791cafa0fb887c09c5dd03f0
 #EXTINF:-1 tvg-id="TVBS台劇台" tvg-name="TVBS台劇台" tvg-logo="https://epg.iill.top/logo/TVBS台剧.png" group-title="•台湾「限制」", TVBS 台劇「4gTV」
