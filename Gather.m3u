@@ -20,14 +20,16 @@ https://hls.iill.top/api/Discovery/playlist.m3u8
 https://tv.iill.top/x/typd
 #EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" group-title="•綜合「測試」",動物星球
 https://tv.iill.top/x/dwxq
-#EXTINF:-1 tvg-id="緯來日本" tvg-name=緯來日本" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•綜合「測試」",緯來日本
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•綜合「測試」",緯來日本
 https://tv.iill.top/x/wlrb
-#EXTINF:-1 tvg-id="緯來體育" tvg-name="緯來體育" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•綜合「測試」",緯來體育
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•綜合「測試」",緯來體育
 https://tv.iill.top/x/wlty
-#EXTINF:-1 tvg-id="緯來電影" tvg-name="緯來電影" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•綜合「測試」",緯來電影
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•綜合「測試」",緯來電影
 https://tv.iill.top/x/wldy
-#EXTINF:-1 tvg-id="東森電影" tvg-name="東森電影" tvg-logo="https://epg.iill.top/logo/东森电影.png" group-title="•綜合「測試」",東森電影
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" group-title="•綜合「測試」",東森電影
 https://tv.iill.top/x/dsdy
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" group-title="•綜合「測試」",東森洋片
+https://tv.iill.top/x/dsyp
 #EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" group-title="•綜合「測試」",龍翔時代
 https://tv.iill.top/x/lxsd
 
