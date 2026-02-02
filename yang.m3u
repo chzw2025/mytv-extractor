@@ -463,22 +463,20 @@ https://hls.iill.top/api/BBC-Earth/index.m3u8
 https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
 #EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•綜合「測試」",Discovery
 https://hls.iill.top/api/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="天映頻道" tvg-name="天映頻道" tvg-logo="https://epg.iill.top/logo/天映频道.png" group-title="•綜合「測試」",天映頻道
-https://hls.iill.topapi/typd/index.m3u8
 #EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" group-title="•綜合「測試」",動物星球
-https://hls.iill.topapi/dwxq/index.m3u8
+https://hls.iill.top/api/dwxq/index.m3u8
 #EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•綜合「測試」",緯來日本
-https://hls.iill.topapi/wlrb/index.m3u8
+https://hls.iill.top/api/wlrb/index.m3u8
 #EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•綜合「測試」",緯來體育
-https://hls.iill.topapi/wlty/index.m3u8
+https://hls.iill.top/api/wlty/index.m3u8
 #EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•綜合「測試」",緯來電影
-https://hls.iill.topapi/wldy/index.m3u8
+https://hls.iill.top/api/wldy/index.m3u8
 #EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" group-title="•綜合「測試」",東森電影
-https://hls.iill.topapi/dsdy/index.m3u8
+https://hls.iill.top/api/dsdy/index.m3u8
 #EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" group-title="•綜合「測試」",東森洋片
-https://hls.iill.topapi/dsyp/index.m3u8
+https://hls.iill.top/api/dsyp/index.m3u8
 #EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" group-title="•綜合「測試」",龍翔時代
-https://hls.iill.topapi/lxsd/index.m3u8
+https://hls.iill.top/api/lxsd/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://epg-1.iill.top/logo/NBA.png"  group-title="•體育「測試」", NBA TV
 https://hls.iill.top/api/NBA/index.m3u8
