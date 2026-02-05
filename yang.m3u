@@ -544,11 +544,11 @@ https://hls.iill.top/api/Spotv-2/index.m3u8
 #INSERT_HERE
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
-https://tv.iill.top/phenix/fhzw?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
+http://dxa.yiandrive.com:39319/phenix/fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·資訊「回看」
-https://tv.iill.top/phenix/fhzx?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
+http://dxa.yiandrive.com:39319/phenix/fhzx
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·香港「回看」
-https://tv.iill.top/phenix/fhhk?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
+http://dxa.yiandrive.com:39319/phenix/fhhk
 #EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://epg.iill.top/logo/雷霆881.png" group-title="•港澳「限制」",雷霆881「电台」
 https://881.touch-u.fun/playlist.m3u8
 #EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="•港澳「限制」",叱咤903「电台」
@@ -754,10 +754,12 @@ https://tv.iill.top/4gtv/4gtv-live027?token=f99aa6dcc5ace8a366e4f74ee682577886b8
 https://tv.iill.top/4gtv/4gtv-live026?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
 #EXTINF:-1 tvg-id="MagellanTV頻道 (麥哲倫頻道)" tvg-name="MagellanTV頻道 (麥哲倫頻道)" tvg-logo="https://epg.iill.top/logo/MagellanTV.png" group-title="•台湾「限制」", MagellanTV (麥哲倫頻道)「4gTV」
 https://tv.iill.top/4gtv/4gtv-live123?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
-#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/Rock-Action.png" group-title="•台湾「限制」", Rock Action「4gTV」
+#EXTINF:-1 tvg-id="ROCK Action" tvg-name="ROCK Action" tvg-logo="https://epg.iill.top/logo/ROCK-Action.png" group-title="•台湾「限制」", ROCK Action「4gTV」
 https://tv.iill.top/4gtv/4gtv-live138?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
-#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://epg.iill.top/logo/Rock-Entertainment.png" group-title="•台湾「限制」", Rock Entertainment「4gTV」
+#EXTINF:-1 tvg-id="ROCK Entertainment" tvg-name="ROCK Entertainment" tvg-logo="https://epg.iill.top/logo/ROCK-Entertainment.png" group-title="•台湾「限制」", ROCK Entertainment「4gTV」
 https://tv.iill.top/4gtv/4gtv-live080?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
+#EXTINF:-1 tvg-id="ROCK Xstream搖滾極限頻道" tvg-name="ROCK Xstream搖滾極限頻道" tvg-logo="https://epg.iill.top/logo/ROCK-Xstream.png" group-title="•台湾「限制」", ROCK Xstream「4gTV」
+https://tv.iill.top/4gtv/4gtv-live124?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
 #EXTINF:-1 tvg-id="ARIRANG阿里郎頻道" tvg-name="ARIRANG阿里郎頻道" tvg-logo="https://epg.iill.top/logo/Arirang-TV.png" group-title="•台湾「限制」", Arirang TV「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv079?token=f99aa6dcc5ace8a366e4f74ee682577886b85ad1eaac24be91383512c36747b9
 #EXTINF:-1 tvg-id="韓國娛樂台 KMTV" tvg-name="韓國娛樂台 KMTV" tvg-logo="https://epg.iill.top/logo/韓國娛樂台-KMTV.png" group-title="•台湾「限制」", 韓國娛樂台 KMTV「4gTV」
