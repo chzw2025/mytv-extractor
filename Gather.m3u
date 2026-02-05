@@ -28,7 +28,7 @@ https://hls.iill.top/api/wldy/index.m3u8
 https://hls.iill.top/api/dsdy/index.m3u8
 #EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" group-title="•綜合「測試」",東森洋片
 https://hls.iill.top/api/dsyp/index.m3u8
-#EXTINF:-1 tvg-id="龍翔時代" tvg-name="龍翔時代" tvg-logo="https://epg.iill.top/logo/龙祥时代.png" group-title="•綜合「測試」",龍翔時代
+#EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" group-title="•綜合「測試」",龍祥時代
 https://hls.iill.top/api/lxsd/index.m3u8
 
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://epg-1.iill.top/logo/NBA.png"  group-title="•體育「測試」", NBA TV
