@@ -10,65 +10,65 @@ https://epg-1.iill.top/v/302.mp4
 https://epg-1.iill.top/v/301.mp4
 
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="•體育「測試」", Eurosport 1
-https://hls.iill.top/api/Eurosport-1/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Eurosport-1/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="•體育「測試」", Eurosport 2
-https://hls.iill.top/api/Eurosport-2/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Eurosport-2/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「測試」", TNT Sport 1
-https://hls.iill.top/api/TNT-Sports-1/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/TNT-Sports-1/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="•體育「測試」", TNT Sport 2
-https://hls.iill.top/api/TNT-Sports-2/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/TNT-Sports-2/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育「測試」", TNT Sport 3
-https://hls.iill.top/api/TNT-Sports-3/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/TNT-Sports-3/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「測試」", TNT Sport 4
-https://hls.iill.top/api/TNT-Sports-4/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/TNT-Sports-4/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="•體育「測試」",beIN Sports 1
-https://hls.iill.top/api/beIN-Sports-1/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/beIN-Sports-1/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="•體育「測試」",beIN Sports 2
-https://hls.iill.top/api/beIN-Sports-2/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/beIN-Sports-2/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「測試」",beIN Sports 3
-https://hls.iill.top/api/beIN-Sports-3/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/beIN-Sports-3/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="•體育「測試」",beIN Sports 4
-https://hls.iill.top/api/beIN-Sports-4/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/beIN-Sports-4/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-5.png" group-title="•體育「測試」",beIN Sports 5
-https://hls.iill.top/api/beIN-Sports-5/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/beIN-Sports-5/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「測試」",Hub Premier 1
-https://hls.iill.top/api/Hub-Premier-1/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-1/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「測試」",Hub Premier 2
-https://hls.iill.top/api/Hub-Premier-2/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-2/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="•體育「測試」",Hub Premier 3
-https://hls.iill.top/api/Hub-Premier-3/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-3/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="•體育「測試」",Hub Premier 4
-https://hls.iill.top/api/Hub-Premier-4/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-4/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="•體育「測試」",Hub Premier 5
-https://hls.iill.top/api/Hub-Premier-5/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-5/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="•體育「測試」",Hub Premier 6
-https://hls.iill.top/api/Hub-Premier-6/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-6/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="•體育「測試」",Hub Premier 7
-https://hls.iill.top/api/Hub-Premier-7/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-7/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="•體育「測試」",Hub Premier 8
-https://hls.iill.top/api/Hub-Premier-8/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Premier-8/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="•體育「測試」",Hub Sports 1
-https://hls.iill.top/api/Hub-Sports-1/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-1/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="•體育「測試」",Hub Sports 2
-https://hls.iill.top/api/Hub-Sports-2/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-2/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="•體育「測試」",Hub Sports 3
-https://hls.iill.top/api/Hub-Sports-3/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-3/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="•體育「測試」",Hub Sports 4
-https://hls.iill.top/api/Hub-Sports-4/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-4/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="•體育「測試」",Hub Sports 5
-https://hls.iill.top/api/Hub-Sports-5/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-5/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="•體育「測試」",Hub Sports 6
-https://hls.iill.top/api/Hub-Sports-6/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-6/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="•體育「測試」",Hub Sports 7
-https://hls.iill.top/api/Hub-Sports-7/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-7/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="•體育「測試」",Hub Sports 8
-https://hls.iill.top/api/Hub-Sports-8/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Hub-Sports-8/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「測試」",Fight Sports
-https://hls.iill.top/api/Fight-Sports/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Fight-Sports/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="NBA TV HD" tvg-name="NBA TV HD" tvg-logo="https://epg-1.iill.top/logo/NBA.png"  group-title="•體育「測試」", NBA TV
-https://hls.iill.top/api/NBA/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/NBA/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="•體育「測試」",Spotv 1
-https://hls.iill.top/api/Spotv-1/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Spotv-1/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 #EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「測試」",Spotv 2
-https://hls.iill.top/api/Spotv-2/index.m3u8?token=376d17ee591e81a5beb7603019b3672f9a289a01330cd81ad007b96b6c846808
+https://hls.iill.top/api/Spotv-2/index.m3u8?token=4495b7becb5ddebeeaff90a552185f42445a1952d31febbdf4401f68cbc346ba
 
