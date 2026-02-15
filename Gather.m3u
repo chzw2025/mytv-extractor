@@ -12,6 +12,8 @@ https://epg-1.iill.top/v/301.mp4
 
 #EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",春节联欢晚会「2026」
 snap.iill.top/youtube/@CCTVGala/index.m3u8
+#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",春节联欢晚会「bilibili」
+http://dxa.yiandrive.com:39191/bilibili/21686237
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
 https://hls.iill.top/api/BBC-Earth/index.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
