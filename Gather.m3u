@@ -10,12 +10,15 @@ https://epg.iill.top/v/301.mp4
 #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",建議使用：請保持 个人觀看 請勿頻繁切換
 https://epg-1.iill.top/v/301.mp4
 
-#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",春节联欢晚会「2026」
-snap.iill.top/youtube/@CCTVGala/index.m3u8
-#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",春节联欢晚会「bilibili」
+#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",2026春节联欢晚会「YouTube」
+https://snap.iill.top/youtube/@CCTVGala/index.m3u8
+#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",2026春节联欢晚会「bilibili」
 http://dxa.yiandrive.com:39191/bilibili/1922214722
-#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",探班春晚！带你看马年春晚台前幕后「bilibili」
-http://dxa.yiandrive.com:39191/bilibili/21686237
+#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",2026春节联欢晚会「bilibili」
+https://d1--cn-gotcha204.bilivideo.com/live-bvc/766030/live_501554611_87938747_maxhdr/index.m3u8
+#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",2026春节联欢晚会「抖音」
+http://pull-hls-spe-l6.douyinliving.com/fantasy/stream-118852785363485366_uhd/index.m3u8?k=296292b41e4bcb41&t=1771319945
+​
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
 https://hls.iill.top/api/BBC-Earth/index.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
