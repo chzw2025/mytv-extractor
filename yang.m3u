@@ -460,6 +460,8 @@ https://epg-1.iill.top/v/301.mp4
 #EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",春节联欢晚会「2026」
 snap.iill.top/youtube/@CCTVGala/index.m3u8
 #EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",春节联欢晚会「bilibili」
+http://dxa.yiandrive.com:39191/bilibili/1922214722
+#EXTINF:-1 tvg-id="春节联欢晚会" tvg-name="春节联欢晚会" tvg-logo="https://yt3.googleusercontent.com/hFZztrKcRRS4Ti2BzbzjX53yCj4pzWWW-TCNwOHACNd3FERU47BP7U3s0LjjhnGOTxA6YyYk" group-title="•春节联欢晚会「2026」",探班春晚！带你看马年春晚台前幕后「bilibili」
 http://dxa.yiandrive.com:39191/bilibili/21686237
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
 https://hls.iill.top/api/BBC-Earth/index.m3u8
@@ -566,15 +568,15 @@ https://881.touch-u.fun/playlist.m3u8
 #EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="•港澳「限制」",叱咤903「电台」
 https://903.touch-u.fun/playlist.m3u8
 #EXTINF:-1 tvg-id="Now新聞台" tvg-name="Now新聞台" tvg-logo="https://epg.iill.top/logo/Now新聞台.png" group-title="•港澳「限制」",Now新聞台
-https://yang-1989.eu.org/live/now-332
+https://b.ttvb.eu.org/tvb/now-332/index.m3u8
 #EXTINF:-1 tvg-id="Now財經台" tvg-name="Now財經台" tvg-logo="https://epg.iill.top/logo/Now財經台.png" group-title="•港澳「限制」",Now財經台
-https://yang-1989.eu.org/live/now-333
+https://b.ttvb.eu.org/tvb/now-333/index.m3u8
 #EXTINF:-1 tvg-id="Now Sports 精選" tvg-name="Now Sports 精選" tvg-logo="https://epg.iill.top/logo/Now Sports 精選.png" group-title="•港澳「限制」",Now Sports 精選
-https://yang-1989.eu.org/live/now-630
+https://b.ttvb.eu.org/tvb/now-630/index.m3u8
 #EXTINF:-1 tvg-id="ViuTV" tvg-name="ViuTV" tvg-logo="https://epg.iill.top/logo/ViuTV.png" group-title="•港澳「限制」",ViuTV
-https://yang-1989.eu.org/live/ViuTV
+https://b.ttvb.eu.org/tvb/ViuTV/index.m3u8
 #EXTINF:-1 tvg-id="ViuTVsix" tvg-name="ViuTVsix" tvg-logo="https://epg.iill.top/logo/ViuTVsix.png" group-title="•港澳「限制」",ViuTVsix
-https://yang-1989.eu.org/live/ViuTVsix
+https://b.ttvb.eu.org/tvb/ViuTVsix/index.m3u8
 #EXTINF:-1 tvg-id="HOY 國際財經台" tvg-name="HOY 國際財經台" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「限制」",HOY 國際財經台
 https://hoytv-live-stream.hoy.tv/ch76/index-fhd.m3u8
 #EXTINF:-1 tvg-id="HOY TV" tvg-name="HOY TV" tvg-logo="https://epg.iill.top/logo/HOY.png" group-title="•港澳「限制」",HOY TV
