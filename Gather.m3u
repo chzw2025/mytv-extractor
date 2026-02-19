@@ -14,6 +14,8 @@ https://epg-1.iill.top/v/301.mp4
 https://hls.iill.top/api/TVB-Jade/index.m3u8
 #EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•綜合「測試」",無綫新聞台
 https://hls.iill.top/api/TVB-News/index.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•綜合「測試」",TVB Plus
+https://hls.iill.top/api/TVB-Plus/index.m3u8
 #EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
 https://hls.iill.top/api/BBC-Earth/index.m3u8
 #EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
