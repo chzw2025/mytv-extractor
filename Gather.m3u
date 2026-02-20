@@ -485,24 +485,8 @@ http://dxa.yiandrive.com:39191/gztv/xinwen
 http://dxa.yiandrive.com:39191/gztv/fazhi
 #EXTINF:-1 tvg-id="南国都市4K" tvg-name="南国都市4K" tvg-logo="https://epg.iill.top/logo/广州南国.png" group-title="•地方「特产」",广州南国都市
 http://dxa.yiandrive.com:39191/gztv/shenghuo
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" tvg-logo="https://epg.iill.top/logo/东方卫视4K.png" group-title="•地方「特产」",东方卫视
-https://tv.iill.top/kdf/dfws
-#EXTINF:-1 tvg-id="五星体育" tvg-name="五星体育" tvg-logo="https://epg.iill.top/logo/五星体育.png" group-title="•地方「特产」",五星体育
-https://tv.iill.top/kdf/wxty
-#EXTINF:-1 tvg-id="上海第一财经" tvg-name="上海第一财经" tvg-logo="https://epg.iill.top/logo/第一财经.png" group-title="•地方「特产」",第一财经
-https://tv.iill.top/kdf/dycj
-#EXTINF:-1 tvg-id="上海新闻综合" tvg-name="上海新闻综合" tvg-logo="https://epg.iill.top/logo/上海新闻.png" group-title="•地方「特产」",上海新闻综合
-https://tv.iill.top/kdf/xwzh
-#EXTINF:-1 tvg-id="上海都市频道" tvg-name="上海都市频道" tvg-logo="https://epg.iill.top/logo/上海都市.png" group-title="•地方「特产」",上海都市频道
-https://tv.iill.top/kdf/dspd
-#EXTINF:-1 tvg-id="新纪实" tvg-name="新纪实" tvg-logo="https://epg.iill.top/logo/新纪实.png" group-title="•地方「特产」",新纪实
-https://tv.iill.top/kdf/xjs
-#EXTINF:-1 tvg-id="魔都眼" tvg-name="魔都眼" tvg-logo="https://epg.iill.top/logo/魔都眼.png" group-title="•地方「特产」",魔都眼
-https://tv.iill.top/kdf/mdy
-#EXTINF:-1 tvg-id="爱上海" tvg-name="爱上海" tvg-logo="https://epg.iill.top/logo/爱上海.png" group-title="•地方「特产」",爱上海
-https://tv.iill.top/kdf/ash
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•地方「特产」",浙江卫视
-https://tv.iill.top/migu/zjws
+http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•地方「特产」",湖南卫视「回看」
 https://tv.iill.top/migu/hnws
 #EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" tvg-logo="https://epg.iill.top/logo/辽宁卫视.png" group-title="•地方「特产」",辽宁卫视「回看」
