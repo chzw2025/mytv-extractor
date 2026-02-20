@@ -101,11 +101,11 @@ https://hls.iill.top/api/Spotv-2/index.m3u8
 #INSERT_HERE
 
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
-http://dxa.yiandrive.com:39191/phenix/fhzw
+https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·資訊「回看」
-http://dxa.yiandrive.com:39191/phenix/fhzx
+https://tv.iill.top/phenix/fhzx
 #EXTINF:-1 tvg-id="鳳凰衛視香港台" tvg-name="鳳凰衛視香港台" tvg-logo="https://epg.iill.top/logo/凤凰香港.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·香港「回看」
-http://dxa.yiandrive.com:39191/phenix/fhhk
+https://tv.iill.top/phenix/fhhk
 #EXTINF:-1 tvg-id="商業電台 雷霆881" tvg-name="商業電台 雷霆881" tvg-logo="https://epg.iill.top/logo/雷霆881.png" group-title="•港澳「限制」",雷霆881「电台」
 https://881.touch-u.fun/playlist.m3u8
 #EXTINF:-1 tvg-id="商業電台 叱咤903" tvg-name="商業電台 叱咤903" tvg-logo="https://epg.iill.top/logo/叱咤903.png" group-title="•港澳「限制」",叱咤903「电台」
