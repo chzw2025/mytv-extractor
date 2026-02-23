@@ -503,7 +503,7 @@ https://tv.iill.top/kdf/mdy
 https://tv.iill.top/kdf/ash
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•地方「特产」",浙江卫视
 http://ali-xwl.cztv.com/live/channel011080Plxw.m3u8
-卫视.png" group-title="•地方「特产」",浙江卫视 4K
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://epg.iill.top/logo/浙江卫视.png" group-title="•地方「特产」",浙江卫视 4K
 http://play-qukan.cztv.com/live/1758879019692345.m3u8
 #EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://epg.iill.top/logo/湖南卫视.png" group-title="•地方「特产」",湖南卫视「回看」
 https://tv.iill.top/migu/hnws
