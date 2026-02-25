@@ -152,10 +152,6 @@ https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPla
 https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/stream05/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="RTHK35" tvg-name="RTHK35" tvg-logo="https://epg.iill.top/logo/RTHK35.png" group-title="•港澳「限制」",RTHK 35
 https://rthktv35-live.akamaized.net/hls/live/2101643/RTHKTV35/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="RTHK36" tvg-name="RTHK36" tvg-logo="https://epg.iill.top/logo/RTHK36.png" group-title="•港澳「限制」",RTHK 36
-https://rthktv36-live.akamaized.net/hls/live/2112176/RTHKTV36/master.m3u8
-#EXTINF:-1 tvg-id="莲花卫视" tvg-name="莲花卫视" tvg-logo="https://epg.iill.top/logo/澳门莲花.png" group-title="•港澳「限制」",澳門蓮花
-https://tv.iill.top/mo/lotustv
 #EXTINF:-1 tvg-id="澳門衛星" tvg-name="澳門衛星" tvg-logo="https://epg.iill.top/logo/澳门Macau.png" group-title="•港澳「限制」",澳門Macau
 https://live5.tdm.com.mo/ch3/ch3.live/playlist.m3u8
 #EXTINF:-1 tvg-id="澳門葡萄牙" tvg-name="澳門葡萄牙" tvg-logo="https://epg.iill.top/logo/澳视葡文.png" group-title="•港澳「限制」",澳門葡文
