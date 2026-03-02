@@ -129,7 +129,7 @@ https://hls.iill.top/api/Spotv-1/index.m3u8
 https://hls.iill.top/api/Spotv-2/index.m3u8
 #EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="•體育「測試」",Sky Sports Cricket
 https://hls.iill.top/api/Sky-Sports-Cricket/index.m3u8
-#EXTINF:-1 tvg-id="SkySp PL" tvg-name="SkySp PL" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育「測試」",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育「測試」",Sky Sports Premier League
 https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
 #EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="•體育「測試」",Sky Sports F1
 https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
