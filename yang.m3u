@@ -457,136 +457,100 @@ https://epg.iill.top/v/301.mp4
 #EXTINF:-1 tvg-id="免费订阅" tvg-name="免费订阅" tvg-logo="https://epg-1.iill.top/logo/温馨提示.png" group-title="•溫馨「提示」",建議使用：請保持 个人觀看 請勿頻繁切換
 https://epg-1.iill.top/v/301.mp4
 
-#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•綜合「測試」", 翡翠台
-https://hls.iill.top/api/TVB-Jade/index.m3u8
-#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•綜合「測試」",TVB Plus
-https://hls.iill.top/api/TVB-Plus/index.m3u8
-#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•綜合「測試」",無綫新聞台
-https://hls.iill.top/api/TVB-News/index.m3u8
-#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•綜合「測試」",明珠台
-https://hls.iill.top/api/TVB-Pearl/index.m3u8
-#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「測試」",BBC Earth
-https://hls.iill.top/api/BBC-Earth/index.m3u8
-#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「測試」",BBC Lifestyle
-https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
-#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•綜合「測試」",Discovery
-https://hls.iill.top/api/Discovery/index.m3u8
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.iill.top/logo/HBO.png" group-title="•綜合「測試」",HBO
-https://hls.iill.top/api/HBO/index.m3u8
-#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://epg.iill.top/logo/HBO-Hits.png" group-title="•綜合「測試」",HBO Hits
-https://hls.iill.top/api/HBO-Hits/index.m3u8
-#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://epg.iill.top/logo/HBO-Family.png" group-title="•綜合「測試」",HBO Family
-https://hls.iill.top/api/HBO-Family/index.m3u8
-#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://epg.iill.top/logo/HBO-Signature.png" group-title="•綜合「測試」",HBO Signature
-https://hls.iill.top/api/HBO-Signature/index.m3u8
-#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" group-title="•綜合「測試」",動物星球
-https://hls.iill.top/api/Animal-Planet/index.m3u8
-#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" group-title="•綜合「測試」",中天綜合
-https://hls.iill.top/api/Cti-K/index.m3u8
-#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" group-title="•綜合「測試」",中天娛樂
-https://hls.iill.top/api/Cti-E/index.m3u8
-#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•綜合「測試」",緯來日本
-https://hls.iill.top/api/VL-Japan/index.m3u8
-#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•綜合「測試」",緯來體育
-https://hls.iill.top/api/VL-Sports/index.m3u8
-#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•綜合「測試」",緯來電影
-https://hls.iill.top/api/VL-Movies/index.m3u8
-#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://epg.iill.top/logo/緯來綜合.png" group-title="•綜合「測試」",緯來綜合
-https://hls.iill.top/api/VL-ONTV/index.m3u8
-#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://epg.iill.top/logo/緯來戲劇.png" group-title="•綜合「測試」",緯來戲劇
-https://hls.iill.top/api/VL-Drama/index.m3u8
-#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.iill.top/logo/緯來育樂.png" group-title="•綜合「測試」",緯來育樂
-https://hls.iill.top/api/VL-E/index.m3u8
-#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" group-title="•綜合「測試」",東森電影
-https://hls.iill.top/api/ET-Movie/index.m3u8
-#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" group-title="•綜合「測試」",東森洋片
-https://hls.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
-#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://epg.iill.top/logo/東森綜合台.png" group-title="•綜合「測試」",東森綜合
-https://hls.iill.top/api/ET-Variety-Channel/index.m3u8
-#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://epg.iill.top/logo/東森戲劇台.png" group-title="•綜合「測試」",東森戲劇
-https://hls.iill.top/api/ET-Drama-Channel/index.m3u8
-#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://epg.iill.top/logo/東森幼幼台.png" group-title="•綜合「測試」",東森幼幼
-https://hls.iill.top/api/YoYo-TV/index.m3u8
-#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.iill.top/logo/好萊塢電影台.png" group-title="•綜合「測試」",好萊塢電影
-https://hls.iill.top/api/Hollywood-Movie/index.m3u8
-#EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" group-title="•綜合「測試」",龍祥時代
-https://hls.iill.top/api/LSTIME-Movie/index.m3u8
-#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" group-title="•綜合「測試」",CINEMAX
-https://hls.iill.top/api/Cinemax/index.m3u8
-#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.iill.top/logo/MTV.png" group-title="•綜合「測試」",MTV Live
-https://hls.iill.top/api/MTV-Live/index.m3u8
-
-#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="•體育「測試」", Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://epg-1.iill.top/logo/Eurosport-1.png"  group-title="•體育「Relay」", Eurosport 1
 https://hls.iill.top/api/Eurosport-1/index.m3u8
-#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="•體育「測試」", Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://epg-1.iill.top/logo/Eurosport-2.png"  group-title="•體育「Relay」", Eurosport 2
 https://hls.iill.top/api/Eurosport-2/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「測試」", TNT Sport 1
+#EXTINF:-1 tvg-id="TNT Sports 1 HD" tvg-name="TNT Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-1.png"  group-title="•體育「Relay」", TNT Sport 1
 https://hls.iill.top/api/TNT-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="•體育「測試」", TNT Sport 2
+#EXTINF:-1 tvg-id="TNT Sports 2 HD" tvg-name="TNT Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-2.png"  group-title="•體育「Relay」", TNT Sport 2
 https://hls.iill.top/api/TNT-Sports-2/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育「測試」", TNT Sport 3
+#EXTINF:-1 tvg-id="TNT Sports 3 HD" tvg-name="TNT Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-3.png" group-title="•體育「Relay」", TNT Sport 3
 https://hls.iill.top/api/TNT-Sports-3/index.m3u8
-#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「測試」", TNT Sport 4
+#EXTINF:-1 tvg-id="TNT Sports 4 HD" tvg-name="TNT Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/TNT-Sports-4.png" group-title="•體育「Relay」", TNT Sport 4
 https://hls.iill.top/api/TNT-Sports-4/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="•體育「測試」",beIN Sports 1
+#EXTINF:-1 tvg-id="beIN Sports HD" tvg-name="beIN Sports HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-1.png" group-title="•體育「Relay」",beIN Sports 1
 https://hls.iill.top/api/beIN-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="•體育「測試」",beIN Sports 2
+#EXTINF:-1 tvg-id="beIN Sports 2 HD" tvg-name="beIN Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-2.png" group-title="•體育「Relay」",beIN Sports 2
 https://hls.iill.top/api/beIN-Sports-2/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「測試」",beIN Sports 3
+#EXTINF:-1 tvg-id="beIN Sports 3" tvg-name="beIN Sports 3" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-3.png" group-title="•體育「Relay」",beIN Sports 3
 https://hls.iill.top/api/beIN-Sports-3/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="•體育「測試」",beIN Sports 4
+#EXTINF:-1 tvg-id="beIN Sports 4" tvg-name="beIN Sports 4" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-4.png" group-title="•體育「Relay」",beIN Sports 4
 https://hls.iill.top/api/beIN-Sports-4/index.m3u8
-#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-5.png" group-title="•體育「測試」",beIN Sports 5
+#EXTINF:-1 tvg-id="beIN Sports 5" tvg-name="beIN Sports 5" tvg-logo="https://epg-1.iill.top/logo/beIN-Sports-5.png" group-title="•體育「Relay」",beIN Sports 5
 https://hls.iill.top/api/beIN-Sports-5/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「測試」",Hub Premier 1
+#EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-1.png" group-title="•體育「Relay」",Hub Premier 1
 https://hls.iill.top/api/Hub-Premier-1/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「測試」",Hub Premier 2
+#EXTINF:-1 tvg-id="Hub Premier 2 (HD)" tvg-name="Hub Premier 2 (HD)" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-2.png" group-title="•體育「Relay」",Hub Premier 2
 https://hls.iill.top/api/Hub-Premier-2/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="•體育「測試」",Hub Premier 3
+#EXTINF:-1 tvg-id="Hub Premier 3" tvg-name="Hub Premier 3" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-3.png" group-title="•體育「Relay」",Hub Premier 3
 https://hls.iill.top/api/Hub-Premier-3/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="•體育「測試」",Hub Premier 4
+#EXTINF:-1 tvg-id="Hub Premier 4" tvg-name="Hub Premier 4" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-4.png" group-title="•體育「Relay」",Hub Premier 4
 https://hls.iill.top/api/Hub-Premier-4/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="•體育「測試」",Hub Premier 5
+#EXTINF:-1 tvg-id="Hub Premier 5" tvg-name="Hub Premier 5" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-5.png" group-title="•體育「Relay」",Hub Premier 5
 https://hls.iill.top/api/Hub-Premier-5/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="•體育「測試」",Hub Premier 6
+#EXTINF:-1 tvg-id="Hub Premier 6" tvg-name="Hub Premier 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-6.png" group-title="•體育「Relay」",Hub Premier 6
 https://hls.iill.top/api/Hub-Premier-6/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="•體育「測試」",Hub Premier 7
+#EXTINF:-1 tvg-id="Hub Premier 7" tvg-name="Hub Premier 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-7.png" group-title="•體育「Relay」",Hub Premier 7
 https://hls.iill.top/api/Hub-Premier-7/index.m3u8
-#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="•體育「測試」",Hub Premier 8
+#EXTINF:-1 tvg-id="Hub Premier 8" tvg-name="Hub Premier 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Premier-8.png" group-title="•體育「Relay」",Hub Premier 8
 https://hls.iill.top/api/Hub-Premier-8/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="•體育「測試」",Hub Sports 1
+#EXTINF:-1 tvg-id="Hub Sports 1 HD" tvg-name="Hub Sports 1 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-1.png" group-title="•體育「Relay」",Hub Sports 1
 https://hls.iill.top/api/Hub-Sports-1/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="•體育「測試」",Hub Sports 2
+#EXTINF:-1 tvg-id="Hub Sports 2 HD" tvg-name="Hub Sports 2 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-2.png" group-title="•體育「Relay」",Hub Sports 2
 https://hls.iill.top/api/Hub-Sports-2/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="•體育「測試」",Hub Sports 3
+#EXTINF:-1 tvg-id="Hub Sports 3 HD" tvg-name="Hub Sports 3 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-3.png" group-title="•體育「Relay」",Hub Sports 3
 https://hls.iill.top/api/Hub-Sports-3/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="•體育「測試」",Hub Sports 4
+#EXTINF:-1 tvg-id="Hub Sports 4 HD" tvg-name="Hub Sports 4 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-4.png" group-title="•體育「Relay」",Hub Sports 4
 https://hls.iill.top/api/Hub-Sports-4/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="•體育「測試」",Hub Sports 5
+#EXTINF:-1 tvg-id="Hub Sports 5 HD" tvg-name="Hub Sports 5 HD" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-5.png" group-title="•體育「Relay」",Hub Sports 5
 https://hls.iill.top/api/Hub-Sports-5/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="•體育「測試」",Hub Sports 6
+#EXTINF:-1 tvg-id="Hub Sports 6" tvg-name="Hub Sports 6" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-6.png" group-title="•體育「Relay」",Hub Sports 6
 https://hls.iill.top/api/Hub-Sports-6/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="•體育「測試」",Hub Sports 7
+#EXTINF:-1 tvg-id="Hub Sports 7" tvg-name="Hub Sports 7" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-7.png" group-title="•體育「Relay」",Hub Sports 7
 https://hls.iill.top/api/Hub-Sports-7/index.m3u8
-#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="•體育「測試」",Hub Sports 8
+#EXTINF:-1 tvg-id="Hub Sports 8" tvg-name="Hub Sports 8" tvg-logo="https://epg-1.iill.top/logo/Hub-Sports-8.png" group-title="•體育「Relay」",Hub Sports 8
 https://hls.iill.top/api/Hub-Sports-8/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="•體育「測試」",Spotv 1
+#EXTINF:-1 tvg-id="SPOTV" tvg-name="SPOTV" tvg-logo="https://epg-1.iill.top/logo/Spotv-1.png" group-title="•體育「Relay」",Spotv 1
 https://hls.iill.top/api/Spotv-1/index.m3u8
-#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「測試」",Spotv 2
+#EXTINF:-1 tvg-id="SPOTV2" tvg-name="SPOTV2" tvg-logo="https://epg-1.iill.top/logo/Spotv-2.png" group-title="•體育「Relay」",Spotv 2
 https://hls.iill.top/api/Spotv-2/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="•體育「測試」",Sky Sports Cricket
+#EXTINF:-1 tvg-id="SkySp Cricket" tvg-name="SkySp Cricket" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Cricket.png" group-title="•體育「Relay」",Sky Sports Cricket
 https://hls.iill.top/api/Sky-Sports-Cricket/index.m3u8
-#EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育「測試」",Sky Sports Premier League
+#EXTINF:-1 tvg-id="SkySp PL HD" tvg-name="SkySp PL HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Premier-League.png" group-title="•體育「Relay」",Sky Sports Premier League
 https://hls.iill.top/api/Sky-Sports-EPL/index.m3u8
-#EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="•體育「測試」",Sky Sports F1
+#EXTINF:-1 tvg-id="SkySp F1" tvg-name="SkySp F1" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-F1.png" group-title="•體育「Relay」",Sky Sports F1
 https://hls.iill.top/api/Sky-Sports-F1/index.m3u8
-#EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="•體育「測試」",Sky Sports Mix
+#EXTINF:-1 tvg-id="SkySp Mix HD" tvg-name="SkySp Mix HD" tvg-logo="https://epg-1.iill.top/logo/Sky-Sports-Mix.png" group-title="•體育「Relay」",Sky Sports Mix
 https://hls.iill.top/api/Sky-Sports-Mix/index.m3u8
-#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「測試」",Fight Sports
+#EXTINF:-1 tvg-id="FIGHT SPORTS HD" tvg-name="FIGHT SPORTS HD" tvg-logo="https://epg-1.iill.top/logo/Fight-Sports.png" group-title="•體育「Relay」",Fight Sports
 https://hls.iill.top/api/Fight-Sports/index.m3u8
 
-#INSERT_HERE
+#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•綜合「Relay」",Red Bull TV
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 tvg-id="BBC Earth" tvg-name="BBC Earth" tvg-logo="https://epg.iill.top/logo/BBC-Earth.png" group-title="•綜合「Relay」",BBC Earth
+https://hls.iill.top/api/BBC-Earth/index.m3u8
+#EXTINF:-1 tvg-id="BBC Lifestyle" tvg-name="BBC Lifestyle" tvg-logo="https://epg.iill.top/logo/BBC-Lifestyle.png" group-title="•綜合「Relay」",BBC Lifestyle
+https://hls.iill.top/api/BBC-Lifestyle/index.m3u8
+#EXTINF:-1 tvg-id="Discovery HD" tvg-name="Discovery HD" tvg-logo="https://epg.iill.top/logo/Discovery-Channel.png" group-title="•綜合「Relay」",Discovery
+https://hls.iill.top/api/Discovery/index.m3u8
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="HBO HD" tvg-logo="https://epg.iill.top/logo/HBO.png" group-title="•綜合「Relay」",HBO
+https://hls.iill.top/api/HBO/index.m3u8
+#EXTINF:-1 tvg-id="HBO Hits HD" tvg-name="HBO Hits HD" tvg-logo="https://epg.iill.top/logo/HBO-Hits.png" group-title="•綜合「Relay」",HBO Hits
+https://hls.iill.top/api/HBO-Hits/index.m3u8
+#EXTINF:-1 tvg-id="HBO Family HD" tvg-name="HBO Family HD" tvg-logo="https://epg.iill.top/logo/HBO-Family.png" group-title="•綜合「Relay」",HBO Family
+https://hls.iill.top/api/HBO-Family/index.m3u8
+#EXTINF:-1 tvg-id="HBO Signature HD" tvg-name="HBO Signature HD" tvg-logo="https://epg.iill.top/logo/HBO-Signature.png" group-title="•綜合「Relay」",HBO Signature
+https://hls.iill.top/api/HBO-Signature/index.m3u8
 
+#EXTINF:-1 tvg-id="翡翠台" tvg-name="翡翠台" tvg-logo="https://epg.iill.top/logo/翡翠台.png" group-title="•港澳「限制」", 翡翠台
+https://hls.iill.top/api/TVB-Jade/index.m3u8
+#EXTINF:-1 tvg-id="TVB Plus" tvg-name="TVB Plus" tvg-logo="https://epg.iill.top/logo/TVBPlus.png" group-title="•港澳「限制」",TVB Plus
+https://hls.iill.top/api/TVB-Plus/index.m3u8
+#EXTINF:-1 tvg-id="無綫新聞台" tvg-name="無綫新聞台" tvg-logo="https://epg.iill.top/logo/無綫新聞台.png" group-title="•港澳「限制」",無綫新聞台
+https://hls.iill.top/api/TVB-News/index.m3u8
+#EXTINF:-1 tvg-id="明珠台" tvg-name="明珠台" tvg-logo="https://epg.iill.top/logo/明珠台.png" group-title="•港澳「限制」",明珠台
+https://hls.iill.top/api/TVB-Pearl/index.m3u8
 #EXTINF:-1 tvg-id="鳳凰衛視中文台" tvg-name="鳳凰衛視中文台" tvg-logo="https://epg.iill.top/logo/凤凰中文.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·中文「回看」
 https://tv.iill.top/phenix/fhzw
 #EXTINF:-1 tvg-id="鳳凰衛視資訊台" tvg-name="鳳凰衛視資訊台" tvg-logo="https://epg.iill.top/logo/凤凰资讯.png" http-user-agent="FengWatch/5.4.14" group-title="•港澳「限制」",鳳凰衛視·資訊「回看」
@@ -660,12 +624,26 @@ https://tv.iill.top/FainTV/125
 https://tv.iill.top/FainTV/53
 #EXTINF:-1 tvg-id="博斯魅力台" tvg-name="博斯魅力台" tvg-logo="https://epg-1.iill.top/logo/博斯魅力台.png" group-title="•台湾「限制」", 博斯魅力「FainTV」
 https://tv.iill.top/FainTV/135
-#EXTINF:-1 tvg-id="MOMO運動綜合台" tvg-name="MOMO運動綜合台" tvg-logo="https://epg-1.iill.top/logo/MOMO運動綜合台.png" group-title="•台湾「限制」",MOMO運動綜合「FainTV」
-https://tv.iill.top/FainTV/14009
+#EXTINF:-1 tvg-id="緯來日本台" tvg-name=緯來日本台" tvg-logo="https://epg.iill.top/logo/緯來日本.png" group-title="•台湾「限制」",緯來日本「Relay」
+https://hls.iill.top/api/VL-Japan/index.m3u8
+#EXTINF:-1 tvg-id="緯來體育台" tvg-name="緯來體育台" tvg-logo="https://epg.iill.top/logo/緯來體育.png" group-title="•台湾「限制」",緯來體育「Relay」
+https://hls.iill.top/api/VL-Sports/index.m3u8
+#EXTINF:-1 tvg-id="緯來電影台" tvg-name="緯來電影台" tvg-logo="https://epg.iill.top/logo/緯來電影.png" group-title="•台湾「限制」",緯來電影「Relay」
+https://hls.iill.top/api/VL-Movies/index.m3u8
+#EXTINF:-1 tvg-id="緯來綜合台" tvg-name="緯來綜合台" tvg-logo="https://epg.iill.top/logo/緯來綜合.png" group-title="•台湾「限制」",緯來綜合「Relay」
+https://hls.iill.top/api/VL-ONTV/index.m3u8
+#EXTINF:-1 tvg-id="緯來戲劇台" tvg-name="緯來戲劇台" tvg-logo="https://epg.iill.top/logo/緯來戲劇.png" group-title="•台湾「限制」",緯來戲劇「Relay」
+https://hls.iill.top/api/VL-Drama/index.m3u8
+#EXTINF:-1 tvg-id="緯來育樂台" tvg-name="緯來育樂台" tvg-logo="https://epg.iill.top/logo/緯來育樂.png" group-title="•台湾「限制」",緯來育樂「Relay」
+https://hls.iill.top/api/VL-E/index.m3u8
 #EXTINF:-1 tvg-id="中天亞洲台" tvg-name="中天亞洲台" tvg-logo="https://epg-1.iill.top/logo/中天亞洲台.png" group-title="•台湾「限制」", 中天亞洲「FainTV」
 https://tv.iill.top/FainTV/121
 #EXTINF:-1 tvg-id="中天新聞台" tvg-name="中天新聞台" tvg-logo="https://epg.iill.top/logo/中天新聞台.png" group-title="•台湾「限制」",中天新聞「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv009
+#EXTINF:-1 tvg-id="中天綜合台" tvg-name="中天綜合台" tvg-logo="https://epg.iill.top/logo/中天綜合台.png" group-title="•台湾「限制」",中天綜合「Relay」
+https://hls.iill.top/api/Cti-K/index.m3u8
+#EXTINF:-1 tvg-id="中天娛樂台" tvg-name="中天娛樂台" tvg-logo="https://epg.iill.top/logo/中天娛樂台.png" group-title="•台湾「限制」",中天娛樂「Relay」
+https://hls.iill.top/api/Cti-E/index.m3u8
 #EXTINF:-1 tvg-id="中視" tvg-name="中視" tvg-logo="https://epg.iill.top/logo/中視.png" group-title="•台湾「限制」",中視「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv040
 #EXTINF:-1 tvg-id="中視新聞" tvg-name="中視新聞" tvg-logo="https://epg.iill.top/logo/中視新聞.png" group-title="•台湾「限制」",中視新聞「4gTV」
@@ -674,6 +652,16 @@ https://tv.iill.top/4gtv/4gtv-4gtv074
 https://tv.iill.top/4gtv/4gtv-4gtv152
 #EXTINF:-1 tvg-id="東森財經新聞台" tvg-name="東森財經新聞台" tvg-logo="https://epg.iill.top/logo/東森財經新聞台.png" group-title="•台湾「限制」",東森財經「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv153
+#EXTINF:-1 tvg-id="東森電影台" tvg-name="東森電影台" tvg-logo="https://epg.iill.top/logo/東森電影台.png" group-title="•台湾「限制」",東森電影「Relay」
+https://hls.iill.top/api/ET-Movie/index.m3u8
+#EXTINF:-1 tvg-id="東森洋片台" tvg-name="東森洋片台" tvg-logo="https://epg.iill.top/logo/東森洋片台.png" group-title="•台湾「限制」",東森洋片「Relay」
+https://hls.iill.top/api/ET-Foreign-Movie-Channel/index.m3u8
+#EXTINF:-1 tvg-id="東森綜合台" tvg-name="東森綜合台" tvg-logo="https://epg.iill.top/logo/東森綜合台.png" group-title="•台湾「限制」",東森綜合「Relay」
+https://hls.iill.top/api/ET-Variety-Channel/index.m3u8
+#EXTINF:-1 tvg-id="東森戲劇台" tvg-name="東森戲劇台" tvg-logo="https://epg.iill.top/logo/東森戲劇台.png" group-title="•台湾「限制」",東森戲劇「Relay」
+https://hls.iill.top/api/ET-Drama-Channel/index.m3u8
+#EXTINF:-1 tvg-id="東森幼幼台" tvg-name="東森幼幼台" tvg-logo="https://epg.iill.top/logo/東森幼幼台.png" group-title="•台湾「限制」",東森幼幼「Relay」
+https://hls.iill.top/api/YoYo-TV/index.m3u8
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="•台湾「限制」",TVBS「4gTV」
 https://tv.iill.top/4gtv/media-live073
 #EXTINF:-1 tvg-id="TVBS新聞" tvg-name="TVBS新聞" tvg-logo="https://epg.iill.top/logo/TVBS新聞.png" group-title="•台湾「限制」",TVBS 新聞「4gTV」
@@ -758,6 +746,16 @@ https://tv.iill.top/4gtv/4gtv-4gtv004
 https://tv.iill.top/4gtv/4gtv-live207
 #EXTINF:-1 tvg-id="三立新聞iNEWS" tvg-name="三立新聞iNEWS" tvg-logo="https://epg.iill.top/logo/三立新聞iNEWS.png" group-title="•台湾「限制」",三立新聞iNEWS「4gTV」
 https://tv.iill.top/4gtv/4gtv-live089
+#EXTINF:-1 tvg-id="動物星球" tvg-name="動物星球" tvg-logo="https://epg.iill.top/logo/動物星球.png" group-title="•台湾「限制」",動物星球「Relay」
+https://hls.iill.top/api/Animal-Planet/index.m3u8
+#EXTINF:-1 tvg-id="好萊塢電影台" tvg-name="好萊塢電影台" tvg-logo="https://epg.iill.top/logo/好萊塢電影台.png" group-title="•台湾「限制」",好萊塢電影「Relay」
+https://hls.iill.top/api/Hollywood-Movie/index.m3u8
+#EXTINF:-1 tvg-id="LS Time電影台" tvg-name="LS Time電影台" tvg-logo="https://epg.iill.top/logo/龍祥時代.png" group-title="•台湾「限制」",龍祥時代「Relay」
+https://hls.iill.top/api/LSTIME-Movie/index.m3u8
+#EXTINF:-1 tvg-id="CINEMAX" tvg-name="CINEMAX" tvg-logo="https://epg.iill.top/logo/CINEMAX.png" group-title="•台湾「限制」",CINEMAX「Relay」
+https://hls.iill.top/api/Cinemax/index.m3u8
+#EXTINF:-1 tvg-id="MTV" tvg-name="MTV" tvg-logo="https://epg.iill.top/logo/MTV.png" group-title="•台湾「限制」",MTV Live「Relay」
+https://hls.iill.top/api/MTV-Live/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.iill.top/logo/愛爾達娛樂台.png" group-title="•台湾「限制」",愛爾達娛樂「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv070
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://epg.iill.top/logo/愛爾達生活旅遊台.png" group-title="•台湾「限制」",愛爾達生活旅遊「4gTV」
@@ -892,6 +890,8 @@ https://tv.iill.top/4gtv/4gtv-4gtv043
 https://tv.iill.top/4gtv/4gtv-live008
 #EXTINF:-1 tvg-id="ETtoday綜合台" tvg-name="ETtoday綜合台" tvg-logo="https://epg-1.iill.top/logo/ETtoday綜合台.png" group-title="•台湾「限制」",ETtoday綜合「FainTV」
 https://tv.iill.top/FainTV/146
+#EXTINF:-1 tvg-id="MOMO運動綜合台" tvg-name="MOMO運動綜合台" tvg-logo="https://epg-1.iill.top/logo/MOMO運動綜合台.png" group-title="•台湾「限制」",MOMO運動綜合「FainTV」
+https://tv.iill.top/FainTV/14009
 #EXTINF:-1 tvg-id="歡樂看新聞" tvg-name="歡樂看新聞" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" group-title="•台湾「限制」",歡樂看新聞「FainTV」
 https://tv.iill.top/FainTV/19670
 #EXTINF:-1 tvg-id="歡樂兒童台" tvg-name="歡樂兒童台" tvg-logo="https://epg-1.iill.top/logo/FainTV.png" group-title="•台湾「限制」",歡樂兒童「FainTV」
@@ -982,8 +982,6 @@ https://ytb.178.indevs.in/?id=vr3XyVCR4T0
 #EXTINF:-1 tvg-id="TVBS" tvg-name="TVBS" tvg-logo="https://epg.iill.top/logo/TVBS.png" group-title="• Juli 「精選」",TVBS「YouTube」
 https://ytb.178.indevs.in/?id=o_-hSMgpAzs
 
-#EXTINF:-1 tvg-id="Red Bull TV" tvg-name="Red Bull TV" tvg-logo="https://epg.iill.top/logo/RedBull.png" group-title="•地方「特产」",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
 #EXTINF:-1 tvg-id="广东体育" tvg-name="广东体育" tvg-logo="https://epg.iill.top/logo/广东体育.png" group-title="•地方「特产」",广东体育
 http://r.jdshipin.com/LiYdg
 #EXTINF:-1 tvg-id="广东珠江" tvg-name="广东珠江" tvg-logo="https://epg.iill.top/logo/广东珠江.png" group-title="•地方「特产」",广东珠江
