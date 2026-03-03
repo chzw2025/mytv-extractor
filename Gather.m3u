@@ -226,7 +226,7 @@ https://hls.iill.top/api/MTV-Live/index.m3u8
 #EXTINF:-1 tvg-id="愛爾達娛樂台" tvg-name="愛爾達娛樂台" tvg-logo="https://epg.iill.top/logo/愛爾達娛樂台.png" group-title="•台湾「限制」",愛爾達娛樂「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv070
 #EXTINF:-1 tvg-id="愛爾達生活旅遊台" tvg-name="愛爾達生活旅遊台" tvg-logo="https://epg.iill.top/logo/愛爾達生活旅遊台.png" group-title="•台湾「限制」",愛爾達生活旅遊「4gTV」
-https://tv.iill.top/4gtv/4gtv-live12
+https://tv.iill.top/4gtv/4gtv-live120
 #EXTINF:-1 tvg-id="鏡電視新聞台" tvg-name="鏡電視新聞台" tvg-logo="https://epg.iill.top/logo/鏡電視新聞台.png" group-title="•台湾「限制」",鏡電視新聞「4gTV」
 https://tv.iill.top/4gtv/4gtv-4gtv075
 #EXTINF:-1 tvg-id="倪珍播新聞" tvg-name="倪珍播新聞" tvg-logo="https://epg.iill.top/logo/倪珍播新聞.png" group-title="•台湾「限制」" ,倪珍播新聞「ofiii」
@@ -328,7 +328,7 @@ https://tv.iill.top/4gtv/4gtv-4gtv110
 #EXTINF:-1 tvg-id="LiveABC互動英語頻道" tvg-name="LiveABC互動英語頻道" tvg-logo="https://epg.iill.top/logo/LiveABC互動英語頻道.png" group-title="•台湾「限制」",LiveABC互動英語頻道「4gTV」
 https://tv.iill.top/4gtv/4gtv-live030
 #EXTINF:-1 tvg-id="ELTV英語學習台" tvg-name="ELTV英語學習台" tvg-logo="https://epg.iill.top/logo/ELTA生活英語.png" group-title="•台湾「限制」",ELTA生活英語「4gTV」
-https://tv.iill.top/4gtv/4gtv-live132
+https://tv.iill.top/4gtv/litv-xinchuang20
 #EXTINF:-1 tvg-id="Smart知識台" tvg-name="Smart知識台" tvg-logo="https://epg.iill.top/logo/Smart知識台.png" group-title="•台湾「限制」",Smart知識「ofiii」
 https://tv.iill.top/ofiii/litv-xinchuang19
 #EXTINF:-1 tvg-id="達文西頻道" tvg-name="達文西頻道" tvg-logo="https://epg.iill.top/logo/達文西頻道.png" group-title="•台湾「限制」",達文西頻道「4gTV」
